@@ -1,0 +1,93 @@
+
+img.my_inline.my_float-left {
+	float: left;
+    margin-right: 5px;
+}
+.post-content img.my_inline {
+    margin:0px;
+    margin-bottom:6px;
+}
+
+.post-content img.my_post-content-image {
+	margin-top: 0;
+	margin-bottom: 1em;
+}
+
+.post-content img.my_post-content-image.my_margin-top-10 {
+	margin-top: 10px;
+}
+
+.alert.alert-info.my_alert-info {
+	color: #1d495f;
+}
+
+.nav.navbar-nav.navbar-right > li.active > a {
+	background-color: white;
+	color: rgb(52, 125, 190);
+	/* border: 1px solid red !important; */
+}
+
+
+hr.shaded1 {
+    height: 6px;
+    border: 0;
+    margin-top: 10px;
+    background: white;
+    width: 100%;
+    margin-bottom: 10px;
+    box-shadow: inset 0 6px 6px -6px rgba(0,0,0,0.5);
+}
+
+.panel-title {
+	font-size: 16px !important
+}
+
+.panel-body > ol {
+	padding-inline-start: 16px !important;
+}
+
+
+div#my_toc ul li {
+    margin: 4px 0px 4px 26px;
+    font-size: 100%;
+    list-style: square;
+}
+div#my_toc ul {
+    background-color: whitesmoke;
+    padding: 5px;
+    border-radius: 5px;
+    max-width: 300px;
+    color: gray;
+}
+
+div#my_toc ul li ul {
+    padding-left:8px;
+
+}
+
+div#my_toc ul li ul li::before {
+    content: "–  ";
+}
+
+div#my_toc >ul::before {
+    content: "Table of Contents";
+    font-weight: 500;
+    color: #555;
+    text-align:center;
+    margin-left:auto;
+    margin-right:auto;
+    width:70px;
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-left:10px;
+}
+
+.my_group-clear-after:after {
+	content: "";
+	display: table;
+	clear: both;
+  }
+
+.panel-title > a:focus {
+	text-decoration: none !important;
+}

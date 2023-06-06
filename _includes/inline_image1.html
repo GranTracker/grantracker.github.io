@@ -1,0 +1,30 @@
+{% comment %}
+Parameters:
+	src=string
+	alt=string
+	[class=string]		Any class names
+	[style=string]		Any style string
+	[margin-right] 		Number without "px"
+	[max-width=string]	Number without "px"
+	or
+	[max-height=string]	Number without "px"
+
+{% endcomment %}
+
+{% if include.style %}{% capture myStyle %}{{include.style}};{% endcapture %}{% endif %}
+{% if include.max-width %}{% capture myMaxWidth %}max-width: {{include.max-width}}px;{% endcapture %}
+{% elsif include.max-height %}{% capture myMaxHeight %}max-height: {{include.max-height}}px;{% endcapture %}
+{% endif %}
+{% if include.margin-right %}{% capture myMarginRight %}margin-right: {{include.margin-right}}px !important;{% endcapture %}{% endif %}
+
+{% if myStyle or myMaxWidth or myMaxHeight or myMarginRight %}
+{% capture myStyleString %}style= "{{myStyle}} {{myMaxWidth}} {{myMaxHeight}} {{myMarginRight}}"{% endcapture %}
+{% endif %}
+
+<img class="my_inline my_float-left{% if include.class %} {{include.class}}{% endif %}" {{myStyleString}} src="images/{{include.file}}" alt="{{include.alt}}" />
+
+{% assign myStyle = nil %}
+{% assign myMaxWidth = nil %}
+{% assign myMaxHeight = nil %}
+{% assign myMarginRight = nil %}
+{% assign myStyleString = nil %}

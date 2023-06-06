@@ -1,0 +1,85 @@
+---
+layout: default
+---
+
+<div class="post-header">
+
+	{% unless page.wip == false %}
+	<div style="margin-top: 0 !important; margin-bottom: 0 !important; padding-top: 12px !important; padding-bottom: 10px !important; padding-left: 8px !important; font-size: 12px" class="bs-callout bs-callout-warning">
+		{% include inline_image1.html file="pulling-hair.svg" style="margin-right: 10px; transform: translateY(-4px)" max-width="50" %}
+		<p style="line-height: 1.3em; transform: translateY(-2px)" class="my_group-clear-after">Documentation is never finished. But if you don't release <i>something</i>, then you've got <i>nothing</i>.<br/>
+		In other words, sorry this documentation sucks. It might suck less tomorrow. You never know.</p>
+	</div>
+	{% endunless %}
+		
+	<h1 class="post-title-main">
+		{% if page.title2 != blank %}
+			{{ page.title2 }}
+		{% else %}
+			{{ page.title }}
+		{% endif %}
+	</h1>
+</div>
+
+{% if page.simple_map == true %}
+
+<script>
+    $(document).ready ( function(){
+        $('.box{{page.box_number}}').addClass('active');
+    });
+</script>
+
+{% include custom/{{page.map_name}}.html %}
+
+{% elsif page.complex_map == true %}
+
+<script>
+    $(document).ready ( function(){
+        $('.modalButton{{page.box_number}}').addClass('active');
+    });
+</script>
+
+{% include custom/{{page.map_name}}.html %}
+
+{% endif %}
+
+<div class="post-content">
+
+   {% if page.summary %}
+    <div class="summary">{{page.summary}}</div>
+   {% endif %}
+
+    {% unless page.toc == false %}
+    {% include toc.html %}
+    {% endunless %}
+
+
+    {% if site.github_editme_path %}
+
+    <a target="_blank" rel="noopener" href="https://github.com/{{site.github_editme_path}}{{page.path}}" class="btn btn-default githubEditButton" role="button"><i class="fa fa-github fa-lg"></i> Edit me</a>
+
+    {% endif %}
+
+   {{content}}
+
+    <div class="tags">
+        {% if page.tags != null %}
+        <b>Tags: </b>
+        {% assign projectTags = site.data.tags.allowed-tags %}
+        {% for tag in page.tags %}
+        {% if projectTags contains tag %}
+        <a href="{{ "tag_" | append: tag | append: ".html" }}" class="btn btn-default navbar-btn cursorNorm" role="button">{{page.tagName}}{{tag}}</a>
+        {% endif %}
+        {% endfor %}
+        {% endif %}
+    </div>
+
+{% include commento.html %}
+
+</div>
+
+{{site.data.alerts.hr_shaded}}
+
+{% include footer.html %}
+
+{% comment %} Copyright 2021 Google LLC {% endcomment %}

@@ -1,0 +1,23 @@
+{% comment %}
+Parameters:
+	[first=true]		For the first panel in the group
+	[expanded=true]		Usually only specified for the first panel
+	groupId=string		Unique string for the group
+	panelId=string		Unique string for the panel
+	title=string		The string for the title
+{% endcomment %}
+
+{% if include.first==true %}
+<div class="panel-group" id="{{include.groupId}}">
+{% endif %}
+	<div class="panel panel-default">
+		<div class="panel-heading">
+		<h4 class="panel-title">
+			<a data-toggle="collapse" data-parent="#{{include.groupId}}" href="#{{include.panelId}}">
+				{{include.title}}
+			</a>
+		</h4>
+		</div>
+		<div id="{{include.panelId}}" class='panel-collapse collapse{% if include.expanded==true %} in{% endif %}'>
+			<div class="panel-body" markdown="1">
+			  

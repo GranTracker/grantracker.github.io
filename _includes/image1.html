@@ -1,0 +1,18 @@
+{% comment %}
+Parameters:
+	url
+	file
+	alternat
+	max-width
+	caption
+	class
+
+{% endcomment %}
+
+
+<figure>{% if {{include.url}} %}<a class="no_icon" target="_blank" rel="noopener" href="{{include.url}}">{% endif %}
+	<img class="my_post-content-image{% if include.class != blank %} {{include.class}}{% endif %}" src="images/{{include.file}}" alt="{{include.alt}}" 
+		{% if {{include.max-width}} %}style="max-width: {{include.max-width}}px"{% endif %} />
+	{% if {{include.url}} %}</a>{% endif %}
+	{% if {{include.caption}} %}<figcaption>{{include.caption}}</figcaption>{% endif %}
+</figure>
