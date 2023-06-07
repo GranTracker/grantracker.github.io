@@ -161,7 +161,7 @@ Depending you your system settings, you may get a message similar to this:
 	heading-height="68" title-padding-top="14"
 	image-file="bug-report.svg" image-max-height="48" image-margin-right="10" title="How to Report Bugs" %}
 
-Be sure to report bugs in the dedicated thread at **[GTPlanet](https://www.gtplanet.net/forum/board/gran-turismo-7/)**. I'll update this link as soon as I start the thread, which I can't do until I post my website, so it's a catch-22.
+Be sure to report bugs in the dedicated thread at **[GTPlanet](https://www.gtplanet.net/forum/threads/official-grantracker-thread.420003/)**.
  
 {% include accordion_panel_end.html last=true %}
 
