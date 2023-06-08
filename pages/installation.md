@@ -7,6 +7,12 @@ toc: false
 permalink: installation.html
 ---
 
+{% include callout.html type="danger" content='<span style="color:red"><strong>IMPORTANT!</strong></span>
+<br/><br/>If you download this version, before adding new races, <span style="color:blue"><strong>make sure you have a Race Week defined for rhe week</strong></span>.
+<br/><br/>Click on the Edit Race Week tab, then use the "Add New Race Week" button. Fill out whatever you want, then click "Save".
+<br/><br/>If you try to add a new race without having a Race Week for the race, it&#39;ll let you add the race, but then the program will crash at some point.
+<br/><br/>I&#39;m fixing this right now.' %} 
+
 ## Congratulations! You're about to be one of my fist ~~guinea pigs~~ valued users!
 
 Obviously I've done a lot of testing, but when other people start using software, they inevitably find bugs quicker than [*insert clever phrase here*].
