@@ -1,0 +1,37 @@
+{% include accordion_panel_begin.html first=true groupId="mac_security_error_top" panelId="mac_security_error_top_panel" title='If macOS tells you "GranTracker.app" cannot be opened' %}
+
+Depending you your system settings, you may get a message similar to this:
+{% include image1.html class="my_margin-top-10" file="mac-security-warning-01.png" %}
+<p>It just means I didn't pay an arm and a leg to have Apple "verify" my application.</p>
+
+{% include accordion_panel_begin.html first=true groupId="mac_security_error" panelId="mac_security_error_panel" title="Here's how you fix it" %}
+
+{% include accordion_panel_begin.html first=true expanded=true groupId="mac_security_error_00" panelId="mac_security_error_panel_01" title="1. Open System Preferences" %}
+{% include image1.html file="mac-security-warning-02.png" %}
+{% include accordion_panel_end.html %}
+
+{% include accordion_panel_begin.html groupId="mac_security_error_00" panelId="mac_security_error_panel_02" title='2. Click on "Security an Privacy"' %}
+{% include image1.html file="mac-security-warning-03.png" %}
+{% include accordion_panel_end.html %}
+
+{% include accordion_panel_begin.html groupId="mac_security_error_00" panelId="mac_security_error_panel_03" title='3. Make sure it&#39;s on the "General" tab, then click the "lock" icon in the lower right' %}
+{% include image1.html file="mac-security-warning-04.png" %}
+{% include accordion_panel_end.html %}
+
+{% include accordion_panel_begin.html groupId="mac_security_error_00" panelId="mac_security_error_panel_04" title='4. After entering your password, click the "Open Anyway" button' %}
+{% include image1.html file="mac-security-warning-05.png" %}
+{% include accordion_panel_end.html %}
+
+{% include accordion_panel_begin.html groupId="mac_security_error_00" panelId="mac_security_error_panel_05" title='5. You&#39;ll get this warning dialog:' %}
+{% include inline_image1.html file="mac-security-warning-06.png" %}
+<div class="my_group-clear-after" style="margin-top: 50px; margin-left: 40px;" markdown="1">
+<p>What this dialog says is actually true.</p>
+<p>So if you trust me not to be a scammer, then click "Open".</p>
+<p>Otherwise, click "Move to Trash" and go on with your life without <b><i>GranTracker</i></b>.</p>
+</div>
+
+{% include accordion_panel_end.html last=true%}
+
+{% include accordion_panel_end.html last=true%}
+
+{% include accordion_panel_end.html last=true %}

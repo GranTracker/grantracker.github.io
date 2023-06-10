@@ -637,6 +637,15 @@ li.activeSeries {
 
 .alert-warning {
     color: #444;
+	border-color: #d8d5c6;
+}
+
+.alert-info {
+    border-color: #a0c6ce
+}
+
+.alert-success {
+	border-color: #bdbaad;
 }
 
 div.alert code, h2 code {

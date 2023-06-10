@@ -17,7 +17,7 @@ It uses state-of-the-art OCR to get the DR/SR letters, and it examines the DR pe
 
 {% include image1.html file="screenshot-steps-11.png" max-width="400" %}
 
-All you have to do is drag the screenshot of your Player Profile page, and drop it onto *GranTracker*. (You could also use *GranTracker*'s <span style="white-space:nowrap">File->Import</span> menu item.)
+All you have to do is import the screenshot of your Player Profile page:
 
 {% include image1.html file="screenshot-steps-12.png" %}
 

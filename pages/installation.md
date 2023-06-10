@@ -7,11 +7,22 @@ toc: false
 permalink: installation.html
 ---
 
-{% include callout.html type="danger" content='<span style="color:red"><strong>IMPORTANT!</strong></span>
-<br/><br/>If you download this version, before adding new races, <span style="color:blue"><strong>make sure you have a Race Week defined for rhe week</strong></span>.
-<br/><br/>Click on the Edit Race Week tab, then use the "Add New Race Week" button. Fill out whatever you want, then click "Save".
-<br/><br/>If you try to add a new race without having a Race Week for the race, it&#39;ll let you add the race, but then the program will crash at some point.
-<br/><br/>I&#39;m fixing this right now.' %} 
+<h2>Current Version is v1.0.1.</h2>
+
+
+<div class="alert alert-success my_alert-flexbox my_group-clear-after">
+{% include image1.html max-width="62" file="auto-upgrade.svg" class="my_alert-flexbox-image"%}
+<div class="my_alert-flexbox-text-120" style="padding-top: 10px" markdown="1">For existing users, [click here](downloads.html) to upgrade to the latest version.
+</div>
+</div>
+
+<hr class="shaded1" style="margin-top: 30px !important; margin-bottom: 20px !important" />
+
+<div id="firstTimeUserAlert" class="alert alert-info my_alert-flexbox my_group-clear-after">
+{% include image1.html file="car-dealer.svg" class="my_alert-flexbox-image"%}
+<div class="my_alert-flexbox-text-120" style="padding-top: 10px" markdown="1">Potential User, or Just Browsing? Read on...
+</div>
+</div>
 
 ## Congratulations! You're about to be one of my fist ~~guinea pigs~~ valued users!
 
@@ -37,43 +48,9 @@ So ~~if~~ when you find a bug, see the **Reporting Bugs** section below.
 <li>Then try to run it.</li>
 </ol>
 
-Depending you your system settings, you may get a message similar to this:
-{% include image1.html class="my_margin-top-10" file="mac-security-warning-01.png" %}
-<p>It just means I didn't pay an arm and a leg to have Apple "verify" my application.</p>
-
-{% include accordion_panel_begin.html first=true groupId="mac_security_error" panelId="mac_security_error_panel" title="Here's how you fix it" %}
-
-{% include accordion_panel_begin.html first=true expanded=true groupId="mac_security_error_00" panelId="mac_security_error_panel_01" title="1. Open System Preferences" %}
-{% include image1.html file="mac-security-warning-02.png" %}
-{% include accordion_panel_end.html %}
-
-{% include accordion_panel_begin.html groupId="mac_security_error_00" panelId="mac_security_error_panel_02" title='2. Click on "Security an Privacy"' %}
-{% include image1.html file="mac-security-warning-03.png" %}
-{% include accordion_panel_end.html %}
-
-{% include accordion_panel_begin.html groupId="mac_security_error_00" panelId="mac_security_error_panel_03" title='3. Make sure it&#39;s on the "General" tab, then click the "lock" icon in the lower right' %}
-{% include image1.html file="mac-security-warning-04.png" %}
-{% include accordion_panel_end.html %}
-
-{% include accordion_panel_begin.html groupId="mac_security_error_00" panelId="mac_security_error_panel_04" title='4. After entering your password, click the "Open Anyway" button' %}
-{% include image1.html file="mac-security-warning-05.png" %}
-{% include accordion_panel_end.html %}
-
-{% include accordion_panel_begin.html groupId="mac_security_error_00" panelId="mac_security_error_panel_05" title='5. You&#39;ll get this warning dialog:' %}
-{% include inline_image1.html file="mac-security-warning-06.png" %}
-<div class="my_group-clear-after" style="margin-top: 50px; margin-left: 40px;" markdown="1">
-<p>What this dialog says is actually true.</p>
-<p>So if you trust me not to be a scammer, then click "Open".</p>
-<p>Otherwise, click "Move to Trash" and go on with your life without <b><i>GranTracker</i></b>.</p>
-</div>
-
-{% include accordion_panel_end.html last=true%}
+{% include security_warning_mac.html %}
 
 {% include accordion_panel_end.html last=true %}
-
-{% include accordion_panel_end.html last=true %}
-
-
 
 {% include accordion_panel_begin_with_image.html first=true groupId="windows_install" panelId="windows_install_0" 
 	heading-height="51" title-padding-top="6"
@@ -96,28 +73,10 @@ Depending you your system settings, you may get a message similar to this:
 <li>When all the files have been unzipped, double-click the executable <b>GranTracker</b> (or <b>GranTracker.exe</b>).</li>
 </ol>
 
-{% include accordion_panel_begin.html first=true groupId="windows_security_error" panelId="windows_security_error_panel" title='If Windows tries to "protect your computer"...' %}
-
-{% include accordion_panel_begin.html first=true expanded=true groupId="windows_security_error_00" panelId="windows_security_error_panel_01" title='Windows may display a warning message, like this:' %}
-{% include image1.html file="windows-security-warning-01.png" %}
-{% include accordion_panel_end.html %}
-
-{% include accordion_panel_begin.html groupId="windows_security_error_00" panelId="windows_security_error_panel_02" title='Click "More info"' %}
-{% include image1.html file="windows-security-warning-02.png" %}
-{% include accordion_panel_end.html %}
-
-{% include accordion_panel_begin.html groupId="windows_security_error_00" panelId="windows_security_error_panel_03" title='You&#39;ll get this final warning dialog:' %}
-{% include inline_image1.html file="windows-security-warning-03.png" %}
-<div class="my_group-clear-after" style="margin-top: 50px; margin-left: 40px;" markdown="1">
-<p>Assuming you trust me not to be a scammer, then click "Run anyway".</p>
-<p>Otherwise, click "Don&#39;t run", move the files to rhe recycle bin, and go on with your life without <b><i>GranTracker</i></b>.</p>
-</div>
+{% include security_warning_windows.html %}
 
 {% include accordion_panel_end.html last=true %}
 
-{% include accordion_panel_end.html last=true%}
-
-{% include accordion_panel_end.html last=true %}
 
 <hr class="shaded1" style="margin-top: 30px !important; margin-bottom: 5px !important" />
 

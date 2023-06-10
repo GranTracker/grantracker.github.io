@@ -1,0 +1,38 @@
+{% comment %}
+Parameters:
+	type=string 	"info", "success", "warning", "danger"
+	[icon=string] 	Any FontAwesome font, will default to appropriate font for the type
+					Pass "none" to not have an icon.
+	[class=string]
+	[style=string]
+	[divId=string]
+	[contentId]
+
+{% endcomment %}
+
+{% if include.icon %}
+	{% assign myIconFont="{{include.icon}}" %}	
+{% else %}
+	{% case include.type %}
+		{% when "none" %}
+			{% assign myIconFont=nil %}
+		{% when "success" %}
+			{% assign myIconFont="fa-check-square-o" %}
+		{% when "warning" %}
+			{% assign myIconFont="fa-warning" %}
+		{% when "danger" %}
+			{% assign myIconFont="fa-exclamation-circle" %}
+		{% else %}
+			{% assign myIconFont="fa fa-info-circle" %}
+	{% endcase %}
+{% endif %}
+
+{% if myIconFont %}
+	{% capture myIconHtml %}<i class='fa {{myIconFont}}'></i>{% endcapture %}
+{% else %}
+	{% assign myIconHtml="" %}
+{% endif %}
+
+<div markdown="span" {% if include.divId %}id="{{include.divId}}"{% endif %} class="alert alert-{{ include.type }} my_alert-{{ include.type }} {% if include.class %}{{include.class}}{% endif %}" role="alert" {% if include.style %}style="{{include.style}}"{% endif %}>{{ myIconHtml }} <span {% if include.contentId %}id="{{include.contentId}}"{% endif %}>{{include.content}}</span></div>
+
+{% assign myIconHtml=nil %}

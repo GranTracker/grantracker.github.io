@@ -21,6 +21,22 @@ img.my_inline.my_float-left {
 	color: #1d495f;
 }
 
+.my_alert-flexbox {
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	align-items: center;
+	gap: 8px;
+	padding: 10px !important;
+}
+.my_alert-flexbox-image {
+	margin-bottom: 0 !important;
+}
+.my_alert-flexbox-text-120 {
+	font-size: 1.2em;
+	font-weight: bold;
+}
+
 .nav.navbar-nav.navbar-right > li.active > a {
 	background-color: white;
 	color: rgb(52, 125, 190);
@@ -90,4 +106,8 @@ div#my_toc >ul::before {
 
 .panel-title > a:focus {
 	text-decoration: none !important;
+}
+
+.my_hidden {
+	display: none !important;
 }

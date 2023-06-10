@@ -1,0 +1,22 @@
+{% comment %}
+Parameters:
+	type=string 			"info", "success", "warning", "danger"
+	image-file
+	[image-style]			
+	[image-margin-right] 	Without "px"
+
+	[image-max-width] 		Without "px"
+	or
+	[image-max-height] 		Without "px"
+
+	[class]
+	[style]
+	[content-style]
+	[divId]
+
+{% endcomment %}
+
+<div markdown="span" {% if include.divId %}id="{{include.divId}}"{% endif %} class="alert alert-{{ include.type }} my_alert-{{ include.type }} my_group-clear-after {% if include.class %}{{include.class}}{% endif %}" role="alert" {% if include.style %}style="{{include.style}}"{% endif %}>
+	{% include inline_image1.html file=include.image-file max-width=include.image-max-width max-height=include.image-max-height margin-right=include.image-margin-right style=image-style %}
+	{{include.content}}
+</div>
