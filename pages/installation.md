@@ -38,7 +38,7 @@ So ~~if~~ when you find a bug, see the **Reporting Bugs** section below.
 %}
 
 <ol>
-<li><a href="https://github.com/GranTracker/GranTracker.Data/raw/main/GranTracker.macOS.v1.0.0.zip"><b>Download the Mac version.</b></a></li>
+<li><a href="https://github.com/GranTracker/GranTracker.Data/raw/main/GranTracker.macOS.v{{site.data.currentVersionInfo.appVersion}}.zip"><b>Download the Mac version.</b></a></li>
 <li>Double-click the file to unzip it, if your Mac didn’t unzip it automatically.
 
 <p style="margin-top: 10px"><span style="color:blue"><strong>DO NOT</strong></span> run the program from your <span style="color:blue"><strong>Downloads</strong></span> folder. Recent versions of macOS will “sandbox” any application you downloaded into the Downloads folder, and the application will not work correctly.</p>
@@ -58,7 +58,7 @@ So ~~if~~ when you find a bug, see the **Reporting Bugs** section below.
 %}
 
 <ol>
-<li><a href="https://github.com/GranTracker/GranTracker.Data/raw/main/GranTracker.windows.v1.0.0.zip"><b>Download the Windows version.</b></a></li>
+<li><a href="https://github.com/GranTracker/GranTracker.Data/raw/main/GranTracker.macOS.v{{site.data.currentVersionInfo.appVersion}}.zip"><b>Download the Windows version.</b></a></li>
 <li>Unzip the files into a new folder.
 
 <ul>
