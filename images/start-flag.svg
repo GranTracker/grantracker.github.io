@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="60"
+   height="52"
+   viewBox="0 0 187.50001 162.5001"
+   version="1.1"
+   id="svg183"
+   sodipodi:docname="start-flag.svg"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs187" />
+  <sodipodi:namedview
+     id="namedview185"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     showgrid="false"
+     inkscape:zoom="2.1802832"
+     inkscape:cx="26.831377"
+     inkscape:cy="13.759681"
+     inkscape:current-layer="svg183" />
+  <path
+     id="Selection"
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     d="m 58.848801,69.248924 -18.58,32.999996 -21.84,38.00001 c -1.18,2.06 -5.75,11.95 -8.9800002,9.83 -2.96,-1.94 2.4000002,-9.81 3.6000002,-11.83 l 19.08,-33.00001 41.57,-71.999996 9.88,-16.979999 c 1.12,-1.79 3.13,-5.16 5.74,-3.85 0.98,0.49 3.62,4.63 4.67,5.83 3.56,4.079999 7.199999,7.279999 11.859999,9.999999 L 95.518591,46.18558 c -6.56657,-3.426931 -10.68979,-7.766656 -15.66979,-12.936656 -1.59,3.31 -8.51,14.4 -8.45,17 0.14,5.48 13.155138,15.408512 13.155138,15.408512 0,0 -6.805138,13.051488 -8.705138,16.591488 -7.09,-2.35 -11.84,-7.85 -17,-13 z m 37,-22 c 3.65,1.57 19.293559,7.273466 19.293559,7.273466 l 9.1731,-15.613619 c 0,0 16.34334,3.500153 20.53334,5.340153 l -10,18 19,8 -10,18 -19,-8 10,-18 -20,-7 -10,18 19.35833,7.254138 c -0.82,4.03 -10.21,17.668322 -10.21,17.668322 0,0 -15.788329,-5.44246 -19.148329,-6.92246 l 9.999999,-18 -18.999999,-8 z m 67.999999,6 c 4.81,1.6 15.06,8.38 15.08,14 0,3.29 -7.02,13.85 -9.08,17 l -9,-8.54 c -1.7,-1.43 -6.07581,-5.63 -6.07581,-5.63 0,0 7.19581,-13.69 9.07581,-16.83 z m -21,36 c 5.17,1.28 16.2,8.87 15.16,14.999996 l -8.16,16.00001 -16,-13.00001 z"
+     inkscape:label="Flag"
+     style="fill:#000000;fill-opacity:1"
+     sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccc" />
+</svg>

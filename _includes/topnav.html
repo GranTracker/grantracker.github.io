@@ -15,18 +15,16 @@
                 <!-- toggle sidebar button -->
                 <!-- <li><a id="tg-sb-link" href="#"><i id="tg-sb-icon" class="fa fa-toggle-on"></i> Nav</a></li> -->
                 <!-- entries without drop-downs appear here -->
-
-{% assign topnav = site.data[page.topnav] %}
-{% assign topnav_dropdowns = site.data[page.topnav].topnav_dropdowns %}
-
-                {% for entry in topnav.topnav %}
-                {% for item in entry.items %}
-                {% if item.external_url %}
+{% assign topnav = site.data[page.topnav] -%}
+{% assign topnav_dropdowns = site.data[page.topnav].topnav_dropdowns -%}
+                {% for entry in topnav.topnav -%}
+                {% for item in entry.items -%}
+                {% if item.external_url -%}
                 <li><a href="{{item.external_url}}" target="_blank" rel="noopener">{{item.title}}</a></li>
-                {% else %}
+                {% else -%}
                 	<li {% if page.url contains item.url %} class="active" {% endif %}>
 						<a href="{{item.url | remove: "/"}}">
-						{% if item.icon != blank %}
+						{% if item.icon != blank -%}
 							<i class="fa {{item.icon}}" aria-hidden="true">
 						</i> {% endif %}{{item.title}}</a>
 					</li>
@@ -42,16 +40,19 @@
 						{% if folder.icon != blank %}
 							<i class="fa {{folder.icon}}" aria-hidden="true">
 						</i> {% endif %}{{ folder.title }}<b class="caret"></b></a>
-                    <ul class="dropdown-menu">
-                        {% for folderitem in folder.folderitems %}
-                        {% if folderitem.external_url %}
-                        <li><a href="{{folderitem.external_url}}" target="_blank" rel="noopener">{{folderitem.title}}</a></li>
-                        {% elsif page.url contains folderitem.url %}
-                        <li class="dropdownActive"><a href="{{folderitem.url |  remove: "/"}}">{{folderitem.title}}</a></li>
-                        {% else %}
-                        <li><a href="{{folderitem.url | remove: "/"}}">{{folderitem.title}}</a></li>
-                        {% endif %}
-                        {% endfor %}
+                    <ul class="dropdown-menu my_dropdown">
+                        {% for folderitem in folder.folderitems -%}
+							{% if folderitem.external_url -%}
+								<li><a href="{{folderitem.external_url}}" target="_blank" rel="noopener">{{folderitem.title}}</a></li>
+							{% else -%}
+								<li {% if page.url contains folderitem.url %}class="dropdownActive"{% endif %}>
+									<div class="my_dropdown-menu-item my_group-clear-after">
+										{% include inline_image1.html file=folderitem.image-file max-height=folderitem.image-max-height margin-right=folderitem.image-margin-right %}
+										<a href="{{folderitem.url | remove: "/"}}">{{folderitem.title}}</a>
+									</div>
+								</li>
+							{% endif -%}
+                        {% endfor -%}
                     </ul>
                 </li>
                 {% endfor %}

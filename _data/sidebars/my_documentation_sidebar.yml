@@ -1,0 +1,14 @@
+entries:
+- title: Sidebar
+  levels: one
+  folders:
+
+  - title: Documentation
+    output: web
+    folderitems:
+    - title: Screen Layout
+      url: /doc_screen_layout.html
+      output: web
+    - title: Application Menu
+      url: /doc_app_menu.html
+      output: web

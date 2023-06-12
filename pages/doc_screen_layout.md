@@ -1,0 +1,19 @@
+---
+title: "Screen Layout"
+title2: "Screen Layout"
+sidebar: my_documentation_sidebar
+hide_sidebar: false
+toc: false
+permalink: doc_screen_layout.html
+---
+
+{% include image1.html file="doc-overview-01.png" url="images/doc-overview-01.png" caption="Click to view full-size" %}
+
+<p style="font-size: 120%; font-weight: bold">Legend:</p>
+
+1. **[Application Menu](doc_app_menu.html)**. Don't forget that it's here. It has a few things you can't do anywhere else.
+2. **Account Dropdown**. You can store race info for multiple accounts.
+3. **Tabs**. Allows you to look at different ***GranTracker*** "screens".
+4. **Tab Screen Area**. When you click on a tab, its screen appears here.
+5. **Import Race from Screenshot**. Click this to start importing a screenshot. You *may* also be able to drop a file on ***GranTracker*** to start the import. This should work for Macs, but I was having trouble getting it to work on Windows.
+6. **Options**. 

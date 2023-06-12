@@ -5,6 +5,7 @@ Parameters:
 	alternat
 	max-width
 	caption
+	caption-style
 	class
 
 {% endcomment %}
@@ -14,5 +15,5 @@ Parameters:
 	<img class="my_post-content-image{% if include.class != blank %} {{include.class}}{% endif %}" src="images/{{include.file}}" alt="{{include.alt}}" 
 		{% if {{include.max-width}} %}style="max-width: {{include.max-width}}px"{% endif %} />
 	{% if {{include.url}} %}</a>{% endif %}
-	{% if {{include.caption}} %}<figcaption>{{include.caption}}</figcaption>{% endif %}
+	{% if {{include.caption}} %}<figcaption {% if {{include.caption-style}} %}style="{{include.caption-style}}"{% endif %}>{{include.caption}}</figcaption>{% endif %}
 </figure>
