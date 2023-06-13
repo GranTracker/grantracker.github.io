@@ -7,7 +7,7 @@ toc: false
 permalink: installation.html
 ---
 
-<h2>Current Version is v1.0.1.</h2>
+<h2>Current Version is {{site.data.currentVersionInfo.appVersion}}.</h2>
 
 
 <div class="alert alert-success my_alert-flexbox my_group-clear-after">
@@ -63,10 +63,7 @@ So ~~if~~ when you find a bug, see the **Reporting Bugs** section below.
 
 <ul>
 <li><span style="color:blue"><strong>DO NOT</strong></span> put them in any of the <span style="color:blue"><strong>Program Files</strong></span> folders - <i><b>GranTracker</b></i> needs write access to whatever folder you put them into.</li>
-<li>It might take a while to unzip the files, depending on your computer. And if you look closely at the progress dialog, you might be alarmed at the number of files it copies:</li>
-{% include image1.html file="windows-install-01.png" %}
-
-<p>There are technical reasons why there's so many files, and in a future version I may be able to change that. But for now, just go with it. Go do a Qualifying Lap if you get impatient.</p>
+<li>It might take a while to unzip the files, depending on your computer. </li>
 </ul>
 </li>
 

@@ -18,7 +18,7 @@ custom-javascript-list: ["js/downloadsPage.js"]
 	{% include inline_image1.html max-width="48"  file="police-car.svg" %}
 
 	<p style="margin-left: 65px" id="userVersionAlertContent">You have version $userVersion$ of GranTracker, which is out of date.
-	<br/>Why not pull over and upgrade to the latest version. See below for more info.</p>
+	<br>Why not pull over and upgrade to the latest version. See below for more info.</p>
 </div>
 
 ### The latest version of ***GranTracker*** is {{site.data.currentVersionInfo.appVersion}}
@@ -27,7 +27,18 @@ custom-javascript-list: ["js/downloadsPage.js"]
 	heading-height="55" title-padding-top="7"
 	image-file="old-car.svg" image-max-height="35" image-margin-right="10" title="<span style='font-size: 1.2em'>Version History</span>" %}
 
-{% include accordion_panel_begin.html first=true groupId="version_1_0_1" panelId="version_1_0_1_p1" expanded=true title="v1.0.1" %}
+
+{% include accordion_panel_begin.html first=true groupId="version_1_1_0" panelId="version_1_1_0_p1" expanded=true title="v1.1.0" %}
+
+### New Feature:
+
+You can now keep track of more than just Daily Races. For example, Manufacturers Cups.
+
+For more info, [click here](doc_tips.html)
+
+{% include accordion_panel_end.html %}
+
+{% include accordion_panel_begin.html groupId="version_1_0_1" panelId="version_1_0_1_p1" expanded=true title="v1.0.1" %}
 
 ### Bug Fixes:
 

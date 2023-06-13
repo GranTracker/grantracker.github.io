@@ -2,7 +2,12 @@ entries:
 - title: Sidebar
   levels: one
   folders:
-
+  - title: Tips &amp; FAQ
+    output: web
+    folderitems:
+    - title: Tips
+      url: /doc_tips.html
+      output: web
   - title: Documentation
     output: web
     folderitems:

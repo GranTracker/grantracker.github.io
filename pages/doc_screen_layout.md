@@ -5,7 +5,10 @@ sidebar: my_documentation_sidebar
 hide_sidebar: false
 toc: false
 permalink: doc_screen_layout.html
+wip: false
 ---
+
+### NOTE: Use the navigation panel on the left (or above, on mobile devices) to jump to specific topics.
 
 {% include image1.html file="doc-overview-01.png" url="images/doc-overview-01.png" caption="Click to view full-size" %}
 
