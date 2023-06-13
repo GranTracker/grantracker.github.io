@@ -58,7 +58,7 @@ So ~~if~~ when you find a bug, see the **Reporting Bugs** section below.
 %}
 
 <ol>
-<li><a href="https://github.com/GranTracker/GranTracker.Data/raw/main/GranTracker.macOS.v{{site.data.currentVersionInfo.appVersion}}.zip"><b>Download the Windows version.</b></a></li>
+<li><a href="https://github.com/GranTracker/GranTracker.Data/raw/main/GranTracker.windows.v{{site.data.currentVersionInfo.appVersion}}.zip"><b>Download the Windows version.</b></a></li>
 <li>Unzip the files into a new folder.
 
 <ul>
