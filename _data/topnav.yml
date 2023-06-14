@@ -24,7 +24,7 @@ topnav_dropdowns:
       icon: fa-question-circle
       folderitems:
         - title: FAQ &amp; Tips
-          url: doc_faq_tips.html
+          url: doc_faq.html
           icon: fa-lightbulb-o
         - title: Documentation
           url: doc_screen_layout.html

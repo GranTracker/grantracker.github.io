@@ -1,10 +1,10 @@
 ---
-title: "FAQ &amp; Tips"
-title2: "FAQ &amp; Tips"
+title: "FAQ"
+title2: "FAQ"
 sidebar: my_documentation_sidebar
 hide_sidebar: false
 toc: false
-permalink: doc_faq_tips.html
+permalink: doc_faq.html
 wip: false
 ---
 
@@ -34,27 +34,5 @@ Here's the solution, directly from the user (slightly edited for clarity). This 
 >Now it works, thank you!
 
 Many thanks to "Kamikatze" for his help.
-
-{% include accordion_panel_end.html last=true %}
-
-
-## Tips
-
-{% include accordion_panel_begin.html first=true groupId="tips_00" panelId="tip_01" title='Adding Manufacturers Cups Races (and other race types)' %}
-
-Version 1.1.0 of ***GranTracker*** gives you the ability to add Daily Races for additional letters, so you're not limited to just "A", "B", and "C".
-
-Use the additional letters for other races, like Manufacturers Cup races.
-
-This isn't the perfect solution, because you'll have to remember what the letters stand for, but at least it lets you keep the racing stats so you can track your DR, etc.
-
-![](images/doc-tip-01-01.png)
-![](images/doc-tip-01-02.png)
-![](images/doc-tip-01-03.png)
-
-Now when you import a new race, you have the additional letters to choose from:
-
-![](images/doc-tip-01-04.png)
-![](images/doc-tip-01-05.png)
 
 {% include accordion_panel_end.html last=true %}

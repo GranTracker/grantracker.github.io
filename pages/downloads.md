@@ -28,17 +28,33 @@ custom-javascript-list: ["js/downloadsPage.js"]
 	image-file="old-car.svg" image-max-height="35" image-margin-right="10" title="<span style='font-size: 1.2em'>Version History</span>" %}
 
 
-{% include accordion_panel_begin.html first=true groupId="version_1_1_0" panelId="version_1_1_0_p1" expanded=true title="v1.1.0" %}
+{% include accordion_panel_begin.html first=true groupId="version" panelId="version_1_1_1_p1" expanded=true title="v1.1.1" %}
+
+### Updated Feature:
+
+* Building on the ability to add Race Week Races with custom letters, which was introduced in v1.1.0, you can now enter a description for the custom race, so you can tell what the new letter is for.
+
+  For more info, see "**Adding Manufacturers Cups Races (and other race types)**" in [**Tips**](doc_tips.html)
+
+* Added an "Edit->Cut" menu item.
+
+### Bug Fixes:
+
+* Fixed a bug that caused the application to crash when importing a screenshot that wasn't formatted correctly.
+
+{% include accordion_panel_end.html %}
+
+{% include accordion_panel_begin.html groupId="version" panelId="version_1_1_0_p1" title="v1.1.0" %}
 
 ### New Feature:
 
 You can now keep track of more than just Daily Races. For example, Manufacturers Cups.
 
-For more info, [click here](doc_tips.html)
+For more info, see "**Adding Manufacturers Cups Races (and other race types)**" in [**Tips**](doc_tips.html)
 
 {% include accordion_panel_end.html %}
 
-{% include accordion_panel_begin.html groupId="version_1_0_1" panelId="version_1_0_1_p1" expanded=true title="v1.0.1" %}
+{% include accordion_panel_begin.html groupId="version" panelId="version_1_0_1_p1" title="v1.0.1" %}
 
 ### Bug Fixes:
 
@@ -47,7 +63,7 @@ For more info, [click here](doc_tips.html)
 
 {% include accordion_panel_end.html %}
 
-{% include accordion_panel_begin.html groupId="version_1_0_0" panelId="version_1_0_0_p1" expanded=true title="v1.0.0" %}
+{% include accordion_panel_begin.html groupId="version" panelId="version_1_0_0_p1" title="v1.0.0" %}
 
 Initial release.
 
@@ -63,7 +79,7 @@ Initial release.
 {% include accordion_panel_begin.html first=true expanded=true groupId="upgrade_1" panelId="upgrade_01" title="1. Download the new version" %}
 
 * macOS: <a href="https://github.com/GranTracker/GranTracker.Data/raw/main/GranTracker.macOS.v{{site.data.currentVersionInfo.appVersion}}.zip"><b>Download v{{site.data.currentVersionInfo.appVersion}} for the Mac</b></a>
-* Windows: <a href="https://github.com/GranTracker/GranTracker.Data/raw/main/GranTracker.windows.v{{site.data.currentVersionInfo.appVersion}}.zip"><b>Download v{{site.data.currentVersionInfo.appVersion}} for Windows</b></
+* Windows: <a href="https://github.com/GranTracker/GranTracker.Data/raw/main/GranTracker.windows.v{{site.data.currentVersionInfo.appVersion}}.zip"><b>Download v{{site.data.currentVersionInfo.appVersion}} for Windows</b>
 
 {% include accordion_panel_end.html %}
 

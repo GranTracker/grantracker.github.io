@@ -5,8 +5,11 @@ entries:
   - title: FAQ &amp; Tips
     output: web
     folderitems:
-    - title: FAQ/Tips
-      url: /doc_faq_tips.html
+    - title: FAQ
+      url: /doc_faq.html
+      output: web
+    - title: Tips
+      url: /doc_tips.html
       output: web
   - title: Documentation
     output: web
