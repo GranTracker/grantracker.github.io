@@ -20,11 +20,11 @@ topnav:
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
-    - title: Tips, FAQ &amp; Docs
+    - title: FAQ, Tips &amp; Docs
       icon: fa-question-circle
       folderitems:
-        - title: Tips &amp; FAQ
-          url: doc_tips.html
+        - title: FAQ &amp; Tips
+          url: doc_faq_tips.html
           icon: fa-lightbulb-o
         - title: Documentation
           url: doc_screen_layout.html

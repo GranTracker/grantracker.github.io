@@ -21,6 +21,8 @@ All you have to do is import the screenshot of your Player Profile page:
 
 {% include image1.html file="screenshot-steps-12.png" %}
 
+{% include alert.html type="warning" content="**NOTE**: If you get an error importing a screenshot, please see the [FAQ](doc_faq_tips.html) for help." %}
+
 *GranTracker* parses the screenshot, and lets you enter the details of the race (like starting position, ending position, etc).
 
 {% include image1.html file="screenshot-steps-13.png" %}
