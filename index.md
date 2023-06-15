@@ -1,14 +1,12 @@
 ---
-title: "Introducing GranTracker for Gran Turismo 7™️"
-#title2: "Introducing <i>GranTracker</i> for Gran Turismo 7™️"
+title: "Home"
+title2: "Introducing <i>GranTracker</i> for Gran Turismo 7™️"
 sidebar: mydoc_sidebar
 hide_sidebar: true
 toc: false
-permalink: index.html
 wip: false
+permalink: index.html
 ---
-
-# Introducing <i>GranTracker</i> for Gran Turismo 7™️
 
 {% include image.html file="splash-image.png" max-width="1100" caption="*GranTracker* is completely free, and runs on Windows and Mac."%}
 

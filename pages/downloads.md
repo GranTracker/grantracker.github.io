@@ -1,9 +1,10 @@
 ---
 title: "GranTracker: Downloads"
-title2: "<i>GranTracker</i>: Downloads"
+title2: "Downloads"
 sidebar: mydoc_sidebar
 hide_sidebar: true
 toc: false
+wip: false
 permalink: downloads.html
 custom-javascript-list: ["js/downloadsPage.js"]
 ---

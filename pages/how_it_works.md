@@ -1,9 +1,10 @@
 ---
-title: "GranTracker: How it Works"
-title2: "<i>GranTracker</i>: How it Works"
+title: "How it Works"
+title2: "How Does <i>GranTracker</i> Work?"
 sidebar: mydoc_sidebar
 hide_sidebar: true
 toc: true
+wip: false
 permalink: how_it_works.html
 ---
 

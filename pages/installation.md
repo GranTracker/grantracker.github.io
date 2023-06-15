@@ -1,9 +1,10 @@
 ---
-title: "GranTracker: Installation"
-title2: "<i>GranTracker</i>: Download and Installation"
+title: "Download &amp; Installation"
+title2: "Download &amp; Installation"
 sidebar: mydoc_sidebar
 hide_sidebar: true
 toc: false
+wip: false
 permalink: installation.html
 ---
 

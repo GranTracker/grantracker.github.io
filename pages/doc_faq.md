@@ -5,13 +5,7 @@ sidebar: my_documentation_sidebar
 hide_sidebar: false
 toc: false
 permalink: doc_faq.html
-wip: false
 ---
-
-NOTE: This is a work-in-progress, and I'll probably be updating it a lot in the near future.
-
-## FAQ
-
 {% include accordion_panel_begin.html first=true groupId="faq_00" panelId="faq_01" title='Problems Importing a Screenshot' %}
 
 One of my users encountered a problem which has a simple solution, but I'm not sure how to describe it. So please bear with me. And if you can think of a better way of describing this, let me know.

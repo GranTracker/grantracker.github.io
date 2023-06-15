@@ -4,13 +4,13 @@ title2: "Screen Layout"
 sidebar: my_documentation_sidebar
 hide_sidebar: false
 toc: false
-permalink: doc_screen_layout.html
 wip: false
+permalink: doc_screen_layout.html
 ---
 
 ### NOTE: Use the navigation panel on the left (or above, on mobile devices) to jump to specific topics.
 
-{% include image1.html file="doc-overview-01.png" url="images/doc-overview-01.png" caption="Click to view full-size" %}
+{% include image1.html file="doc/screen-layout-01.png" url="images/doc/screen-layout-01.png" caption="Click to view full-size" %}
 
 <p style="font-size: 120%; font-weight: bold">Legend:</p>
 

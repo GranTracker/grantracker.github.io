@@ -5,11 +5,18 @@ layout: default
 <div class="post-header">
 
 	{% unless page.wip == false %}
+
+	<blockquote class="wip">
+		<i class="fa fa-info-circle" style="font-size: 150% !important"></i> Work In Progress
+	</blockquote>
+
+	{% comment %}
 	<div style="margin-top: 0 !important; margin-bottom: 0 !important; padding-top: 12px !important; padding-bottom: 10px !important; padding-left: 8px !important; font-size: 12px" class="bs-callout bs-callout-warning">
 		{% include inline_image1.html file="pulling-hair.svg" style="margin-right: 10px; transform: translateY(-4px)" max-width="50" %}
 		<p style="line-height: 1.3em; transform: translateY(-2px)" class="my_group-clear-after">Documentation is never finished. But if you don't release <i>something</i>, then you've got <i>nothing</i>.<br/>
 		In other words, sorry this documentation sucks. It might suck less tomorrow. You never know.</p>
 	</div>
+	{% endcomment %}
 	{% endunless %}
 		
 	<h1 class="post-title-main">
