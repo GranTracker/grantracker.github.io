@@ -12,9 +12,6 @@ topnav:
     - title: Download & Installation
       url: installation.html
       icon: fa-download
-#    - title: Documentation
-#      url: doc_screen_layout.html
-#      icon: fa-book
 
 #Topnav dropdowns
 topnav_dropdowns:
@@ -27,8 +24,5 @@ topnav_dropdowns:
           url: doc_faq.html
           icon: fa-lightbulb-o
         - title: Documentation
-          url: doc_screen_layout.html
+          url: doc_overview.html
           icon: fa-book
-#          image-file: "start-flag.svg"
-#          image-max-height: "20"
-#          image-margin-right: "10"

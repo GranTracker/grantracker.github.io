@@ -6,9 +6,10 @@ hide_sidebar: false
 toc: false
 wip: true
 permalink: doc_tips.html
+custom-javascript-list: ["js/acordionUncollapseOnUrlReference.js"]
 ---
 
-{% include accordion_panel_begin.html first=true groupId="tips_00" panelId="tip_01" title='Adding Manufacturers Cups Races (and other race types)' %}
+{% include accordion_panel_begin.html first=true groupId="tips_01" panelId="tip_01" title='Adding Manufacturers Cups Races (and other race types)' %}
 
 Version 1.1.0 of ***GranTracker*** gives you the ability to add Daily Races for additional letters, so you're not limited to just "A", "B", and "C". Version 1.1.1 expanded on that, allowing you to enter a description for the aforementioned Daily Races.
 
@@ -30,3 +31,7 @@ And it shows up in the list of races that week, with the new description:
 
 
 {% include accordion_panel_end.html last=true %}
+
+{% include accordion_panel_begin.html first=true groupId="tips_02" panelId="tip_02" title='Adding/Editing Account Color Schemes' %}
+
+TBD. It's time for dinner, but I wanted to publish what I'd done up until now.

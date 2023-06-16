@@ -352,10 +352,10 @@ a.accordion-toggle, a.accordion-collapsed {
 
 
 .nav li > a > span:after {
-    content: '\25c2';
+    content: '\25b6';
 }
 .nav li.active > a > span:after {
-    content: '\25be';
+    content: '\25bc';
 }
 
 .nav a:hover, .nav li.active > a {

@@ -14,9 +14,12 @@ entries:
   - title: Documentation
     output: web
     folderitems:
-    - title: Screen Layout
-      url: /doc_screen_layout.html
+    - title: Overview
+      url: /doc_overview.html
       output: web
     - title: Application Menu
       url: /doc_app_menu.html
+      output: web
+    - title: Accounts
+      url: /doc_accounts.html
       output: web
