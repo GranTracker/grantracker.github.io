@@ -6,7 +6,7 @@ entries:
     output: web
     folderitems:
     - title: FAQ
-      url: /doc_faq.html
+      url: /faq.html
       output: web
     - title: Tips
       url: /doc_tips.html
@@ -22,4 +22,7 @@ entries:
       output: web
     - title: Accounts
       url: /doc_accounts.html
+      output: web
+    - title: Color Sets
+      url: /doc_color_sets.html
       output: web

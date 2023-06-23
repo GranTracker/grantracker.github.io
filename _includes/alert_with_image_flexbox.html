@@ -1,0 +1,27 @@
+{% comment %}
+Parameters:
+	type=string 			"info", "success", "warning", "danger"
+	image-file
+	[image-style]			
+	[image-margin-right] 	Without "px"
+	[image-class]
+
+	[image-max-width] 		Without "px"
+	or
+	[image-max-height] 		Without "px"
+
+	[class]
+	[style]
+	[content-class]
+	[content-style]
+	[divId]
+
+{% endcomment %}
+
+<div {% if include.divId %}id="{{include.divId}}"{% endif %} class="alert alert-{{ include.type }} my_alert-flexbox my_group-clear-after {% if include.class %}{{include.class}}{% endif %}" role="alert" {% if include.style %}style="{{include.style}}"{% endif %}>
+	{% include inline_image1.html file=include.image-file class="my_alert-flexbox-image" max-width=include.image-max-width max-height=include.image-max-height margin-right=include.image-margin-right style=image-style %}
+	<div {% if include.content-class %}class="{{include.content-class}}"{% endif %} {% if include.content-style %}style="{{include.content-style}}"{% endif %}>
+		{{include.content}}
+	</div>
+</div>
+	

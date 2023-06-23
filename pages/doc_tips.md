@@ -31,7 +31,3 @@ And it shows up in the list of races that week, with the new description:
 
 
 {% include accordion_panel_end.html last=true %}
-
-{% include accordion_panel_begin.html first=true groupId="tips_02" panelId="tip_02" title='Adding/Editing Account Color Schemes' %}
-
-TBD. It's time for dinner, but I wanted to publish what I'd done up until now.

@@ -50,6 +50,13 @@ blockquote.wip .fa {
 	transform: translateY(2px);
 }
 
+@media (max-width: 990px) {
+    blockquote.wip {
+        margin-top: 20px !important;
+    }
+}
+
+
 img.my_inline.my_float-left {
 	float: left;
     margin-right: 5px;
@@ -90,6 +97,9 @@ img.my_inline.my_float-left {
 	font-size: 1.2em;
 	font-weight: bold;
 }
+.my_alert-flexbox-content > p {
+	margin-bottom: 0;
+}
 
 .nav.navbar-nav.navbar-right > li.active > a {
 	background-color: white;
@@ -110,12 +120,25 @@ hr.shaded1 {
 
 hr.normal {
 	margin-left: 0;
+	margin-right: 0;
     border: 0;
     height: 1px;
     background-image: -webkit-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
     background-image:    -moz-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
     background-image:     -ms-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
     background-image:      -o-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+}
+
+.pseudo-hr-thin-1 {
+	margin-top: 35px;
+	margin-bottom: 10px;
+	border: 0;
+	height: 1px;
+	max-height: 1px;
+	/* border-bottom: 1px solid black; */
+	background: #333;
+	/* background-image: linear-gradient(to right, #ccc, #333, #ccc); */
+	background-image: linear-gradient(to right, #ddd, #248ec2, #ddd);
 }
 
 

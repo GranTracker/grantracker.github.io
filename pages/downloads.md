@@ -29,7 +29,33 @@ custom-javascript-list: ["js/downloadsPage.js"]
 	image-file="old-car.svg" image-max-height="35" image-margin-right="10" title="<span style='font-size: 1.2em'>Version History</span>" %}
 
 
-{% include accordion_panel_begin.html first=true groupId="version" panelId="version_1_1_1_p1" expanded=true title="v1.1.1" %}
+{% include accordion_panel_begin.html first=true groupId="version" panelId="version_1_2_0_p1" expanded=true title="v1.2.0" %}
+
+### Updated Features:
+
+* Added the ability to add/edit [**Color Sets**](doc_color_sets.html).
+* Start/End Race Position are no longer required. Please let me know if this ends up causing issues - I *think* it should work fine, but you never know.
+* Improved the ability to enter "DNF" in the "End Position" edit box.
+  * If nothing's in the edit box, typing the "D" letter will change it to "DNF".
+  * If the edit box contains "DNF", pressing the Delete or Backspace key anywhere in the edit box will clear the edit box.
+  * There’s a new button right next to the edit box. Clicking it will will toggle between “DNF” and clearing out the field.
+* Copy Chart to Clipboard improvements:
+  * It now includes a border around the image, by default. You can change the border color and/or thickness, or turn it off completely in the Options dialog.
+  * Added a Drop Shadow option also, which is "on" by default, but can be changed in the Options dialog.
+  * A "Copy" button now appears the the upper-left of the chart when you move your cursor over the chart. Makes it easier to copy the chart, and also makes it more apparent that you actually *can* copy the chart.
+* [**Accounts**](doc_accounts.html) information had been stored in the user's settings, but that's too easy to get wiped out by mistake. So I moved it into a file in the Data folder.
+* Added a `Help` menu item to open the [**FAQ page**](faq.html) on this website.
+
+### Bug Fixes:
+
+* Fixed a nasty little sorting error that caused strange things to happen if you added races out of chronological order. I thought I'd fixed it earlier, but I must have been smoking something because it certainly was *not* fixed.
+* Fixed a bug that caused the application to crash when importing a screenshot that wasn't formatted correctly.
+* Fixed a bug that caused the Cars Pick List to not show Manufacturers or Categories.
+* Fixed some other minor cosmetic issues.
+
+{% include accordion_panel_end.html %}
+
+{% include accordion_panel_begin.html groupId="version" panelId="version_1_1_1_p1" title="v1.1.1" %}
 
 ### Updated Feature:
 
