@@ -29,7 +29,18 @@ custom-javascript-list: ["js/downloadsPage.js"]
 	image-file="old-car.svg" image-max-height="35" image-margin-right="10" title="<span style='font-size: 1.2em'>Version History</span>" %}
 
 
-{% include accordion_panel_begin.html first=true groupId="version" panelId="version_1_2_0_p1" expanded=true title="v1.2.0" %}
+
+{% include accordion_panel_begin.html first=true groupId="version" panelId="version_1_2_1_p1" expanded=true title="v1.2.1" %}
+
+### Bug Fix:
+
+* Removed a debug time delay of 5 seconds when parsing screenshot files. I'm an idiot for leaving it in.
+
+  *"Why does this take so long now? I'll check it in a moment - let me upload this first."* **D'OH!**
+
+{% include accordion_panel_end.html %}
+
+{% include accordion_panel_begin.html groupId="version" panelId="version_1_2_0_p1" expanded=true title="v1.2.0" %}
 
 ### Updated Features:
 
