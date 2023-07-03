@@ -28,7 +28,15 @@ custom-javascript-list: ["js/downloadsPage.js"]
 	heading-height="55" title-padding-top="7"
 	image-file="old-car.svg" image-max-height="35" image-margin-right="10" title="<span style='font-size: 1.2em'>Version History</span>" %}
 
-{% include accordion_panel_begin.html first=true groupId="version" panelId="version_1_3_0_p1" expanded=true title="v1.3.0" %}
+{% include accordion_panel_begin.html first=true groupId="version" panelId="version_1_3_1_p1" expanded=true title="v1.3.1" %}
+
+### Bug Fix
+
+* When creating a new Race Week, after selecting the date from the date picker, the app would crash when running in certain time zones. Hopefully this fixes that.
+
+{% include accordion_panel_end.html %}
+
+{% include accordion_panel_begin.html groupId="version" panelId="version_1_3_0_p1" expanded=true title="v1.3.0" %}
 
 ### The Big Change: Time Zones are now take into account.
 
