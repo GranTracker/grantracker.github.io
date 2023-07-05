@@ -1,0 +1,14 @@
+{% comment %}
+	first=true
+	last=true
+	expanded=true
+{% endcomment %}
+
+{% include accordion_panel_begin.html first=include.first expanded=include.expanded groupId="version" panelId="version_1_0_1_p1" title="v1.0.1" %}
+
+### Bug Fixes:
+
+* Fixed a bug that allowed you to add race info for a Race Week, before the Race Week records had been created. This made it so you couldn't run ***GranTracker*** without getting an error.
+* Changed the Screenshot Parsing logic to no longer check for certain text in the screenshot, because it only worked for English language users.
+
+{% include accordion_panel_end.html last=include.last %}

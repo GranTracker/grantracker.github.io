@@ -1,0 +1,13 @@
+{% comment %}
+	first=true
+	last=true
+	expanded=true
+{% endcomment %}
+
+{% include accordion_panel_begin.html first=include.first expanded=include.expanded groupId="version" panelId="version_1_3_1_p1" title="v1.3.1" %}
+
+### Bug Fix
+
+* When creating a new Race Week, after selecting the date from the date picker, the app would crash when running in certain time zones. Hopefully this fixes that.
+
+{% include accordion_panel_end.html last=include.last %}

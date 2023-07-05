@@ -1,0 +1,21 @@
+{% comment %}
+	first=true
+	last=true
+	expanded=true
+{% endcomment %}
+
+{% include accordion_panel_begin.html first=include.first expanded=include.expanded groupId="version" panelId="version_1_1_1_p1" title="v1.1.1" %}
+
+### Updated Feature:
+
+* Building on the ability to add Race Week Races with custom letters, which was introduced in v1.1.0, you can now enter a description for the custom race, so you can tell what the new letter is for.
+
+  For more info, see "**Adding Manufacturers Cups Races (and other race types)**" in [**Tips**](doc_tips.html)
+
+* Added an "Edit->Cut" menu item.
+
+### Bug Fixes:
+
+* Fixed a bug that caused the application to crash when importing a screenshot that wasn't formatted correctly.
+
+{% include accordion_panel_end.html last=include.last %}

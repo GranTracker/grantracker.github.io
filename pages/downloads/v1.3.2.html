@@ -1,0 +1,20 @@
+{% comment %}
+	first=true
+	last=true
+	expanded=true
+{% endcomment %}
+
+{% include accordion_panel_begin.html first=include.first expanded=include.expanded groupId="version" panelId="version_1_3_2_p1" title="v1.3.2" %}
+
+### Bug Fixes
+
+* When adding new records to any of the tab pages, if there is a filter, or columns are grouped, the application would crash.
+* If you switched to any tab other than the first one, then switch back to the first tab, the application would crash if you tried to right-click on anything in the table.
+* Finally tracked down the code that was causing the intermittent "scroll error", and fixed it.
+* A couple of other cosmetic fixes.
+
+### Kind-Of a Bug Fix:
+
+* In Windows applications, the Cancel button in dialogs should be right-most. On the Mac it should be left-most. I had code in place to adjust the order, but it wasn't working properly. Hopefully that's fixed now.
+
+{% include accordion_panel_end.html last=include.last %}

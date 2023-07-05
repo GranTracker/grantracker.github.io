@@ -1,0 +1,15 @@
+{% comment %}
+	first=true
+	last=true
+	expanded=true
+{% endcomment %}
+
+{% include accordion_panel_begin.html first=include.first expanded=include.expanded groupId="version" panelId="version_1_2_1_p1" title="v1.2.1" %}
+
+### Bug Fix:
+
+* Removed a debug time delay of 5 seconds when parsing screenshot files. I'm an idiot for leaving it in.
+
+  *"Why does this take so long now? I'll check it in a moment - let me upload this first."* **D'OH!**
+
+{% include accordion_panel_end.html last=include.last %}
