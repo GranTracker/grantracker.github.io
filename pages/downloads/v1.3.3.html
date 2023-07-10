@@ -1,0 +1,28 @@
+{% comment %}
+	first=true
+	last=true
+	expanded=true
+{% endcomment %}
+
+{% include accordion_panel_begin.html first=include.first expanded=include.expanded groupId="version" panelId="version_1_3_3_p1" title="v1.3.3" %}
+
+### New Feature
+
+* Exposed a "Zoom" dropdown for changing the zoom factor on tables. It's in the bottom status bar. It's mostly for sharing screenshots on social media, to help make screenshots of the tables not quite as wide, but you may want to use it just for readability reasons.
+
+### Quality of Life
+
+* Date Range selection process modified so there's never an invalid date range. In other words, you can't have a "from date" later than the "to date".
+  * In previous versions, if you had an invalid date range, the chart would just paint itself empty, which was confusing (to me, anyway).
+  * Now if you change one of the date range values to something that would create an invalid date range, the other date value is automatically modified so the range is valid.
+
+### Bug Fixes
+
+* Fixed bug introduced in last version where the race timestamps might not have been saved in UTC format. This may have introduced a boundary issue for races on or around the weekly track change.
+  * The next time you save changes to your races, the file will be fixed so that the timestamps are saved in UTC format.
+  * So if you think you have an issue with timezones at the start of a race week, modify your race data (for example, double-click a race then click "OK"), then check the timestamp and correct it if needed.
+  * And in case it's not obvious, you can change a race's timestamp by double-clicking the race to edit it, then clickinh into the timestamp field and changing it.
+* Fixed a bug where under certain situations, you could get an error saying something about "console.logWarn" not being defined.
+* Some cosmetic and alignment fixes.
+
+{% include accordion_panel_end.html last=include.last %}
