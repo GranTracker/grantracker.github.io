@@ -1,0 +1,40 @@
+{% comment %}
+	first=true
+	last=true
+	expanded=true
+{% endcomment %}
+
+{% include accordion_panel_begin.html first=include.first expanded=include.expanded groupId="version" panelId="version_1_4_0_p1" title="v1.4.0" %}
+
+### New Chart Features
+
+* DR Chart now supports shaded DR levels, to make it easier to tell what level is what. This can be disabled from the Options screen, and the colors can be changed there as well.
+
+{% include image1.html file="versions/v1.4.0-01.png" style="margin-left: 50px; margin-bottom:30px !important;" %}
+
+* Additionally, it now supports showing DR levels by actual DR Points, like this:
+
+{% include image1.html file="versions/v1.4.0-02.png" style="margin-left: 50px;" caption="Notice that the range from low A+ to high A+ is as large as the range from D to the top of A." caption-style="margin-left: 50px; margin-bottom: 10px !important" %}
+
+<p style="margin-left: 50px;">You can switch from DR Letter view to DR Points view by using this control:</p>
+
+{% include image1.html file="versions/v1.4.0-03.png" style="margin-left: 50px;" %}
+
+<br/>
+### Filtering the Races Table
+
+* You can right-click on a cell in the Races table, and filter on the value in that field:
+
+{% include image1.html file="versions/v1.4.0-04.png" style="margin-left: 50px;" %}
+
+<p style="margin-left: 50px;">Try right-clicking different cells to see the different options.</p>
+
+### Other new features
+
+* "FL" checkbox for races. "FL" is "Fastest Lap":
+
+### Bug Fixes
+
+* Not that any of my programs ever have bugs, but if they did, I would say that I fixed a lot of them in this version.
+
+{% include accordion_panel_end.html last=include.last %}

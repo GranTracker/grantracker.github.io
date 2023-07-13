@@ -26,3 +26,6 @@ entries:
     - title: Color Sets
       url: /doc_color_sets.html
       output: web
+    - title: Options
+      url: /doc_options.html
+      output: web
