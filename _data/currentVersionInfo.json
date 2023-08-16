@@ -1,6 +1,8 @@
 {
   "fileType": "currentVersionInfo",
   "fileVersion": 1,
-  "appVersion": "1.4.0",
-  "updateUrl": "/downloads.html"
+  "appVersion": "1.5.0",
+  "updateUrl": "/downloads.html",
+  "helpFileVersion": 1,
+  "helpFileUrl": "/assets/help.json"
 }

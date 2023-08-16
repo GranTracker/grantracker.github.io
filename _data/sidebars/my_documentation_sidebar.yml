@@ -11,6 +11,12 @@ entries:
     - title: Tips
       url: /doc_tips.html
       output: web
+    - title: Sharing to Social Media
+      url: /doc_sharing.html
+      output: web
+    - title: 🔥 Customizing the UI 🔥
+      url: /doc_customizing_ui.html
+      output: web
   - title: Documentation
     output: web
     folderitems:

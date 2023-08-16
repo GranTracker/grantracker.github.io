@@ -18,7 +18,7 @@ It uses state-of-the-art OCR to get the DR/SR letters, and it examines the DR pe
 
 {% include image1.html file="screenshot-steps-11.png" max-width="400" %}
 
-All you have to do is import the screenshot of your Player Profile page:
+Then just import the screenshot of your Player Profile page. Use the link on the screen, or drag the image from File Explorer or Finder and drop it onto *GranTracker*.
 
 {% include image1.html file="screenshot-steps-12.png" %}
 
@@ -37,8 +37,6 @@ It remembers the last car you used for this race, so you don't have to choose it
 NOTES:
 
 * *GranTracker* comes with a database of all cars in the game, and you can easily modify the list, add new cars, etc. in the "Edit Cars" tab.
-
-* I'm still not clear on what qualifies as a "Road Car", so some of these cars are probably classified incorrectly. Fortunately, you can easily bulk change them in the "Edit Cars" screen.
 </div>
 
 <p>... or only the cars qualified for this race. This is the default view:</p>

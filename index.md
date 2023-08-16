@@ -10,8 +10,6 @@ permalink: index.html
 
 {% include image.html file="splash-image.png" max-width="1100" caption="*GranTracker* is completely free, and runs on Windows and Mac."%}
 
-{% include note.html content="I'm a software developer, not a marketing guru, so please bear with this less-than-stunning website." %}
-
 ## The Problem
 
 Gran Turismo 7 (GT7) gives you ***DR*** and ***SR*** ratings for **Daily Races** and such, and a hard-to-read ***DR*** progress bar:

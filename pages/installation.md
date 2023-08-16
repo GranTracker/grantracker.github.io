@@ -25,12 +25,6 @@ permalink: installation.html
 </div>
 </div>
 
-## Congratulations! You're about to be one of my fist ~~guinea pigs~~ valued users!
-
-Obviously I've done a lot of testing, but when other people start using software, they inevitably find bugs quicker than [*insert clever phrase here*].
-
-So ~~if~~ when you find a bug, see the **Reporting Bugs** section below.
-
 <h2>Installation</h2>
 
 {% include accordion_panel_begin_with_image.html first=true groupId="mac_install" panelId="mac_install_0"

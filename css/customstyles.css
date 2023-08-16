@@ -596,7 +596,19 @@ a.fa.fa-envelope-o.mailto {
     font-weight: 600;
 }
 
-h3 {font-weight:bold; font-size:130%;}
+h2  {
+    font-size:29px;
+    font-weight: bold;
+    /* line-height:32px; */
+    /* font-variant: common-ligatures small-caps; */
+    /* color: rgb(34, 89, 137); */
+}
+
+h3 {
+    font-weight:bold; 
+    font-size:130%;
+    color: rgb(21, 83, 137);
+}
 h4 {font-weight:bold; font-size:120%;}
 
 .alert, .callout {
@@ -674,10 +686,6 @@ button.cursorNorm {
     cursor: pointer;
 }
 
-h2  {
-    font-size:24px;
-    line-height:29px;
-}
 span.otherProgrammingLanguages {
     font-style: normal;
 }

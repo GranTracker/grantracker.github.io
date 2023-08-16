@@ -1,0 +1,57 @@
+{% comment %}
+	first=true
+	last=true
+	expanded=true
+{% endcomment %}
+
+{% include accordion_panel_begin.html first=include.first expanded=include.expanded groupId="version" panelId="version_1_5_0_p1" title="v1.5.0" %}
+
+### New Zoom Feature
+
+You can now enlarge or shrink the fonts and other things in the window, using the new Zoom feature. **[Click here](doc_customizing_ui.html#zooming-in-and-out)** for more information.
+
+### New Race Results Table Features
+
+* **Select and Reorder Columns**: You can now pick and choose which columns you want to see in the table. You can also re-order and resize columns if you want. **[Click here](doc_customizing_ui.html#showhide-columns)** for more information.
+
+* **Multi-Select Rows**: You can now multi-select rows in the table, by clicking rows while holding down the Shift key, or the Command/Control keys. This ability allows you to do certain activities against multiple rows at once, including changing the car in the selected races (right-click for a context menu), and sharing selected races to social media:
+
+* **Sharing Race Results on Social Media**: Extended the ability to copy the Race Results Table for sharing on social media. There's a lot of new features, so be sure to check out the **[documentation](doc_sharing.html)**.
+
+* Added a new **Add/Edit Race Dialog**, which you can drag around so it's positioned where you want it:
+
+{% include image1.html file="versions/v1.5.0-01.png" style="margin-left: 50px;" %}
+
+* Changed the color of the Table Header Filters when a filter is applied, to make it more obvious that the table is being filtered.
+
+{% include image1.html file="versions/v1.5.0-05.png" style="margin-left: 50px;" %}
+
+### New Chart Feature
+
+You can now view races by "Race Number" instead of by Date/Time. This is useful if you don't race all that often, or you miss some weeks. Here's an example:
+
+I didn't race the week of 2023-23. The chart normally looks like this, with a big gap the week I didn't race:
+
+{% include image1.html file="versions/v1.5.0-02.png" style="margin-left: 20px; margin-bottom:30px !important;" %}
+
+If you select the option "Show Race Numbers" in the Options dialog, the chart looks like this:
+
+{% include image1.html file="versions/v1.5.0-03.png" style="margin-left: 20px; margin-bottom:30px !important;" %}
+
+Each race is assigned a sequential number, and they are evenly spaced in the chart.
+
+### Options Dialog Changes
+
+The options dialog has been reorganized:
+
+{% include image1.html file="versions/v1.5.0-04.png" style="margin-left: 20px; margin-bottom:30px !important;" %}
+
+### Help Buttons
+
+You'll begin to see Help buttons show up in various places. This will happen automatically, when I get around to defining the help texts. The help information will update automatically from the website, as changes occur.
+
+### Bug Fixes and Other
+
+Many bugs have been fixed, and other features have been tweaked.
+
+{% include accordion_panel_end.html last=include.last %}

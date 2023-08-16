@@ -1,0 +1,103 @@
+{
+  "fileType": "help",
+  "version": 1,
+  "definitions": {
+    "copyTableContentsHelpMenuItem": {
+      "enabled": true,
+      "webPage": "doc_sharing.html"
+    },
+    "copyTableImageHelpMenuItem": {
+      "enabled": true,
+      "webPage": "doc_sharing.html"
+    },
+    "divEditCarsHelpButton": {
+      "enabled": false,
+      "applyOnStartup": true,
+      "type": "standardButton",
+      "webPage": "doc_overview.html"
+    },
+    "divEditRaceWeekHelpButton": {
+      "enabled": false,
+      "applyOnStartup": true,
+      "type": "standardButton",
+      "webPage": "doc_overview.html"
+    },
+    "divEditTracksHelpButton": {
+      "enabled": false,
+      "applyOnStartup": true,
+      "type": "standardButton",
+      "webPage": "doc_overview.html"
+    },
+    "divUserRacesHelpButton": {
+      "enabled": true,
+      "applyOnStartup": true,
+      "type": "standardButton",
+      "webPage": "doc_overview.html"
+    },
+    "dlgEditAccountsBody": {
+      "webPage": "doc_accounts.html"
+    },
+    "dlgEditColorSetsBody": {
+      "webPage": "doc_color_sets.html"
+    },
+    "dlgEditOptionsBody": {
+      "enabled": false,
+      "webPage": "doc_options.html"
+    },
+    "dlgEditOptionsChartPointsVisibleLabel": {
+      "applyOnStartup": true,
+      "type": "inlineButton",
+      "popup": {
+        "options": { "transparent": "fully" },
+        "text": "\"Points\" are the little round dots on the chart line that represent each race."
+      }
+    },
+    "dlgEditOptionsChartUseRaceNumbersLabel": {
+      "applyOnStartup": true,
+      "type": "inlineButton",
+      "popup": {
+        "options": { "customWidth": "480px", "transparent": "fully" },
+        "text": [
+          "Show Race Numbers along the Y axis, instead of Date/Times.\n\n",
+          "Races are numbered sequentially, starting with 1 for the first race you've recorded.\n\n",
+          "This option can be useful if you don't race a lot, so there aren't long gaps of no races in the chart."
+        ]
+      }
+    },
+    "dlgPickListBody": {
+      "enabled": false,
+      "webPage": "doc_options.html"
+    },
+    "dlgPickListBody_cars": {
+      "enabled": false,
+      "webPage": "doc_options.html"
+    },
+    "dlgPickListBody_carsMultiSelect": {
+      "enabled": false,
+      "webPage": "doc_options.html"
+    },
+    "dlgPickList_columnVisibility": {
+      "enabled": false,
+      "popup": {
+        "text": "Test help text"
+      }
+    },
+    "editUserRaceDRConstrainedButton": {
+      "applyOnStartup": true,
+      "type": "inlineButton",
+      "className": "editUserRaceImageButton",
+      "position": "outside",
+      "popup": {
+        "text": [
+          "DR is Constrained button:\n\n",
+          "I haven't updated the website yet, but click the \"More Info\" button for an explanation that I wrote on the GTPlanet forum."
+        ]
+      },
+      "webUrl": "https://www.gtplanet.net/forum/threads/official-grantracker-thread.420003/post-14050018"
+    },
+    "editUserRaceDialogHelpButton": {
+      "enabled": false,
+      "webPage": "doc_options.html"
+    }
+  }
+}
