@@ -28,7 +28,9 @@ custom-javascript-list: ["js/downloadsPage.js"]
 	heading-height="55" title-padding-top="7"
 	image-file="old-car.svg" image-max-height="35" image-margin-right="10" title="<span style='font-size: 1.2em'>Version History</span>" %}
 
-{% include_relative v1.5.0.html first=true expanded=true %}
+{% include_relative v1.5.1.html first=true expanded=true %}
+
+{% include_relative v1.5.0.html expanded=true %}
 
 {% include_relative v1.4.0.html %}
 

@@ -1,0 +1,13 @@
+{% comment %}
+	first=true
+	last=true
+	expanded=true
+{% endcomment %}
+
+{% include accordion_panel_begin.html first=include.first expanded=include.expanded groupId="version" panelId="version_1_5_1_p1" title="v1.5.1" %}
+
+### Bug Fix
+
+Fixed a bug that mostly only cropped up if you edited an existing race and changed its timestamp.
+
+{% include accordion_panel_end.html last=include.last %}
