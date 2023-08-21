@@ -1,0 +1,17 @@
+{% comment %}
+	first=true
+	last=true
+	expanded=true
+{% endcomment %}
+
+{% include accordion_panel_begin.html first=include.first expanded=include.expanded groupId="version" panelId="version_1_5_2_p1" title="v1.5.2" %}
+
+### Bug Fix
+
+Fixed a bug that could cause the Add/Edit Races dialog to misbehave. The most obvious problem would be that the "FL" checkbox might stop working.
+
+### New Feature
+
+Clicking on a row in the races table will cause the corresponding node in the chart to be selected, using an animation that's like a circle zeroing down to a point. If you find the animation annoying, you can disable it in the Options dialog.
+
+{% include accordion_panel_end.html last=include.last %}
