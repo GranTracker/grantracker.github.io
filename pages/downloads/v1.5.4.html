@@ -1,0 +1,17 @@
+{% comment %}
+	first=true
+	last=true
+	expanded=true
+{% endcomment %}
+
+{% include accordion_panel_begin.html first=include.first expanded=include.expanded groupId="version" panelId="version_1_5_4_p1" title="v1.5.4" %}
+
+## <span style="color:red">Major Bug Fix</span>
+
+* I'm not sure why nobody reported this before, but importing a profile screenshot for DR C caused an error. This is now fixed, and there's a couple of new options in the Options screen to support the fix, although it's unlikely you'll ever need to change them.
+
+### Quality of Life Improvement
+
+* *GranTracker* should save and restore its position better than before. Including remembering Maximized and Full Screen.
+
+{% include accordion_panel_end.html last=include.last %}
