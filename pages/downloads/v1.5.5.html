@@ -1,0 +1,22 @@
+{% comment %}
+	first=true
+	last=true
+	expanded=true
+{% endcomment %}
+
+{% include accordion_panel_begin.html first=include.first expanded=include.expanded groupId="version" panelId="version_1_5_5_p1" title="v1.5.5" %}
+
+## <span style="color:red">Major Bug Fix</span>
+
+Please install this version immediately, or at least before you import any more races.
+
+The last version introduced a bug which caused DR Percentages to be wrong, when scanning a Profile Screenshot. So any races you imported with version 1.5.4 have the wrong DR Percentage.
+
+* Unfortunately, you're stuck with those wrong percentages.
+* Fortunately, this version fixes that problem.
+
+After you install this version, I suggest you import a screenshot of your current profile. You don't need to enter any information, but you'll probably want to add a comment like "v1.5.5 Adjusted DR Percent".
+
+This isn't necessary by any means, but it'll help you remember when it got fixed.
+
+{% include accordion_panel_end.html last=include.last %}
