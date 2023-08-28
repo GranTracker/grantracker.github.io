@@ -12,11 +12,44 @@ Please install this version immediately, or at least before you import any more 
 
 The last version introduced a bug which caused DR Percentages to be wrong, when scanning a Profile Screenshot. So any races you imported with version 1.5.4 have the wrong DR Percentage.
 
-* Unfortunately, you're stuck with those wrong percentages.
-* Fortunately, this version fixes that problem.
+**This version fixes that problem.**
 
-After you install this version, I suggest you import a screenshot of your current profile. You don't need to enter any information, but you'll probably want to add a comment like "v1.5.5 Adjusted DR Percent".
+### Fixing Your Data
 
-This isn't necessary by any means, but it'll help you remember when it got fixed.
+I can't automatically fix the races you entered with version 1.5.4.
+
+You can adjust them manually if you want, but it will require some guesswork, especially if you changed DR levels during that time.
+
+For me, I didn't change DR levels, so this is how I handled changing my previous records.
+
+1) I imported a screenshot of my Profile page as it stands right now, without having done any new races. As you can see, it added 7.50 to my DR percentage.
+
+{% include image1.html file="versions/v1.5.5-01.png" style="margin-bottom: 20px !important" %}
+
+So I decided to just add that amount to each of the affected races.
+
+{% include alert_flexbox.html type="warning" content="WARNING: There's no UNDO feature, so it's probably a good idea to take a screenshot before you proceed, or just write down the DR values for the races you'll be changing." %}
+
+2) It was easy for me to find the first affected race, because I even made a comment about how the percent didn't make sense. In the above image, see the race for 2023/08/26 10:06. In your case, I'm sure you can see a place where your DR change was questionable.
+
+3) Starting with that race, and working my way up to the top, I changed the DR for each race. I double-clicked the race, and changed the value in the DR % field:
+
+{% include image1.html file="versions/v1.5.5-02.png" style="margin-bottom: 20px !important" %}
+
+{% include image1.html file="versions/v1.5.5-03.png" style="margin-bottom: 20px !important" %}
+
+As soon as you change the DR percent and move out of the field, the box to the left of it will adjust based on the new value.
+
+I decided to only change the value by 6.25, because any more didn't look right.
+
+4) Then I did all the other races, and deleted the one I added in step 1. Close enough for me.
+
+{% include image1.html file="versions/v1.5.5-04.png" style="margin-bottom: 20px !important" %}
+
+
+
+
+
+
 
 {% include accordion_panel_end.html last=include.last %}
