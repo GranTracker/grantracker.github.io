@@ -1,0 +1,101 @@
+{% comment %}
+	first=true
+	last=true
+	expanded=true
+{% endcomment %}
+
+{% include accordion_panel_begin.html first=include.first expanded=include.expanded groupId="version" panelId="version_1_5_6_p1" title="v1.5.6" %}
+
+## Custom Fields
+
+You can now add your own custom fields for keeping track of whatever you want. Here's 4 custom fields as an example, "QT", "Starting Tires", "Laps Before Pit" and "Rained":
+
+{% include image1.html file="versions/v1.5.6-01.png" style="margin-top: 10px !important; margin-bottom: 20px !important" %}
+
+You can add/edit Custom Fields from the new "Menu" dropdown:
+
+{% include image1.html file="versions/v1.5.6-02.png" style="margin-top: 10px !important; margin-bottom: 20px !important" %}
+
+Click the "Help" button in the Edit Custom Fields dialog for more information:
+
+{% include image1.html file="versions/v1.5.6-03.png" style="margin-top: 10px !important; margin-bottom: 20px !important" %}
+
+## Filter Operators
+
+{% include image1.html file="versions/v1.5.6-04.png" style="margin-top: 10px !important; margin-bottom: 20px !important" %}
+
+This is one of my favorite features. You can now use "operators" in many of the Filter fields. You can get more information my clicking in one of the filter fields, and pressing F1.
+
+If you can't see the Filter fields, right-click in the table somewhere, and click on "Show Header Filters:
+
+{% include image1.html file="versions/v1.5.6-05.png" style="margin-top: 10px !important; margin-bottom: 20px !important" %}
+
+## Week Separators
+
+I've made it easier to distinguish one week from another, in the Races table:
+
+{% include image1.html file="versions/v1.5.6-06.png" style="margin-top: 10px !important; margin-bottom: 20px !important" %}
+
+I've added a separator line between each week. I've also changed the color of the odd/even "bars", where one week is the standard gray/white, and the next is blue/white.
+
+You can turn these off in the Options, if you want. Also, they may not be shown depending on if you change the sort order of the table.
+
+## Preview Import Screenshot
+
+You can now preview the screenshot you're importing, to make sure you selected the right image file:
+
+{% include image1.html file="versions/v1.5.6-07.png" style="margin-top: 10px !important; margin-bottom: 20px !important" %}
+
+## Better Double-Click Support in the Pick List Dialogs
+
+In many of the "pick list" dialogs, you can double-click an item to select it and close the dialog. But up until now, if the dialog allowed you to select more than one item, you couldn't use double-click to just select one item and close the dialog.
+
+Well, now you can.
+
+{% include image1.html file="versions/v1.5.6-08.png" style="margin-top: 10px !important; margin-bottom: 20px !important" %}
+
+## New Consolidated "Menu" Dropdown
+
+I consolidated the "links" on the screen into a dropdown menu:
+
+{% include image1.html file="versions/v1.5.6-09.png" style="margin-top: 10px !important; margin-bottom: 20px !important" %}
+
+{% include image1.html file="versions/v1.5.6-10.png" style="margin-top: 10px !important; margin-bottom: 20px !important" %}
+
+## Other Add/Edit Race Dialog Improvements
+
+When your cursor is in a field, its border is now blue instead of red:
+
+{% include image1.html file="versions/v1.5.6-11.png" style="margin-top: 10px !important; margin-bottom: 20px !important" %}
+
+This allows me to use a red border when something is wrong with a field:
+
+{% include image1.html file="versions/v1.5.6-12.png" style="margin-top: 10px !important; margin-bottom: 20px !important" %}
+
+I also place a red circle with an exclamation mark next to the field with an error. If you move your cursor over the red circle, it displays the error message:
+
+{% include image1.html file="versions/v1.5.6-13.png" style="margin-top: 10px !important; margin-bottom: 20px !important" %}
+
+Some fields allow you to press Ctrl+D to duplicate the previous race's value:
+
+{% include image1.html file="versions/v1.5.6-14.png" style="margin-top: 10px !important; margin-bottom: 20px !important" %}
+
+Obviously you can only do this if the previous race has something to duplicate.
+
+## More Help
+
+I've added a lot more Help icons and buttons:
+
+{% include image1.html file="versions/v1.5.6-15.png" style="margin-top: 10px !important; margin-bottom: 20px !important" %}
+
+{% include image1.html file="versions/v1.5.6-16.png" style="margin-top: 10px !important; margin-bottom: 20px !important" %}
+
+## Bug Fixes
+
+* Percent bar calculation fixed - it was off by 1%. Sorry about that.
+* When you showed the filters, it reset which columns were visible. This is now fixed.
+* Saving the Window position when the window was maximized didn't always work right. This should now be fixed.
+
+
+
+{% include accordion_panel_end.html last=include.last %}

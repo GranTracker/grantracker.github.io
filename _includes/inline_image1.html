@@ -21,7 +21,7 @@ Parameters:
 {% capture myStyleString %}style= "{{myStyle}} {{myMaxWidth}} {{myMaxHeight}} {{myMarginRight}}"{% endcapture %}
 {% endif %}
 
-<img class="my_inline my_float-left{% if include.class %} {{include.class}}{% endif %}" {{myStyleString}} src="images/{{include.file}}" alt="{{include.alt}}" />
+<img class="my_inline my_float-left{% if include.class %} {{include.class}}{% endif %}" {{myStyleString}} src="images/{{include.file}}"  loading="lazy" alt="{{include.alt}}" />
 
 {% assign myStyle = nil %}
 {% assign myMaxWidth = nil %}

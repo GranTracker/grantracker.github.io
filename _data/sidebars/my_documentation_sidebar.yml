@@ -35,3 +35,6 @@ entries:
     - title: Options
       url: /doc_options.html
       output: web
+    - title: Custom Fields
+      url: /doc_custom_fields.html
+      output: web
