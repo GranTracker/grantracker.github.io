@@ -8,8 +8,6 @@ wip: false
 permalink: doc_custom_fields.html
 ---
 
-{% include alert_flexbox.html type="warning" icon-style="font-size: 120%; align-self: flex-start" content-style="margin-bottom: 0 !important" content="**Custom Fields** are currently in beta. They will be released in version 1.6.0." %}
-
 ## Purpose
 
 {% include image1.html file="doc/custom-fields/custom-fields-00.png" style="margin-top: 10px !important; margin-bottom: 20px !important" %}
