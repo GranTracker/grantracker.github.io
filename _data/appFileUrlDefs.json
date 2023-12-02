@@ -1,0 +1,5 @@
+{
+  "activeAppFileUrlBase_BETA": "remoteAppFileUrlBase",
+  "activeAppFileUrlBase_PROD": "remoteAppFileUrlBase",
+  "remoteAppFileUrlBase": "https://github.com/GranTracker/GranTracker.Data/raw/main/"
+}

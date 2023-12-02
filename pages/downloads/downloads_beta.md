@@ -1,86 +1,50 @@
 ---
-title: "GranTracker: Downloads"
-title2: "Downloads"
+title: "GranTracker: Downloads (BETA)"
+title2: "Downloads (BETA)"
 sidebar: mydoc_sidebar
 hide_sidebar: true
 toc: false
 wip: false
-permalink: downloads.html
-custom-javascript-list: ["js/downloadsPage.js"]
+permalink: downloads_beta.html
+custom-javascript-list: ["js/downloadsPage_beta.js"]
 ---
 
-<div id="firstTimeUserAlert" class="alert alert-info my_alert-flexbox my_group-clear-after">
-{% include image1.html file="car-dealer.svg" class="my_alert-flexbox-image"%}
-<div class="my_alert-flexbox-text-120" style="padding-top: 10px" markdown="1">To install ***GranTracker*** for the first time, [please click here](installation.html).
-</div>
+{% if site.data.betaVersionInfo.betaIsOpen!=true %}
+
+## The Beta program is now closed.
+
+{% else %}
+{% capture my_content %}BETA VERSION. Only use this version if you're willing to help report bugs in the <b><a href='https://www.gtplanet.net/forum/threads/official-grantracker-thread.420003/'>Official GranTracker Thread</a></b> on GTPlanet.
+<br>If not, please <b><a href='{{ site.baseurl }}{% link pages/downloads/downloads.md %}'>click here</a></b>.{% endcapture %}
+
+<div class="alert alert-warning my_alert-warning my_group-clear-after" role="alert">
+	{% include inline_image1.html file="warning_icon_48.png" %}
+	<p style="margin-left: 60px">{{my_content}}</p>
 </div>
 
 <div id="userVersionAlert" class="alert alert-warning my_alert-warning my_group-clear-after my_hidden" role="alert">
 	{% include inline_image1.html max-width="48"  file="police-car.svg" %}
 
-	<p style="margin-left: 65px" id="userVersionAlertContent">You have version $userVersion$ of GranTracker, which is out of date.
+	<p style="margin-left: 65px" id="userVersionAlertContent">You have version $userVersion$ of GranTracker BETA, which is out of date.
 	<br>Why not pull over and upgrade to the latest version. See below for more info.</p>
 </div>
 
-### The latest version of ***GranTracker*** is {{site.data.currentVersionInfo.appVersion}}
+### The latest version of ***GranTracker BETA*** is {{site.data.betaVersionInfo.appVersion}}
 
-{% include accordion_panel_begin_with_image.html first=true groupId="versions" panelId="versions_0"
+{% include accordion_panel_begin_with_image.html first=true expanded=true groupId="versions" panelId="versions_0"
 	heading-height="55" title-padding-top="7"
 	image-file="old-car.svg" image-max-height="35" image-margin-right="10" title="<span style='font-size: 1.2em'>Version History</span>" %}
 
-{% include_relative v3.0.0.html first=true expanded=true %}
-
-{% include_relative v2.0.0.html %}
-
-{% include accordion_panel_begin.html groupId="versions1" panelId="version_1_older" title="v1 History" %}
-
-{% include_relative v1.5.5.html first=true %}
-
-{% include_relative v1.5.4.html %}
-
-{% include_relative v1.5.3.html %}
-
-{% include_relative v1.5.2.html %}
-
-{% include_relative v1.5.1.html %}
-
-{% include_relative v1.5.0.html %}
-
-{% include_relative v1.4.0.html %}
-
-{% include_relative v1.3.3.html %}
-
-{% include_relative v1.3.2.html %}
-
-{% include_relative v1.3.1.html %}
-
-{% include_relative v1.3.0.html %}
-
-{% include_relative v1.2.1.html %}
-
-{% include_relative v1.2.0.html %}
-
-{% include_relative v1.1.1.html %}
-
-{% include_relative v1.1.0.html %}
-
-{% include_relative v1.0.1.html %}
-
-{% include_relative v1.0.0.html last=true %}
-
 {% include accordion_panel_end.html last=true %}
-
-{% include accordion_panel_end.html last=true %}
-
 
 {% include accordion_panel_begin_with_image.html first=true groupId="upgrade" panelId="upgrade_0"
 	heading-height="75" title-padding-top="14"
 	image-file="auto-upgrade.svg" image-max-height="55" image-margin-right="10" title="<span style='font-size: 1.2em'>Download and Upgrade Instructions</span>" %}
 
-{% include accordion_panel_begin.html first=true expanded=true groupId="upgrade_1" panelId="upgrade_01" title="1. Download the new version" %}
+{% include accordion_panel_begin.html first=true expanded=true groupId="upgrade_1" panelId="upgrade_01" title="1. Download the  Beta version" %}
 
-* macOS: <a href="{% include get_app_file_url_MAC_PROD.html %}"><b>Download v{{site.data.currentVersionInfo.appVersion}} for the Mac</b></a>
-* Windows: <a href="{% include get_app_file_url_WINDOWS_PROD.html %}"><b>Download v{{site.data.currentVersionInfo.appVersion}} for Windows</b>
+* macOS: <a href="{% include get_app_file_url_MAC_BETA.html %}"><b>Download v{{site.data.betaVersionInfo.appVersion}} Beta for the Mac</b></a>
+* Windows: <a href="{% include get_app_file_url_WINDOWS_BETA.html %}"><b>Download v{{site.data.betaVersionInfo.appVersion}} Beta for Windows</b>
 
 {% include accordion_panel_end.html %}
 
@@ -120,3 +84,4 @@ Unzip the application, and replace your current application with the new version
 {% include accordion_panel_end.html last=true %}
 
 {% include accordion_panel_end.html last=true %}
+{% endif %}

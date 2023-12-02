@@ -5,6 +5,7 @@ sidebar: my_documentation_sidebar
 hide_sidebar: false
 toc: false
 permalink: faq.html
+custom-javascript-list: ["js/acordionUncollapseOnUrlReference.js"]
 ---
 
 {% include accordion_panel_begin.html expanded=true first=true groupId="faq_00" panelId="faq_01" title='Where to Get Help' %}

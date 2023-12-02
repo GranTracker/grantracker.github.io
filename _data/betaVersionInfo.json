@@ -1,0 +1,16 @@
+{
+  "fileType": "betaVersionInfo",
+  "fileVersion": 1,
+  "betaIsOpen": true,
+  "appVersion": "2.1.0.1",
+  "updateUrl": "/downloads_beta.html",
+  "helpFileV2ContentVersion": 4,
+  "helpFileV2MinAppVersion": "2.0.0",
+  "helpFileV2Url": "/assets/beta/help.v2.json",
+  "tracksUpdateNumber": 1,
+  "trackUpdatesMinAppVersion": "1.3.0",
+  "trackUpdatesFileUrl": "/assets/beta/track_updates/trackUpdatesInfo.json",
+  "raceWeekUpdatesLatestWeek": "2023-44",
+  "raceWeekUpdatesMinAppVersion": "1.3.0",
+  "raceWeekUpdatesFileUrl": "/assets/beta/raceWeekUpdatesInfo.json"
+}

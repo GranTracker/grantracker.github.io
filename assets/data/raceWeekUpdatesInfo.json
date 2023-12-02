@@ -1,0 +1,5278 @@
+{
+  "fileType": "raceWeeks",
+  "version": 4,
+  "minAppVersion": "3.0.0",
+  "weeks": [
+    {
+      "week": "2023-48",
+      "startDateTime": "2023-11-27T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 88,
+          "raceTrackReverse": true,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              6
+            ],
+            "specifiedCarIds": [
+              186
+            ],
+            "laps": 8,
+            "specifiedCars": [
+              {
+                "carId": 186,
+                "name": "G70 3.3T AWD P.Package '22",
+                "manufacturerId": 27,
+                "manufacturerName": "Genesis",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Sardegna Road Track C"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 64,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 4
+          },
+          "raceTrackName": "Monza"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 39,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 9
+          },
+          "raceTrackName": "Grand Valley - Highway 1"
+        }
+      ]
+    },
+    {
+      "week": "2023-47",
+      "startDateTime": "2023-11-20T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 111,
+          "raceTrackReverse": true,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              9
+            ],
+            "specifiedCarIds": [
+              453
+            ],
+            "laps": 4,
+            "specifiedCars": [
+              {
+                "carId": 453,
+                "name": "Willys MB '45",
+                "manufacturerId": 35,
+                "manufacturerName": "Jeep",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Willow - Streets of Willow Springs"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 103,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 4
+          },
+          "raceTrackName": "Trial Mountain"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 51,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 20
+          },
+          "raceTrackName": "Lago Maggiore Centre"
+        }
+      ]
+    },
+    {
+      "week": "2023-46",
+      "startDateTime": "2023-11-13T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 86,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              4
+            ],
+            "specifiedCarIds": [
+              34
+            ],
+            "laps": 6,
+            "specifiedCars": [
+              {
+                "carId": 34,
+                "name": "650S '14",
+                "manufacturerId": 43,
+                "manufacturerName": "McLaren",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Sardegna Road Track B"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 57,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 4
+          },
+          "raceTrackName": "Lago Maggiore Full Course"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 36,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 11
+          },
+          "raceTrackName": "Fuji"
+        }
+      ]
+    },
+    {
+      "week": "2023-45",
+      "startDateTime": "2023-11-06T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 60,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              6
+            ],
+            "specifiedCarIds": [
+              477
+            ],
+            "laps": 6,
+            "specifiedCars": [
+              {
+                "carId": 477,
+                "name": "Model 3 Performance '23",
+                "manufacturerId": 62,
+                "manufacturerName": "Tesla",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Lago Maggiore West End"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 84,
+          "raceTrackReverse": true,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 4
+          },
+          "raceTrackName": "Sardegna Road Track A"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 95,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              3
+            ],
+            "specifiedCarIds": [
+              471,
+              470
+            ],
+            "laps": 12,
+            "specifiedCars": [
+              {
+                "carId": 471,
+                "name": "SF23 Super Formula / Honda '23",
+                "manufacturerId": 59,
+                "manufacturerName": "Super Formula"
+              },
+              {
+                "carId": 470,
+                "name": "SF23 Super Formula / Toyota '23",
+                "manufacturerId": 59,
+                "manufacturerName": "Super Formula"
+              }
+            ]
+          },
+          "raceTrackName": "Suzuka Circuit"
+        }
+      ]
+    },
+    {
+      "week": "2023-44",
+      "startDateTime": "2023-10-30T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 108,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              5
+            ],
+            "specifiedCarIds": [
+              473
+            ],
+            "laps": 8,
+            "specifiedCars": [
+              {
+                "carId": 473,
+                "name": "Garage RCR Civic",
+                "manufacturerId": 68,
+                "manufacturerName": "Garage RCR",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Willow - Horse Thief Mile"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 75,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 5
+          },
+          "raceTrackName": "Red Bull Ring"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 93,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              2,
+              3
+            ],
+            "categoryId": 3,
+            "laps": 8
+          },
+          "raceTrackName": "Spa-Francorchamps"
+        }
+      ]
+    },
+    {
+      "week": "2023-43",
+      "startDateTime": "2023-10-23T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 6,
+          "raceTrackReverse": true,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              9
+            ],
+            "specifiedCarIds": [
+              382
+            ],
+            "laps": 5,
+            "specifiedCars": [
+              {
+                "carId": 382,
+                "name": "Sambabus Typ 2 '62",
+                "manufacturerId": 64,
+                "manufacturerName": "Volkswagen",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Alsace Test Course"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 45,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 6
+          },
+          "raceTrackName": "Interlagos"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 57,
+          "raceTrackReverse": true,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2,
+              3
+            ],
+            "categoryId": 2,
+            "laps": 10
+          },
+          "raceTrackName": "Lago Maggiore Full Course"
+        }
+      ]
+    },
+    {
+      "week": "2023-42",
+      "startDateTime": "2023-10-16T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 59,
+          "specs": {
+            "bopId": 5,
+            "tireIds": [
+              6
+            ],
+            "specifiedCarIds": [
+              476
+            ],
+            "laps": 5,
+            "specifiedCars": [
+              {
+                "carId": 476,
+                "name": "GR Corolla MORIZO Edition",
+                "manufacturerId": 63,
+                "manufacturerName": "Toyota",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Lago Maggiore West"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 77,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 7
+          },
+          "raceTrackName": "Road Atlanta"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 20,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1,
+              3
+            ],
+            "categoryId": 4,
+            "laps": 10
+          },
+          "raceTrackName": "Catalunya GP"
+        }
+      ]
+    },
+    {
+      "week": "2023-41",
+      "startDateTime": "2023-10-09T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 94,
+          "specs": {
+            "bopId": 5,
+            "tireIds": [
+              6
+            ],
+            "specifiedCarIds": [
+              81,
+              107,
+              134,
+              167,
+              173,
+              218,
+              231,
+              289,
+              324,
+              475,
+              338,
+              339,
+              369,
+              420,
+              444,
+              464
+            ],
+            "laps": 1,
+            "specifiedCars": [
+              {
+                "carId": 81,
+                "name": "Aventador LP 750-4 SV '15",
+                "manufacturerId": 37,
+                "manufacturerName": "Lamborghini",
+                "categoryId": 6
+              },
+              {
+                "carId": 107,
+                "name": "Chiron '16",
+                "manufacturerId": 12,
+                "manufacturerName": "Bugatti",
+                "categoryId": 6
+              },
+              {
+                "carId": 134,
+                "name": "Corvette ZR1 (C6) '09",
+                "manufacturerId": 14,
+                "manufacturerName": "Chevrolet",
+                "categoryId": 6
+              },
+              {
+                "carId": 167,
+                "name": "F8 Tributo '19",
+                "manufacturerId": 24,
+                "manufacturerName": "Ferrari",
+                "categoryId": 6
+              },
+              {
+                "carId": 173,
+                "name": "FD3S RX-7",
+                "manufacturerId": 52,
+                "manufacturerName": "RE Amemiya",
+                "categoryId": 6
+              },
+              {
+                "carId": 218,
+                "name": "GT-R NISMO '17",
+                "manufacturerId": 46,
+                "manufacturerName": "Nissan",
+                "categoryId": 6
+              },
+              {
+                "carId": 231,
+                "name": "Huayra '13",
+                "manufacturerId": 47,
+                "manufacturerName": "Pagani",
+                "categoryId": 6
+              },
+              {
+                "carId": 289,
+                "name": "Mercedes-AMG GT Black Series '20",
+                "manufacturerId": 1,
+                "manufacturerName": "AMG",
+                "categoryId": 6
+              },
+              {
+                "carId": 324,
+                "name": "NSX Type R '02",
+                "manufacturerId": 30,
+                "manufacturerName": "Honda",
+                "categoryId": 6
+              },
+              {
+                "carId": 475,
+                "name": "R32 GT-R Nismo '90",
+                "manufacturerId": 46,
+                "manufacturerName": "Nissan",
+                "categoryId": 6
+              },
+              {
+                "carId": 338,
+                "name": "R33 GT-R V-spec '97",
+                "manufacturerId": 46,
+                "manufacturerName": "Nissan",
+                "categoryId": 6
+              },
+              {
+                "carId": 339,
+                "name": "R34 GT-R V-spec II Nür '02",
+                "manufacturerId": 46,
+                "manufacturerName": "Nissan",
+                "categoryId": 6
+              },
+              {
+                "carId": 369,
+                "name": "RX-7 Spirit R Type A (FD) '02",
+                "manufacturerId": 42,
+                "manufacturerName": "Mazda",
+                "categoryId": 6
+              },
+              {
+                "carId": 420,
+                "name": "Supra RZ '97",
+                "manufacturerId": 63,
+                "manufacturerName": "Toyota",
+                "categoryId": 6
+              },
+              {
+                "carId": 444,
+                "name": "Viper GTS '13",
+                "manufacturerId": 21,
+                "manufacturerName": "Dodge",
+                "categoryId": 6
+              },
+              {
+                "carId": 464,
+                "name": "Z Performance '23",
+                "manufacturerId": 46,
+                "manufacturerName": "Nissan",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Special Stage Route X"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 63,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              3
+            ],
+            "categoryId": 4,
+            "laps": 6
+          },
+          "raceTrackName": "Laguna Seca"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 106,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1,
+              3
+            ],
+            "categoryId": 3,
+            "laps": 10
+          },
+          "raceTrackName": "Watkins Glen Long Course"
+        }
+      ]
+    },
+    {
+      "week": "2023-40",
+      "startDateTime": "2023-10-02T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 41,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              4
+            ],
+            "specifiedCarIds": [
+              472
+            ],
+            "laps": 7,
+            "specifiedCars": [
+              {
+                "carId": 472,
+                "name": "Civic Type R (FL5) ’22",
+                "manufacturerId": 30,
+                "manufacturerName": "Honda",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Grand Valley - South"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 103,
+          "raceTrackReverse": true,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 4,
+            "laps": 4
+          },
+          "raceTrackName": "Trial Mountain"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 74,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              3
+            ],
+            "categoryId": 2,
+            "laps": 15
+          },
+          "raceTrackName": "Nürburgring Sprint"
+        }
+      ]
+    },
+    {
+      "week": "2023-39",
+      "startDateTime": "2023-09-25T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 59,
+          "raceTrackReverse": true,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              9
+            ],
+            "specifiedCarIds": [
+              430
+            ],
+            "laps": 4,
+            "specifiedCars": [
+              {
+                "carId": 430,
+                "name": "TT Coupé 3.2 quattro '03",
+                "manufacturerId": 8,
+                "manufacturerName": "Audi",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Lago Maggiore West"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 47,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 5
+          },
+          "raceTrackName": "Kyoto Yamagiwa"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 2,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 2,
+            "laps": 5
+          },
+          "raceTrackName": "24 Heures du Mans"
+        }
+      ]
+    },
+    {
+      "week": "2023-38",
+      "startDateTime": "2023-09-18T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 64,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              6
+            ],
+            "specifiedCarIds": [
+              148
+            ],
+            "laps": 5,
+            "specifiedCars": [
+              {
+                "carId": 148,
+                "name": "Diablo GT '00",
+                "manufacturerId": 37,
+                "manufacturerName": "Lamborghini",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Monza"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 57,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 5
+          },
+          "raceTrackName": "Lago Maggiore Full Course"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 16,
+          "specs": {
+            "tireIds": [
+              3
+            ],
+            "categoryId": 4,
+            "laps": 11
+          },
+          "raceTrackName": "Brands Hatch GP"
+        }
+      ]
+    },
+    {
+      "week": "2023-37",
+      "startDateTime": "2023-09-11T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 4,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              4
+            ],
+            "specifiedCarIds": [
+              63
+            ],
+            "laps": 3,
+            "specifiedCars": [
+              {
+                "carId": 63,
+                "name": "A110 '17",
+                "manufacturerId": 5,
+                "manufacturerName": "Alpine",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Alsace - Village"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 37,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 4
+          },
+          "raceTrackName": "Fuji Short"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 88,
+          "raceTrackReverse": true,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              3
+            ],
+            "categoryId": 3,
+            "laps": 20
+          },
+          "raceTrackName": "Sardegna Road Track C"
+        }
+      ]
+    },
+    {
+      "week": "2023-36",
+      "startDateTime": "2023-09-04T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 107,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              4
+            ],
+            "specifiedCarIds": [
+              468
+            ],
+            "laps": 7,
+            "specifiedCars": [
+              {
+                "carId": 468,
+                "name": "XJ220 '92",
+                "manufacturerId": 34,
+                "manufacturerName": "Jaguar",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Watkins Glen Short Course"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 95,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 5
+          },
+          "raceTrackName": "Suzuka Circuit"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 8,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1,
+              2
+            ],
+            "categoryId": 4,
+            "laps": 10
+          },
+          "raceTrackName": "Autopolis"
+        }
+      ]
+    },
+    {
+      "week": "2023-35",
+      "startDateTime": "2023-08-28T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 96,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              9
+            ],
+            "specifiedCarIds": [
+              114
+            ],
+            "laps": 6,
+            "specifiedCars": [
+              {
+                "carId": 114,
+                "name": "Clio R.S. 220 Trophy '16",
+                "manufacturerId": 55,
+                "manufacturerName": "Renault",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Suzuka East"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 30,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 4
+          },
+          "raceTrackName": "Dragon Trail - Gardens"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 28,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              3
+            ],
+            "categoryId": 3,
+            "laps": 12
+          },
+          "raceTrackName": "Deep Forest Raceway"
+        }
+      ]
+    },
+    {
+      "week": "2023-34",
+      "startDateTime": "2023-08-21T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 39,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              4
+            ],
+            "specifiedCarIds": [
+              164
+            ],
+            "laps": 5,
+            "specifiedCars": [
+              {
+                "carId": 164,
+                "name": "F40 '92",
+                "manufacturerId": 24,
+                "manufacturerName": "Ferrari",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Grand Valley - Highway 1"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 93,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 5
+          },
+          "raceTrackName": "Spa-Francorchamps"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 71,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1,
+              2
+            ],
+            "categoryId": 4,
+            "laps": 9
+          },
+          "raceTrackName": "Nürburgring GP"
+        }
+      ]
+    },
+    {
+      "week": "2023-33",
+      "startDateTime": "2023-08-14T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 54,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              9
+            ],
+            "specifiedCarIds": [
+              120
+            ],
+            "laps": 6,
+            "specifiedCars": [
+              {
+                "carId": 120,
+                "name": "Copen '02",
+                "manufacturerId": 19,
+                "manufacturerName": "Daihatsu",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Lago Maggiore East End"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 77,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 5
+          },
+          "raceTrackName": "Road Atlanta"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 75,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2,
+              3,
+              10,
+              11
+            ],
+            "categoryId": 3,
+            "laps": 13
+          },
+          "raceTrackName": "Red Bull Ring"
+        }
+      ]
+    },
+    {
+      "week": "2023-32",
+      "startDateTime": "2023-08-07T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 95,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "specifiedCarIds": [
+              346
+            ],
+            "laps": 4,
+            "specifiedCars": [
+              {
+                "carId": 346,
+                "name": "RA272 '65",
+                "manufacturerId": 30,
+                "manufacturerName": "Honda"
+              }
+            ]
+          },
+          "raceTrackName": "Suzuka Circuit"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 93,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              1,
+              11,
+              10
+            ],
+            "categoryId": 4,
+            "laps": 4
+          },
+          "raceTrackName": "Spa-Francorchamps"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 45,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2,
+              3
+            ],
+            "categoryId": 3,
+            "laps": 12
+          },
+          "raceTrackName": "Interlagos"
+        }
+      ]
+    },
+    {
+      "week": "2023-31",
+      "startDateTime": "2023-07-31T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 105,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              6
+            ],
+            "specifiedCarIds": [
+              347
+            ],
+            "laps": 8,
+            "specifiedCars": [
+              {
+                "carId": 347,
+                "name": "Racing Kart 125 Shifter",
+                "manufacturerId": 28,
+                "manufacturerName": "Gran Turismo",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Tsukuba"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 66,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 5
+          },
+          "raceTrackName": "Mount Panorama"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 103,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 4,
+            "laps": 10
+          },
+          "raceTrackName": "Trial Mountain"
+        }
+      ]
+    },
+    {
+      "week": "2023-30",
+      "startDateTime": "2023-07-24T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 41,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "specifiedCarIds": [
+              2,
+              76,
+              187,
+              213,
+              232,
+              254,
+              441,
+              455
+            ],
+            "laps": 5,
+            "specifiedCars": [
+              {
+                "carId": 2,
+                "name": "155 2.5 V6 TI '93",
+                "manufacturerId": 3,
+                "manufacturerName": "Alfa Romeo",
+                "categoryId": 4
+              },
+              {
+                "carId": 76,
+                "name": "Atenza Gr.4",
+                "manufacturerId": 42,
+                "manufacturerName": "Mazda",
+                "categoryId": 4
+              },
+              {
+                "carId": 187,
+                "name": "G70 GR4",
+                "manufacturerId": 27,
+                "manufacturerName": "Genesis",
+                "categoryId": 4
+              },
+              {
+                "carId": 213,
+                "name": "GT-R GR.4",
+                "manufacturerId": 46,
+                "manufacturerName": "Nissan",
+                "categoryId": 4
+              },
+              {
+                "carId": 232,
+                "name": "Huracán Gr.4",
+                "manufacturerId": 37,
+                "manufacturerName": "Lamborghini",
+                "categoryId": 4
+              },
+              {
+                "carId": 254,
+                "name": "Lancer Evolution Final Gr.4",
+                "manufacturerId": 45,
+                "manufacturerName": "Mitsubishi",
+                "categoryId": 4
+              },
+              {
+                "carId": 441,
+                "name": "Veyron Gr.4",
+                "manufacturerId": 12,
+                "manufacturerName": "Bugatti",
+                "categoryId": 4
+              },
+              {
+                "carId": 455,
+                "name": "WRX Gr.4",
+                "manufacturerId": 58,
+                "manufacturerName": "Subaru",
+                "categoryId": 4
+              }
+            ]
+          },
+          "raceTrackName": "Grand Valley - South"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 26,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 4
+          },
+          "raceTrackName": "Daytona Road Course"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 77,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              4
+            ],
+            "specifiedCarIds": [
+              410
+            ],
+            "specifiedCars": [
+              {
+                "carId": 410,
+                "name": "SR3 SL '13",
+                "manufacturerId": 54,
+                "manufacturerName": "Radical",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Road Atlanta"
+        }
+      ]
+    },
+    {
+      "week": "2023-29",
+      "startDateTime": "2023-07-17T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 60,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              9
+            ],
+            "specifiedCarIds": [
+              478
+            ],
+            "laps": 6,
+            "specifiedCars": [
+              {
+                "carId": 478,
+                "name": "Lancer Evolution III GSR '95",
+                "manufacturerId": 45,
+                "manufacturerName": "Mitsubishi",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Lago Maggiore West End"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 32,
+          "raceTrackReverse": true,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 4
+          },
+          "raceTrackName": "Dragon Trail - Seaside"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 2,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              2,
+              3
+            ],
+            "categoryId": 1,
+            "laps": 12
+          },
+          "raceTrackName": "24 Heures du Mans"
+        }
+      ]
+    },
+    {
+      "week": "2023-28",
+      "startDateTime": "2023-07-10T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 36,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              4
+            ],
+            "specifiedCarIds": [
+              240
+            ],
+            "laps": 5,
+            "specifiedCars": [
+              {
+                "carId": 240,
+                "name": "Impreza Coupe WRX Type R STi Ver.VI '99",
+                "manufacturerId": 58,
+                "manufacturerName": "Subaru",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Fuji"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 86,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 6
+          },
+          "raceTrackName": "Sardegna Road Track B"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 39,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1,
+              2
+            ],
+            "categoryId": 3,
+            "laps": 10
+          },
+          "raceTrackName": "Grand Valley - Highway 1"
+        }
+      ]
+    },
+    {
+      "week": "2023-27",
+      "startDateTime": "2023-07-03T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 94,
+          "specs": {
+            "bopId": 5,
+            "tireIds": [
+              6
+            ],
+            "specifiedCarIds": [
+              81,
+              107,
+              134,
+              167,
+              173,
+              218,
+              231,
+              289,
+              324,
+              338,
+              339,
+              420,
+              444,
+              464
+            ],
+            "laps": 1,
+            "specifiedCars": [
+              {
+                "carId": 81,
+                "name": "Aventador LP 750-4 SV '15",
+                "manufacturerId": 37,
+                "manufacturerName": "Lamborghini",
+                "categoryId": 6
+              },
+              {
+                "carId": 107,
+                "name": "Chiron '16",
+                "manufacturerId": 12,
+                "manufacturerName": "Bugatti",
+                "categoryId": 6
+              },
+              {
+                "carId": 134,
+                "name": "Corvette ZR1 (C6) '09",
+                "manufacturerId": 14,
+                "manufacturerName": "Chevrolet",
+                "categoryId": 6
+              },
+              {
+                "carId": 167,
+                "name": "F8 Tributo '19",
+                "manufacturerId": 24,
+                "manufacturerName": "Ferrari",
+                "categoryId": 6
+              },
+              {
+                "carId": 173,
+                "name": "FD3S RX-7",
+                "manufacturerId": 52,
+                "manufacturerName": "RE Amemiya",
+                "categoryId": 6
+              },
+              {
+                "carId": 218,
+                "name": "GT-R NISMO '17",
+                "manufacturerId": 46,
+                "manufacturerName": "Nissan",
+                "categoryId": 6
+              },
+              {
+                "carId": 231,
+                "name": "Huayra '13",
+                "manufacturerId": 47,
+                "manufacturerName": "Pagani",
+                "categoryId": 6
+              },
+              {
+                "carId": 289,
+                "name": "Mercedes-AMG GT Black Series '20",
+                "manufacturerId": 1,
+                "manufacturerName": "AMG",
+                "categoryId": 6
+              },
+              {
+                "carId": 324,
+                "name": "NSX Type R '02",
+                "manufacturerId": 30,
+                "manufacturerName": "Honda",
+                "categoryId": 6
+              },
+              {
+                "carId": 338,
+                "name": "R33 GT-R V-spec '97",
+                "manufacturerId": 46,
+                "manufacturerName": "Nissan",
+                "categoryId": 6
+              },
+              {
+                "carId": 339,
+                "name": "R34 GT-R V-spec II Nür '02",
+                "manufacturerId": 46,
+                "manufacturerName": "Nissan",
+                "categoryId": 6
+              },
+              {
+                "carId": 420,
+                "name": "Supra RZ '97",
+                "manufacturerId": 63,
+                "manufacturerName": "Toyota",
+                "categoryId": 6
+              },
+              {
+                "carId": 444,
+                "name": "Viper GTS '13",
+                "manufacturerId": 21,
+                "manufacturerName": "Dodge",
+                "categoryId": 6
+              },
+              {
+                "carId": 464,
+                "name": "Z Performance '23",
+                "manufacturerId": 46,
+                "manufacturerName": "Nissan",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Special Stage Route X"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 103,
+          "raceTrackReverse": true,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 4
+          },
+          "raceTrackName": "Trial Mountain"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 47,
+          "raceTrackReverse": true,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 4,
+            "laps": 10
+          },
+          "raceTrackName": "Kyoto Yamagiwa"
+        }
+      ]
+    },
+    {
+      "week": "2023-26",
+      "startDateTime": "2023-06-26T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 88,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              4
+            ],
+            "specifiedCarIds": [
+              444
+            ],
+            "laps": 5,
+            "specifiedCars": [
+              {
+                "carId": 444,
+                "name": "Viper GTS '13",
+                "manufacturerId": 21,
+                "manufacturerName": "Dodge",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Sardegna Road Track C"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 63,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              3
+            ],
+            "categoryId": 4,
+            "laps": 6
+          },
+          "raceTrackName": "Laguna Seca"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 106,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1,
+              3
+            ],
+            "categoryId": 3,
+            "laps": 10
+          },
+          "raceTrackName": "Watkins Glen Long Course"
+        }
+      ]
+    },
+    {
+      "week": "2023-25",
+      "startDateTime": "2023-06-19T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 6,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              4
+            ],
+            "specifiedCarIds": [
+              466
+            ],
+            "laps": 7,
+            "specifiedCars": [
+              {
+                "carId": 466,
+                "name": "Z8 '01",
+                "manufacturerId": 11,
+                "manufacturerName": "BMW",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Alsace Test Course"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 21,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 4
+          },
+          "raceTrackName": "Catalunya GP No Chicane"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 95,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              3,
+              10,
+              11
+            ],
+            "categoryId": 2,
+            "laps": 10
+          },
+          "raceTrackName": "Suzuka Circuit"
+        }
+      ]
+    },
+    {
+      "week": "2023-24",
+      "startDateTime": "2023-06-12T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 103,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              9
+            ],
+            "specifiedCarIds": [
+              32
+            ],
+            "laps": 4,
+            "specifiedCars": [
+              {
+                "carId": 32,
+                "name": "512 BB '76",
+                "manufacturerId": 24,
+                "manufacturerName": "Ferrari",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Trial Mountain"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 45,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 4,
+            "laps": 5
+          },
+          "raceTrackName": "Interlagos"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 71,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1,
+              2,
+              11,
+              10
+            ],
+            "categoryId": 3,
+            "laps": 10
+          },
+          "raceTrackName": "Nürburgring GP"
+        }
+      ]
+    },
+    {
+      "week": "2023-23",
+      "startDateTime": "2023-06-05T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 105,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              9
+            ],
+            "specifiedCarIds": [
+              363
+            ],
+            "laps": 8,
+            "specifiedCars": [
+              {
+                "carId": 363,
+                "name": "Roadster NR-A (ND) '22",
+                "manufacturerId": 42,
+                "manufacturerName": "Mazda",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Tsukuba"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 51,
+          "raceTrackReverse": true,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 8
+          },
+          "raceTrackName": "Lago Maggiore Centre"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 26,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              1,
+              10,
+              11
+            ],
+            "categoryId": 4,
+            "laps": 10
+          },
+          "raceTrackName": "Daytona Road Course"
+        }
+      ]
+    },
+    {
+      "week": "2023-22",
+      "startDateTime": "2023-05-29T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 95,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 5
+          },
+          "raceTrackName": "Suzuka Circuit"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 65,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              4
+            ],
+            "specifiedCarIds": [
+              68
+            ],
+            "laps": 4,
+            "specifiedCars": [
+              {
+                "carId": 68,
+                "name": "Alphard Executive Lounge '18",
+                "manufacturerId": 63,
+                "manufacturerName": "Toyota",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Monza No Chicane"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 39,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1,
+              2,
+              10,
+              11
+            ],
+            "categoryId": 4,
+            "laps": 10
+          },
+          "raceTrackName": "Grand Valley - Highway 1"
+        }
+      ]
+    },
+    {
+      "week": "2023-21",
+      "startDateTime": "2023-05-22T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 38,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              9
+            ],
+            "specifiedCarIds": [
+              267
+            ],
+            "laps": 4,
+            "specifiedCars": [
+              {
+                "carId": 267,
+                "name": "M3 '89",
+                "manufacturerId": 11,
+                "manufacturerName": "BMW",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Goodwood"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 28,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 4,
+            "laps": 5
+          },
+          "raceTrackName": "Deep Forest Raceway"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 69,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              1,
+              10,
+              11
+            ],
+            "categoryId": 3,
+            "laps": 2
+          },
+          "raceTrackName": "Nürburgring 24h"
+        }
+      ]
+    },
+    {
+      "week": "2023-20",
+      "startDateTime": "2023-05-15T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 54,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              8
+            ],
+            "specifiedCarIds": [
+              120
+            ],
+            "laps": 6,
+            "specifiedCars": [
+              {
+                "carId": 120,
+                "name": "Copen '02",
+                "manufacturerId": 19,
+                "manufacturerName": "Daihatsu",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Lago Maggiore East End"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 77,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 5
+          },
+          "raceTrackName": "Road Atlanta"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 75,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2,
+              3
+            ],
+            "categoryId": 3,
+            "laps": 13
+          },
+          "raceTrackName": "Red Bull Ring"
+        }
+      ]
+    },
+    {
+      "week": "2023-19",
+      "startDateTime": "2023-05-08T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 94,
+          "specs": {
+            "specifiedCarIds": [
+              81,
+              107,
+              134,
+              173,
+              218,
+              231,
+              289,
+              339,
+              420,
+              444
+            ],
+            "laps": 1,
+            "specifiedCars": [
+              {
+                "carId": 81,
+                "name": "Aventador LP 750-4 SV '15",
+                "manufacturerId": 37,
+                "manufacturerName": "Lamborghini",
+                "categoryId": 6
+              },
+              {
+                "carId": 107,
+                "name": "Chiron '16",
+                "manufacturerId": 12,
+                "manufacturerName": "Bugatti",
+                "categoryId": 6
+              },
+              {
+                "carId": 134,
+                "name": "Corvette ZR1 (C6) '09",
+                "manufacturerId": 14,
+                "manufacturerName": "Chevrolet",
+                "categoryId": 6
+              },
+              {
+                "carId": 173,
+                "name": "FD3S RX-7",
+                "manufacturerId": 52,
+                "manufacturerName": "RE Amemiya",
+                "categoryId": 6
+              },
+              {
+                "carId": 218,
+                "name": "GT-R NISMO '17",
+                "manufacturerId": 46,
+                "manufacturerName": "Nissan",
+                "categoryId": 6
+              },
+              {
+                "carId": 231,
+                "name": "Huayra '13",
+                "manufacturerId": 47,
+                "manufacturerName": "Pagani",
+                "categoryId": 6
+              },
+              {
+                "carId": 289,
+                "name": "Mercedes-AMG GT Black Series '20",
+                "manufacturerId": 1,
+                "manufacturerName": "AMG",
+                "categoryId": 6
+              },
+              {
+                "carId": 339,
+                "name": "R34 GT-R V-spec II Nür '02",
+                "manufacturerId": 46,
+                "manufacturerName": "Nissan",
+                "categoryId": 6
+              },
+              {
+                "carId": 420,
+                "name": "Supra RZ '97",
+                "manufacturerId": 63,
+                "manufacturerName": "Toyota",
+                "categoryId": 6
+              },
+              {
+                "carId": 444,
+                "name": "Viper GTS '13",
+                "manufacturerId": 21,
+                "manufacturerName": "Dodge",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Special Stage Route X"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 74,
+          "specs": {
+            "bopId": 2,
+            "categoryId": 3,
+            "laps": 6
+          },
+          "raceTrackName": "Nürburgring Sprint"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 66,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              1,
+              2,
+              10,
+              11
+            ],
+            "categoryId": 4,
+            "laps": 8
+          },
+          "raceTrackName": "Mount Panorama"
+        }
+      ]
+    },
+    {
+      "week": "2023-18",
+      "startDateTime": "2023-05-01T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 17,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 10
+          },
+          "raceTrackName": "Brands Hatch Indy"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 36,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              3
+            ],
+            "specifiedCarIds": [
+              471,
+              470
+            ],
+            "laps": 6,
+            "specifiedCars": [
+              {
+                "carId": 471,
+                "name": "SF23 Super Formula / Honda '23",
+                "manufacturerId": 59,
+                "manufacturerName": "Super Formula"
+              },
+              {
+                "carId": 470,
+                "name": "SF23 Super Formula / Toyota '23",
+                "manufacturerId": 59,
+                "manufacturerName": "Super Formula"
+              }
+            ]
+          },
+          "raceTrackName": "Fuji"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 93,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              1,
+              2,
+              10,
+              11
+            ],
+            "categoryId": 3,
+            "laps": 8
+          },
+          "raceTrackName": "Spa-Francorchamps"
+        }
+      ]
+    },
+    {
+      "week": "2023-17",
+      "startDateTime": "2023-04-24T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 59,
+          "raceTrackReverse": true,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              9
+            ],
+            "specifiedCarIds": [
+              430
+            ],
+            "laps": 4,
+            "specifiedCars": [
+              {
+                "carId": 430,
+                "name": "TT Coupé 3.2 quattro '03",
+                "manufacturerId": 8,
+                "manufacturerName": "Audi",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Lago Maggiore West"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 47,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 5
+          },
+          "raceTrackName": "Kyoto Yamagiwa"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 2,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              2,
+              10,
+              11
+            ],
+            "categoryId": 2,
+            "laps": 5
+          },
+          "raceTrackName": "24 Heures du Mans"
+        }
+      ]
+    },
+    {
+      "week": "2023-16",
+      "startDateTime": "2023-04-17T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 46,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              9,
+              4
+            ],
+            "specifiedCarIds": [
+              325
+            ],
+            "laps": 10,
+            "specifiedCars": [
+              {
+                "carId": 325,
+                "name": "NSX Type R '92",
+                "manufacturerId": 30,
+                "manufacturerName": "Honda",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Kyoto Miyabi"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 95,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 5
+          },
+          "raceTrackName": "Suzuka Circuit"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 77,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2,
+              10,
+              11,
+              1
+            ],
+            "categoryId": 3,
+            "laps": 15
+          },
+          "raceTrackName": "Road Atlanta"
+        }
+      ]
+    },
+    {
+      "week": "2023-15",
+      "startDateTime": "2023-04-10T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 60,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              4
+            ],
+            "specifiedCarIds": [
+              165,
+              166
+            ],
+            "laps": 5,
+            "specifiedCars": [
+              {
+                "carId": 165,
+                "name": "F430 '06",
+                "manufacturerId": 24,
+                "manufacturerName": "Ferrari",
+                "categoryId": 6
+              },
+              {
+                "carId": 166,
+                "name": "F50 '95",
+                "manufacturerId": 24,
+                "manufacturerName": "Ferrari",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Lago Maggiore West End"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 63,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 5
+          },
+          "raceTrackName": "Laguna Seca"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 92,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 8
+          },
+          "raceTrackName": "Spa 24h Layout"
+        }
+      ]
+    },
+    {
+      "week": "2023-14",
+      "startDateTime": "2023-04-03T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 105,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              9
+            ],
+            "specifiedCarIds": [
+              279
+            ],
+            "laps": 6,
+            "specifiedCars": [
+              {
+                "carId": 279,
+                "name": "Mazda3 '19",
+                "manufacturerId": 42,
+                "manufacturerName": "Mazda",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Tsukuba"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 74,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 6
+          },
+          "raceTrackName": "Nürburgring Sprint"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 106,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 12
+          },
+          "raceTrackName": "Watkins Glen Long Course"
+        }
+      ]
+    },
+    {
+      "week": "2023-13",
+      "startDateTime": "2023-03-27T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 6,
+          "raceTrackReverse": true,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              9
+            ],
+            "specifiedCarIds": [
+              382
+            ],
+            "laps": 5,
+            "specifiedCars": [
+              {
+                "carId": 382,
+                "name": "Sambabus Typ 2 '62",
+                "manufacturerId": 64,
+                "manufacturerName": "Volkswagen",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Alsace Test Course"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 16,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 4,
+            "laps": 5
+          },
+          "raceTrackName": "Brands Hatch GP"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 32,
+          "raceTrackReverse": true,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              3,
+              2
+            ],
+            "laps": 10
+          },
+          "raceTrackName": "Dragon Trail - Seaside"
+        }
+      ]
+    },
+    {
+      "week": "2023-12",
+      "startDateTime": "2023-03-20T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 107,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 8
+          },
+          "raceTrackName": "Watkins Glen Short Course"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 93,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              3
+            ],
+            "categoryId": 2,
+            "laps": 4
+          },
+          "raceTrackName": "Spa-Francorchamps"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 28,
+          "raceTrackReverse": true,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1,
+              2
+            ],
+            "categoryId": 3,
+            "laps": 14
+          },
+          "raceTrackName": "Deep Forest Raceway"
+        }
+      ]
+    },
+    {
+      "week": "2023-11",
+      "startDateTime": "2023-03-13T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 43,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              6
+            ],
+            "specifiedCarIds": [
+              29
+            ],
+            "laps": 3,
+            "specifiedCars": [
+              {
+                "carId": 29,
+                "name": "500 1.2 8V Lounge SS '08",
+                "manufacturerId": 25,
+                "manufacturerName": "Fiat",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "High Speed Ring"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 53,
+          "raceTrackReverse": true,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 5
+          },
+          "raceTrackName": "Lago Maggiore East"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 95,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2,
+              3
+            ],
+            "categoryId": 3,
+            "laps": 10
+          },
+          "raceTrackName": "Suzuka Circuit"
+        }
+      ]
+    },
+    {
+      "week": "2023-10",
+      "startDateTime": "2023-03-06T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 64,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              1
+            ],
+            "specifiedCarIds": [
+              346
+            ],
+            "laps": 5,
+            "specifiedCars": [
+              {
+                "carId": 346,
+                "name": "RA272 '65",
+                "manufacturerId": 30,
+                "manufacturerName": "Honda"
+              }
+            ]
+          },
+          "raceTrackName": "Monza"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 45,
+          "mapClassNames": "marginLeft10",
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 6
+          },
+          "raceTrackName": "Interlagos"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 57,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1,
+              2
+            ],
+            "categoryId": 3,
+            "laps": 10
+          },
+          "raceTrackName": "Lago Maggiore Full Course"
+        }
+      ]
+    },
+    {
+      "week": "2023-09",
+      "startDateTime": "2023-02-27T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 41,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              4
+            ],
+            "specifiedCarIds": [
+              49
+            ],
+            "laps": 5,
+            "specifiedCars": [
+              {
+                "carId": 49,
+                "name": "911 Carrera RS CS (993) '95",
+                "manufacturerId": 51,
+                "manufacturerName": "Porsche",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Grand Valley - South"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 103,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 4,
+            "laps": 4
+          },
+          "raceTrackName": "Trial Mountain"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 39,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 10
+          },
+          "raceTrackName": "Grand Valley - Highway 1"
+        }
+      ]
+    },
+    {
+      "week": "2023-08",
+      "startDateTime": "2023-02-20T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 24,
+          "mapClassNames": "marginLeft10",
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              12
+            ],
+            "specifiedCarIds": [
+              340
+            ],
+            "laps": 5,
+            "specifiedCars": [
+              {
+                "carId": 340,
+                "name": "R5 Turbo '80",
+                "manufacturerId": 55,
+                "manufacturerName": "Renault",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Colorado Springs - Lake"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 21,
+          "mapClassNames": "marginLeft30",
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 4
+          },
+          "raceTrackName": "Catalunya GP No Chicane"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 57,
+          "raceTrackReverse": true,
+          "mapClassNames": "marginLeft10",
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2,
+              3
+            ],
+            "categoryId": 2,
+            "laps": 10
+          },
+          "raceTrackName": "Lago Maggiore Full Course"
+        }
+      ]
+    },
+    {
+      "week": "2023-07",
+      "startDateTime": "2023-02-13T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 75,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              4
+            ],
+            "specifiedCarIds": [
+              239
+            ],
+            "laps": 5,
+            "specifiedCars": [
+              {
+                "carId": 239,
+                "name": "Impreza 22B-STi '98",
+                "manufacturerId": 58,
+                "manufacturerName": "Subaru",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Red Bull Ring"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 86,
+          "mapClassNames": "marginLeft20",
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 4,
+            "laps": 7
+          },
+          "raceTrackName": "Sardegna Road Track B"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 32,
+          "mapClassNames": "marginLeft20",
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1,
+              2
+            ],
+            "categoryId": 3,
+            "laps": 10
+          },
+          "raceTrackName": "Dragon Trail - Seaside"
+        }
+      ]
+    },
+    {
+      "week": "2023-06",
+      "startDateTime": "2023-02-06T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 16,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              4
+            ],
+            "specifiedCarIds": [
+              51
+            ],
+            "laps": 6,
+            "specifiedCars": [
+              {
+                "carId": 51,
+                "name": "911 GT3 (996) '01",
+                "manufacturerId": 51,
+                "manufacturerName": "Porsche"
+              }
+            ]
+          },
+          "raceTrackName": "Brands Hatch GP"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 30,
+          "raceTrackReverse": true,
+          "mapClassNames": "marginLeft20",
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 6
+          },
+          "raceTrackName": "Dragon Trail - Gardens"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 112,
+          "mapClassNames": "marginLeft10",
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1,
+              2
+            ],
+            "categoryId": 4,
+            "laps": 15
+          },
+          "raceTrackName": "Willow Springs Big Willow"
+        }
+      ]
+    },
+    {
+      "week": "2023-05",
+      "startDateTime": "2023-01-30T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 60,
+          "raceTrackReverse": true,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "specifiedCarIds": [
+              302
+            ],
+            "laps": 6,
+            "specifiedCars": [
+              {
+                "carId": 302,
+                "name": "Mono '16",
+                "manufacturerId": 10,
+                "manufacturerName": "BAC",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Lago Maggiore West End"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 28,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 4,
+            "laps": 5
+          },
+          "raceTrackName": "Deep Forest Raceway"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 95,
+          "specs": {
+            "bopId": 5,
+            "tireIds": [
+              4,
+              5,
+              6
+            ],
+            "laps": 7
+          },
+          "raceTrackName": "Suzuka Circuit"
+        }
+      ]
+    },
+    {
+      "week": "2023-04",
+      "startDateTime": "2023-01-23T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 107,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              9
+            ],
+            "specifiedCarIds": [
+              390
+            ],
+            "laps": 4,
+            "specifiedCars": [
+              {
+                "carId": 390,
+                "name": "Sierra RS 500 Cosworth '87",
+                "manufacturerId": 26,
+                "manufacturerName": "Ford",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Watkins Glen Short Course"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 63,
+          "mapClassNames": "marginLeft10",
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 5
+          },
+          "raceTrackName": "Laguna Seca"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 3,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              1,
+              2,
+              3
+            ],
+            "categoryId": 4,
+            "laps": 5
+          },
+          "raceTrackName": "24 Heures du Mans No Chicane"
+        }
+      ]
+    },
+    {
+      "week": "2023-03",
+      "startDateTime": "2023-01-16T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 64,
+          "mapClassNames": "marginLeft10",
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              1
+            ],
+            "specifiedCarIds": [
+              284
+            ],
+            "laps": 6,
+            "specifiedCars": [
+              {
+                "carId": 284,
+                "name": "McLaren P1 GTR '16",
+                "manufacturerId": 43,
+                "manufacturerName": "McLaren",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Monza"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 77,
+          "mapClassNames": "marginLeft10",
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 6
+          },
+          "raceTrackName": "Road Atlanta"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 71,
+          "mapClassNames": "marginLeft20",
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1,
+              2
+            ],
+            "categoryId": 3,
+            "laps": 10
+          },
+          "raceTrackName": "Nürburgring GP"
+        }
+      ]
+    },
+    {
+      "week": "2023-02",
+      "startDateTime": "2023-01-09T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 88,
+          "mapClassNames": "marginLeft10",
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              6
+            ],
+            "specifiedCarIds": [
+              63
+            ],
+            "laps": 6,
+            "specifiedCars": [
+              {
+                "carId": 63,
+                "name": "A110 '17",
+                "manufacturerId": 5,
+                "manufacturerName": "Alpine",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Sardegna Road Track C"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 4,
+          "raceTrackReverse": true,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 4
+          },
+          "raceTrackName": "Alsace - Village"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 8,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2,
+              3
+            ],
+            "categoryId": 2,
+            "laps": 12
+          },
+          "raceTrackName": "Autopolis"
+        }
+      ]
+    },
+    {
+      "week": "2023-01",
+      "startDateTime": "2023-01-02T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 105,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              9
+            ],
+            "specifiedCarIds": [
+              363
+            ],
+            "laps": 8,
+            "specifiedCars": [
+              {
+                "carId": 363,
+                "name": "Roadster NR-A (ND) '22",
+                "manufacturerId": 42,
+                "manufacturerName": "Mazda",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Tsukuba"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 106,
+          "mapClassNames": "marginLeft10",
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 4,
+            "laps": 5
+          },
+          "raceTrackName": "Watkins Glen Long Course"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 66,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              1,
+              2
+            ],
+            "categoryId": 3,
+            "laps": 10
+          },
+          "raceTrackName": "Mount Panorama"
+        }
+      ]
+    },
+    {
+      "week": "2022-52",
+      "startDateTime": "2022-12-26T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 86,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              4
+            ],
+            "specifiedCarIds": [
+              193
+            ],
+            "laps": 4,
+            "specifiedCars": [
+              {
+                "carId": 193,
+                "name": "Giulia GTAm '20",
+                "manufacturerId": 3,
+                "manufacturerName": "Alfa Romeo",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Sardegna Road Track B"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 51,
+          "raceTrackReverse": true,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 8
+          },
+          "raceTrackName": "Lago Maggiore Centre"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 26,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              1,
+              3
+            ],
+            "categoryId": 4,
+            "laps": 10
+          },
+          "raceTrackName": "Daytona Road Course"
+        }
+      ]
+    },
+    {
+      "week": "2022-51",
+      "startDateTime": "2022-12-19T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 27,
+          "specs": {
+            "bopId": 1,
+            "specifiedCarIds": [
+              129
+            ],
+            "laps": 7,
+            "specifiedCars": [
+              {
+                "carId": 129,
+                "name": "Corvette C8 '20",
+                "manufacturerId": 14,
+                "manufacturerName": "Chevrolet",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Daytona Tri-Oval"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 78,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 2
+          },
+          "raceTrackName": "Sainte-Croix A"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 95,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2,
+              3
+            ],
+            "categoryId": 3,
+            "laps": 10
+          },
+          "raceTrackName": "Suzuka Circuit"
+        }
+      ]
+    },
+    {
+      "week": "2022-50",
+      "startDateTime": "2022-12-12T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 38,
+          "specs": {
+            "bopId": 5,
+            "specifiedCarIds": [
+              298
+            ],
+            "laps": 4,
+            "specifiedCars": [
+              {
+                "carId": 298,
+                "name": "Mini-Cooper 'S' '65",
+                "manufacturerId": 40,
+                "manufacturerName": "MINI",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Goodwood"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 48,
+          "raceTrackReverse": true,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 3
+          },
+          "raceTrackName": "Kyoto Yamagiwa + Miyabi"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 2,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 1,
+            "laps": 5
+          },
+          "raceTrackName": "24 Heures du Mans"
+        }
+      ]
+    },
+    {
+      "week": "2022-49",
+      "startDateTime": "2022-12-05T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 6,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              4
+            ],
+            "specifiedCarIds": [
+              203,
+              88
+            ],
+            "laps": 8,
+            "specifiedCars": [
+              {
+                "carId": 203,
+                "name": "GR86 RZ '21",
+                "manufacturerId": 63,
+                "manufacturerName": "Toyota",
+                "categoryId": 6
+              },
+              {
+                "carId": 88,
+                "name": "BRZ S '21",
+                "manufacturerId": 58,
+                "manufacturerName": "Subaru",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Alsace Test Course"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 32,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 4
+          },
+          "raceTrackName": "Dragon Trail - Seaside"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 84,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              2,
+              3
+            ],
+            "categoryId": 4,
+            "laps": 10
+          },
+          "raceTrackName": "Sardegna Road Track A"
+        }
+      ]
+    },
+    {
+      "week": "2022-48",
+      "startDateTime": "2022-11-28T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 64,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              2,
+              3
+            ],
+            "specifiedCarIds": [
+              251
+            ],
+            "laps": 5,
+            "specifiedCars": [
+              {
+                "carId": 251,
+                "name": "Lambo V12 VGT",
+                "manufacturerId": 37,
+                "manufacturerName": "Lamborghini",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Monza"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 37,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 4
+          },
+          "raceTrackName": "Fuji Short"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 77,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "specifiedCarIds": [
+              436
+            ],
+            "laps": 12,
+            "specifiedCars": [
+              {
+                "carId": 436,
+                "name": "V6 Escudo Pikes Peak Special '98",
+                "manufacturerId": 60,
+                "manufacturerName": "Suzuki",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Road Atlanta"
+        }
+      ]
+    },
+    {
+      "week": "2022-47",
+      "startDateTime": "2022-11-21T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 28,
+          "raceTrackReverse": true,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1,
+              2,
+              3
+            ],
+            "categoryId": 3,
+            "laps": 5
+          },
+          "raceTrackName": "Deep Forest Raceway"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 75,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 7
+          },
+          "raceTrackName": "Red Bull Ring"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 106,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1,
+              2
+            ],
+            "categoryId": 4,
+            "laps": 10
+          },
+          "raceTrackName": "Watkins Glen Long Course"
+        }
+      ]
+    },
+    {
+      "week": "2022-46",
+      "startDateTime": "2022-11-14T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 99,
+          "specs": {
+            "bopId": 5,
+            "tireIds": [
+              5
+            ],
+            "categoryId": 6,
+            "laps": 4
+          },
+          "raceTrackName": "Tokyo Express East Clockwise"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 76,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 9
+          },
+          "raceTrackName": "Red Bull Ring Short"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 93,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              2,
+              3
+            ],
+            "categoryId": 3,
+            "laps": 8
+          },
+          "raceTrackName": "Spa-Francorchamps"
+        }
+      ]
+    },
+    {
+      "week": "2022-45",
+      "startDateTime": "2022-11-07T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 36,
+          "specs": {
+            "bopId": 5,
+            "tireIds": [
+              4
+            ],
+            "categoryId": 6,
+            "laps": 5
+          },
+          "raceTrackName": "Fuji"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 64,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 5
+          },
+          "raceTrackName": "Monza"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 22,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1,
+              2
+            ],
+            "categoryId": 4,
+            "laps": 10
+          },
+          "raceTrackName": "Catalunya National"
+        }
+      ]
+    },
+    {
+      "week": "2022-44",
+      "startDateTime": "2022-10-31T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 96,
+          "specs": {
+            "bopId": 5,
+            "tireIds": [
+              9
+            ],
+            "categoryId": 6,
+            "laps": 10
+          },
+          "raceTrackName": "Suzuka East"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 9,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 8
+          },
+          "raceTrackName": "Autopolis Shortcut"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 30,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1,
+              2
+            ],
+            "categoryId": 3,
+            "laps": 13
+          },
+          "raceTrackName": "Dragon Trail - Gardens"
+        }
+      ]
+    },
+    {
+      "week": "2022-43",
+      "startDateTime": "2022-10-24T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 98,
+          "specs": {
+            "bopId": 5,
+            "tireIds": [
+              5,
+              6
+            ],
+            "categoryId": 6,
+            "laps": 6
+          },
+          "raceTrackName": "Tokyo Express Central Clockwise"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 103,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 5
+          },
+          "raceTrackName": "Trial Mountain"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 71,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1,
+              2
+            ],
+            "categoryId": 4,
+            "laps": 9
+          },
+          "raceTrackName": "Nürburgring GP"
+        }
+      ]
+    },
+    {
+      "week": "2022-42",
+      "startDateTime": "2022-10-17T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 105,
+          "specs": {
+            "bopId": 5,
+            "tireIds": [
+              6
+            ],
+            "categoryId": 6,
+            "laps": 10
+          },
+          "raceTrackName": "Tsukuba"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 66,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 4,
+            "laps": 5
+          },
+          "raceTrackName": "Mount Panorama"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 63,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              1,
+              2
+            ],
+            "categoryId": 3,
+            "laps": 14
+          },
+          "raceTrackName": "Laguna Seca"
+        }
+      ]
+    },
+    {
+      "week": "2022-41",
+      "startDateTime": "2022-10-10T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 95,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              3
+            ],
+            "specifiedCarIds": [
+              163
+            ],
+            "laps": 5,
+            "specifiedCars": [
+              {
+                "carId": 163,
+                "name": "F1500T-A",
+                "manufacturerId": 28,
+                "manufacturerName": "Gran Turismo",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Suzuka Circuit"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 45,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2,
+              3
+            ],
+            "categoryId": 3,
+            "laps": 14
+          },
+          "raceTrackName": "Interlagos"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 8,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 10
+          },
+          "raceTrackName": "Autopolis"
+        }
+      ]
+    },
+    {
+      "week": "2022-40",
+      "startDateTime": "2022-10-03T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 107,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              5
+            ],
+            "specifiedCarIds": [
+              218
+            ],
+            "laps": 7,
+            "specifiedCars": [
+              {
+                "carId": 218,
+                "name": "GT-R NISMO '17",
+                "manufacturerId": 46,
+                "manufacturerName": "Nissan",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Watkins Glen Short Course"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 93,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 4
+          },
+          "raceTrackName": "Spa-Francorchamps"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 8,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 10
+          },
+          "raceTrackName": "Autopolis"
+        }
+      ]
+    },
+    {
+      "week": "2022-39",
+      "startDateTime": "2022-09-26T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 51,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              9
+            ],
+            "specifiedCarIds": [
+              82
+            ],
+            "laps": 5,
+            "specifiedCars": [
+              {
+                "carId": 82,
+                "name": "Beat '91",
+                "manufacturerId": 30,
+                "manufacturerName": "Honda",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Lago Maggiore Centre"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 88,
+          "raceTrackReverse": true,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 8
+          },
+          "raceTrackName": "Sardegna Road Track C"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 47,
+          "raceTrackReverse": true,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1,
+              2,
+              3
+            ],
+            "categoryId": 2,
+            "laps": 12
+          },
+          "raceTrackName": "Kyoto Yamagiwa"
+        }
+      ]
+    },
+    {
+      "week": "2022-38",
+      "startDateTime": "2022-09-19T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 65,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              6
+            ],
+            "laps": 5
+          },
+          "raceTrackName": "Monza No Chicane"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 103,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 4,
+            "laps": 5
+          },
+          "raceTrackName": "Trial Mountain"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 26,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              1,
+              2
+            ],
+            "categoryId": 3,
+            "laps": 10
+          },
+          "raceTrackName": "Daytona Road Course"
+        }
+      ]
+    },
+    {
+      "week": "2022-37",
+      "startDateTime": "2022-09-12T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 63,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              9
+            ],
+            "specifiedCarIds": [
+              108
+            ],
+            "laps": 4,
+            "specifiedCars": [
+              {
+                "carId": 108,
+                "name": "Civic Type R (EK) '97",
+                "manufacturerId": 30,
+                "manufacturerName": "Honda",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Laguna Seca"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 75,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 5
+          },
+          "raceTrackName": "Red Bull Ring"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 36,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 1,
+            "laps": 13
+          },
+          "raceTrackName": "Fuji"
+        }
+      ]
+    },
+    {
+      "week": "2022-36",
+      "startDateTime": "2022-09-05T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 54,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              6
+            ],
+            "specifiedCarIds": [
+              347
+            ],
+            "laps": 12,
+            "specifiedCars": [
+              {
+                "carId": 347,
+                "name": "Racing Kart 125 Shifter",
+                "manufacturerId": 28,
+                "manufacturerName": "Gran Turismo",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Lago Maggiore East End"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 32,
+          "raceTrackReverse": true,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 4
+          },
+          "raceTrackName": "Dragon Trail - Seaside"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 84,
+          "raceTrackReverse": true,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 10
+          },
+          "raceTrackName": "Sardegna Road Track A"
+        }
+      ]
+    },
+    {
+      "week": "2022-35",
+      "startDateTime": "2022-08-29T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 23,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              12
+            ],
+            "laps": 7
+          },
+          "raceTrackName": "Catalunya Rallycross"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 95,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 4
+          },
+          "raceTrackName": "Suzuka Circuit"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 21,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1,
+              2
+            ],
+            "categoryId": 3,
+            "laps": 10
+          },
+          "raceTrackName": "Catalunya GP No Chicane"
+        }
+      ]
+    },
+    {
+      "week": "2022-34",
+      "startDateTime": "2022-08-22T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 86,
+          "raceTrackReverse": true,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              4
+            ],
+            "specifiedCarIds": [
+              370
+            ],
+            "laps": 4,
+            "specifiedCars": [
+              {
+                "carId": 370,
+                "name": "RX-8 Spirit R '12",
+                "manufacturerId": 42,
+                "manufacturerName": "Mazda",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Sardegna Road Track B"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 112,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 6
+          },
+          "raceTrackName": "Willow Springs Big Willow"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 30,
+          "raceTrackReverse": true,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 12
+          },
+          "raceTrackName": "Dragon Trail - Gardens"
+        }
+      ]
+    },
+    {
+      "week": "2022-33",
+      "startDateTime": "2022-08-15T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 10,
+          "raceTrackReverse": true,
+          "specs": {
+            "bopId": 5,
+            "tireIds": [
+              9
+            ],
+            "categoryId": 6,
+            "laps": 6
+          },
+          "raceTrackName": "Blue Moon Infield A"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 36,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              3
+            ],
+            "categoryId": 2,
+            "laps": 6
+          },
+          "raceTrackName": "Fuji"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 53,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1,
+              2
+            ],
+            "categoryId": 3,
+            "laps": 15
+          },
+          "raceTrackName": "Lago Maggiore East"
+        }
+      ]
+    },
+    {
+      "week": "2022-32",
+      "startDateTime": "2022-08-08T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 4,
+          "specs": {
+            "bopId": 5,
+            "tireIds": [
+              5
+            ],
+            "specifiedCarIds": [
+              265
+            ],
+            "laps": 5,
+            "specifiedCars": [
+              {
+                "carId": 265,
+                "name": "M3 '03",
+                "manufacturerId": 11,
+                "manufacturerName": "BMW",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Alsace - Village"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 106,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 5
+          },
+          "raceTrackName": "Watkins Glen Long Course"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 47,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 12
+          },
+          "raceTrackName": "Kyoto Yamagiwa"
+        }
+      ]
+    },
+    {
+      "week": "2022-31",
+      "startDateTime": "2022-08-01T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 66,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 5
+          },
+          "raceTrackName": "Mount Panorama"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 9,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              4
+            ],
+            "specifiedCarIds": [
+              366
+            ],
+            "laps": 7,
+            "specifiedCars": [
+              {
+                "carId": 366,
+                "name": "Roadster Touring Car",
+                "manufacturerId": 42,
+                "manufacturerName": "Mazda",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Autopolis Shortcut"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 16,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1,
+              2
+            ],
+            "categoryId": 4,
+            "laps": 12
+          },
+          "raceTrackName": "Brands Hatch GP"
+        }
+      ]
+    },
+    {
+      "week": "2022-30",
+      "startDateTime": "2022-07-25T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 111,
+          "specs": {
+            "bopId": 4,
+            "tireIds": [
+              4
+            ],
+            "laps": 5
+          },
+          "raceTrackName": "Willow - Streets of Willow Springs"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 80,
+          "specs": {
+            "bopId": 4,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 3
+          },
+          "raceTrackName": "Sainte-Croix B"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 65,
+          "specs": {
+            "bopId": 4,
+            "tireIds": [
+              1,
+              3
+            ],
+            "categoryId": 3,
+            "laps": 12
+          },
+          "raceTrackName": "Monza No Chicane"
+        }
+      ]
+    },
+    {
+      "week": "2022-29",
+      "startDateTime": "2022-07-18T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 54,
+          "specs": {
+            "bopId": 4,
+            "tireIds": [
+              4
+            ],
+            "laps": 7
+          },
+          "raceTrackName": "Lago Maggiore East End"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 84,
+          "specs": {
+            "bopId": 4,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 4
+          },
+          "raceTrackName": "Sardegna Road Track A"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 72,
+          "specs": {
+            "bopId": 4,
+            "tireIds": [
+              1,
+              3
+            ],
+            "categoryId": 4,
+            "laps": 2
+          },
+          "raceTrackName": "Nürburgring Nordschleife"
+        }
+      ]
+    },
+    {
+      "week": "2022-28",
+      "startDateTime": "2022-07-11T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 20,
+          "specs": {
+            "bopId": 4,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 6
+          },
+          "raceTrackName": "Catalunya GP"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 32,
+          "specs": {
+            "bopId": 4,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 5
+          },
+          "raceTrackName": "Dragon Trail - Seaside"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 28,
+          "specs": {
+            "bopId": 4,
+            "tireIds": [
+              1,
+              3
+            ],
+            "categoryId": 2,
+            "laps": 14
+          },
+          "raceTrackName": "Deep Forest Raceway"
+        }
+      ]
+    },
+    {
+      "week": "2022-27",
+      "startDateTime": "2022-07-04T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 107,
+          "specs": {
+            "bopId": 5,
+            "tireIds": [
+              4
+            ],
+            "laps": 6
+          },
+          "raceTrackName": "Watkins Glen Short Course"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 45,
+          "specs": {
+            "bopId": 4,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 6
+          },
+          "raceTrackName": "Interlagos"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 71,
+          "specs": {
+            "bopId": 4,
+            "tireIds": [
+              2,
+              3
+            ],
+            "categoryId": 3,
+            "laps": 10
+          },
+          "raceTrackName": "Nürburgring GP"
+        }
+      ]
+    },
+    {
+      "week": "2022-26",
+      "startDateTime": "2022-06-27T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 105,
+          "specs": {
+            "bopId": 4,
+            "tireIds": [
+              9
+            ],
+            "specifiedCarIds": [
+              364
+            ],
+            "laps": 6,
+            "specifiedCars": [
+              {
+                "carId": 364,
+                "name": "Roadster S (ND) '15",
+                "manufacturerId": 42,
+                "manufacturerName": "Mazda",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Tsukuba"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 60,
+          "raceTrackReverse": true,
+          "specs": {
+            "bopId": 4,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 7
+          },
+          "raceTrackName": "Lago Maggiore West End"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 106,
+          "specs": {
+            "bopId": 4,
+            "tireIds": [
+              2,
+              3
+            ],
+            "categoryId": 3,
+            "laps": 10
+          },
+          "raceTrackName": "Watkins Glen Long Course"
+        }
+      ]
+    },
+    {
+      "week": "2022-25",
+      "startDateTime": "2022-06-20T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 63,
+          "specs": {
+            "bopId": 5,
+            "tireIds": [
+              9
+            ],
+            "laps": 5
+          },
+          "raceTrackName": "Laguna Seca"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 93,
+          "specs": {
+            "bopId": 4,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 5
+          },
+          "raceTrackName": "Spa-Francorchamps"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 57,
+          "specs": {
+            "bopId": 4,
+            "tireIds": [
+              1,
+              3
+            ],
+            "categoryId": 4,
+            "laps": 9
+          },
+          "raceTrackName": "Lago Maggiore Full Course"
+        }
+      ]
+    },
+    {
+      "week": "2022-24",
+      "startDateTime": "2022-06-13T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 90,
+          "specs": {
+            "bopId": 4,
+            "tireIds": [
+              12
+            ],
+            "specifiedCarIds": [
+              252
+            ],
+            "laps": 4,
+            "specifiedCars": [
+              {
+                "carId": 252,
+                "name": "Lancer Evolution Final '15",
+                "manufacturerId": 45,
+                "manufacturerName": "Mitsubishi",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Sardegna Windmills"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 103,
+          "raceTrackReverse": true,
+          "specs": {
+            "bopId": 4,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 4
+          },
+          "raceTrackName": "Trial Mountain"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 95,
+          "specs": {
+            "bopId": 4,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 10
+          },
+          "raceTrackName": "Suzuka Circuit"
+        }
+      ]
+    },
+    {
+      "week": "2022-23",
+      "startDateTime": "2022-06-06T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 54,
+          "raceTrackReverse": true,
+          "specs": {
+            "bopId": 4,
+            "tireIds": [
+              9
+            ],
+            "categoryId": 5,
+            "laps": 10
+          },
+          "raceTrackName": "Lago Maggiore East End"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 47,
+          "specs": {
+            "bopId": 4,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 5
+          },
+          "raceTrackName": "Kyoto Yamagiwa"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 75,
+          "specs": {
+            "bopId": 4,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 12
+          },
+          "raceTrackName": "Red Bull Ring"
+        }
+      ]
+    },
+    {
+      "week": "2022-22",
+      "startDateTime": "2022-05-30T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 27,
+          "specs": {
+            "bopId": 4,
+            "tireIds": [
+              1
+            ],
+            "laps": 7
+          },
+          "raceTrackName": "Daytona Tri-Oval"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 32,
+          "specs": {
+            "bopId": 4,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 4
+          },
+          "raceTrackName": "Dragon Trail - Seaside"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 26,
+          "specs": {
+            "bopId": 4,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 1,
+            "laps": 12
+          },
+          "raceTrackName": "Daytona Road Course"
+        }
+      ]
+    },
+    {
+      "week": "2022-21",
+      "startDateTime": "2022-05-23T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 76,
+          "specs": {
+            "bopId": 4,
+            "tireIds": [
+              4
+            ],
+            "specifiedCarIds": [
+              196
+            ],
+            "laps": 8,
+            "specifiedCars": [
+              {
+                "carId": 196,
+                "name": "Golf VII GTI '14",
+                "manufacturerId": 64,
+                "manufacturerName": "Volkswagen",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Red Bull Ring Short"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 64,
+          "specs": {
+            "bopId": 4,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 5
+          },
+          "raceTrackName": "Monza"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 8,
+          "specs": {
+            "bopId": 4,
+            "tireIds": [
+              3
+            ],
+            "specifiedCarIds": [
+              387,
+              388
+            ],
+            "laps": 12,
+            "specifiedCars": [
+              {
+                "carId": 387,
+                "name": "SF19 Super Formula / Honda '19",
+                "manufacturerId": 59,
+                "manufacturerName": "Super Formula"
+              },
+              {
+                "carId": 388,
+                "name": "SF19 Super Formula / Toyota '19",
+                "manufacturerId": 59,
+                "manufacturerName": "Super Formula"
+              }
+            ]
+          },
+          "raceTrackName": "Autopolis"
+        }
+      ]
+    },
+    {
+      "week": "2022-20",
+      "startDateTime": "2022-05-16T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 60,
+          "specs": {
+            "bopId": 4,
+            "tireIds": [
+              4
+            ],
+            "specifiedCarIds": [
+              396
+            ],
+            "laps": 5,
+            "specifiedCars": [
+              {
+                "carId": 396,
+                "name": "SILVIA spec-R Aero (S15) '02",
+                "manufacturerId": 46,
+                "manufacturerName": "Nissan",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Lago Maggiore West End"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 28,
+          "raceTrackReverse": true,
+          "specs": {
+            "bopId": 4,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 5
+          },
+          "raceTrackName": "Deep Forest Raceway"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 66,
+          "specs": {
+            "bopId": 4,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 10
+          },
+          "raceTrackName": "Mount Panorama"
+        }
+      ]
+    },
+    {
+      "week": "2022-17",
+      "startDateTime": "2022-04-25T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 63,
+          "specs": {
+            "bopId": 4,
+            "tireIds": [
+              4
+            ],
+            "specifiedCarIds": [
+              410
+            ],
+            "laps": 4,
+            "specifiedCars": [
+              {
+                "carId": 410,
+                "name": "SR3 SL '13",
+                "manufacturerId": 54,
+                "manufacturerName": "Radical",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Laguna Seca"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 57,
+          "specs": {
+            "bopId": 4,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 4,
+            "laps": 4
+          },
+          "raceTrackName": "Lago Maggiore Full Course"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 2,
+          "specs": {
+            "bopId": 4,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 2,
+            "laps": 5
+          },
+          "raceTrackName": "24 Heures du Mans"
+        }
+      ]
+    },
+    {
+      "week": "2022-15",
+      "startDateTime": "2022-04-11T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 36,
+          "specs": {
+            "bopId": 4,
+            "tireIds": [
+              9
+            ],
+            "specifiedCarIds": [
+              229
+            ],
+            "laps": 6,
+            "specifiedCars": [
+              {
+                "carId": 229,
+                "name": "GTO Twin Turbo '91",
+                "manufacturerId": 45,
+                "manufacturerName": "Mitsubishi",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Fuji"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 98,
+          "specs": {
+            "bopId": 4,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 8
+          },
+          "raceTrackName": "Tokyo Express Central Clockwise"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 20,
+          "specs": {
+            "bopId": 5,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 10
+          },
+          "raceTrackName": "Catalunya GP"
+        }
+      ]
+    },
+    {
+      "week": "2022-14",
+      "startDateTime": "2022-04-04T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 96,
+          "specs": {
+            "bopId": 5,
+            "tireIds": [
+              7,
+              8,
+              9
+            ],
+            "specifiedCarIds": [
+              407,
+              122
+            ],
+            "laps": 6,
+            "specifiedCars": [
+              {
+                "carId": 407,
+                "name": "Sprinter Trueno 1600GT APEX (AE86) '83",
+                "manufacturerId": 63,
+                "manufacturerName": "Toyota",
+                "categoryId": 6
+              },
+              {
+                "carId": 122,
+                "name": "Corolla Levin 1600GT APEX (AE86) '83",
+                "manufacturerId": 63,
+                "manufacturerName": "Toyota",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Suzuka East"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 28,
+          "specs": {
+            "bopId": 5,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 5
+          },
+          "raceTrackName": "Deep Forest Raceway"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 93,
+          "specs": {
+            "bopId": 5,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 8
+          },
+          "raceTrackName": "Spa-Francorchamps"
+        }
+      ]
+    },
+    {
+      "week": "2022-13",
+      "startDateTime": "2022-03-28T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 46,
+          "specs": {
+            "bopId": 5,
+            "tireIds": [
+              6
+            ],
+            "specifiedCarIds": [
+              347
+            ],
+            "laps": 8,
+            "specifiedCars": [
+              {
+                "carId": 347,
+                "name": "Racing Kart 125 Shifter",
+                "manufacturerId": 28,
+                "manufacturerName": "Gran Turismo",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Kyoto Miyabi"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 30,
+          "specs": {
+            "bopId": 5,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 4
+          },
+          "raceTrackName": "Dragon Trail - Gardens"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 16,
+          "specs": {
+            "bopId": 5,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 13
+          },
+          "raceTrackName": "Brands Hatch GP"
+        }
+      ]
+    },
+    {
+      "week": "2022-12",
+      "startDateTime": "2022-03-21T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 105,
+          "specs": {
+            "bopId": 5,
+            "tireIds": [
+              9
+            ],
+            "specifiedCarIds": [
+              114
+            ],
+            "laps": 6,
+            "specifiedCars": [
+              {
+                "carId": 114,
+                "name": "Clio R.S. 220 Trophy '16",
+                "manufacturerId": 55,
+                "manufacturerName": "Renault",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Tsukuba"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 45,
+          "specs": {
+            "bopId": 5,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 5
+          },
+          "raceTrackName": "Interlagos"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 8,
+          "specs": {
+            "bopId": 5,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 10
+          },
+          "raceTrackName": "Autopolis"
+        }
+      ]
+    },
+    {
+      "week": "2022-11",
+      "startDateTime": "2022-03-14T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 6,
+          "raceTrackReverse": true,
+          "specs": {
+            "tireIds": [
+              7,
+              8,
+              9
+            ],
+            "specifiedCarIds": [
+              30,
+              298,
+              450
+            ],
+            "laps": 6,
+            "specifiedCars": [
+              {
+                "carId": 30,
+                "name": "500 F '68",
+                "manufacturerId": 25,
+                "manufacturerName": "Fiat",
+                "categoryId": 6
+              },
+              {
+                "carId": 298,
+                "name": "Mini-Cooper 'S' '65",
+                "manufacturerId": 40,
+                "manufacturerName": "MINI",
+                "categoryId": 6
+              },
+              {
+                "carId": 450,
+                "name": "Volkswagen 1200 '66",
+                "manufacturerId": 64,
+                "manufacturerName": "Volkswagen",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Alsace Test Course"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 71,
+          "specs": {
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 3
+          },
+          "raceTrackName": "Nürburgring GP"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 26,
+          "specs": {
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 10
+          },
+          "raceTrackName": "Daytona Road Course"
+        }
+      ]
+    },
+    {
+      "week": "2022-10",
+      "startDateTime": "2022-03-07T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 43,
+          "specs": {
+            "tireIds": [
+              7
+            ],
+            "laps": 4
+          },
+          "raceTrackName": "High Speed Ring"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 28,
+          "specs": {
+            "tireIds": [
+              4
+            ],
+            "laps": 4
+          },
+          "raceTrackName": "Deep Forest Raceway"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{% comment %}
+	first=true
+	last=true
+	expanded=true
+{% endcomment %}
+
+{% include accordion_panel_begin.html first=include.first expanded=include.expanded groupId="version" panelId="version_3_0_0_p1" title="v3.0.0" %}
+
+## Version 3.0.0 New Major Features
+
+You might wonder why these changes warrant a "major" version number jump (from "2.0.0" to "3.0.0"). It's because a significant amount of new code has been added to support Data Updates (described below). So even though it might not look like it, a metric crap-ton of work went into Data Updates. Almost 2 full months of work, in fact.
+
+## SR Percentages
+
+{% include image1.html file="versions/v3.0.0-01.png" style="margin-top: 10px !important; margin-bottom: 20px !important" %}
+
+The new version of Gran Turismo finally gave us a progress bar for SR, so GranTracker now takes advantage of that.
+
+{% include image1.html file="versions/v3.0.0-02.png" style="margin-top: 10px !important; margin-bottom: 20px !important" %}
+
+**NOTE**: 
+
+The first time you run the new version of GranTracker, the new SR columns are at the end of the table, so you won't see them unless you scroll to the right.
+
+So scroll to the right, and either drag the columns where you want them, or use the improved "Select Columns" dialog to move them (more on this below).
+
+## Data Updates
+
+Data Updates allow you to download the latest Race Weeks, along with new/updated Tracks and Maps, and new Help data.
+
+{% include image1.html file="versions/v3.0.0-03.png" style="margin-top: 10px !important; margin-bottom: 20px !important" %}
+
+At the start of each race week, somewhere around 4-5 hours after the tracks switch over, I hope to have the new Race Week uploaded to the server. So all you have to do is install the update.
+
+{% include image1.html file="versions/v3.0.0-04.png" style="margin-top: 10px !important; margin-bottom: 20px !important" %}
+
+{% include image1.html file="versions/v3.0.0-05.png" style="margin-top: 10px !important; margin-bottom: 20px !important" %}
+
+{% include image1.html file="versions/v3.0.0-06.png" style="margin-top: 10px !important; margin-bottom: 20px !important" %}
+
+Much easier than creating the new Race Week each week.
+
+## Backups
+
+GranTracker now backs up your data periodically, in zip files.
+
+You can find more information on this in the Options screen, in the "Backup Options" section:
+
+{% include image1.html file="versions/v3.0.0-07.png" style="margin-top: 10px !important; margin-bottom: 20px !important" %}
+
+Click the green help buttons for more info.
+
+## Improved "Select Columns" Dialog
+
+{% include image1.html file="versions/v3.0.0-08.png" style="margin-top: 10px !important; margin-bottom: 20px !important" %}
+
+The new "Select Columns" Dialog has been improved to allow you to move columns around. Select one or more items, and use the Up- and Down-Arrow buttons to move the items. Click the "Help" button for more information.
+
+## New Minor Features
+
+### Hide ".00" Decimals
+
+There's a new option (which is "on" by default), that doesn't display the ".00" portion of percentages when they're not needed. For example, instead of this:
+
+{% include image1.html file="versions/v3.0.0-09.png" style="margin-top: 10px !important; margin-bottom: 20px !important" %}
+
+it now looks like this:
+
+{% include image1.html file="versions/v3.0.0-10.png" style="margin-top: 10px !important; margin-bottom: 20px !important" %}
+
+You can change this in the Options screen.
+
+### Hide Custom Fields from the Edit Race Dialog
+
+If you have Custom Fields that you're not really using right now, you can hide them from the Edit Race dialog.
+
+{% include image1.html file="versions/v3.0.0-11.png" style="margin-top: 10px !important; margin-bottom: 20px !important" %}
+
+This does NOT affect the table, only the Edit Race dialog. You can show or hide Custom Fields (and other fields) using the Select Columns dialog.
+
+### New Consolidated Menu, with New Menu Items
+
+There's a new consolidated Menu, wih new items, including "Email Support", which makes it easy for you to compose and send me an email if you have questions:
+
+{% include image1.html file="versions/v3.0.0-12.png" style="margin-top: 10px !important; margin-bottom: 20px !important" %}
+
+{% include image1.html file="versions/v3.0.0-13.png" style="margin-top: 10px !important; margin-bottom: 20px !important" %}
+
+## Bug Fixes/Improvements
+
+* New Races no longer default to race "B". Instead, they default to the last race letter used.
+* The debuglog.txt file removes user names from file paths when it logs them.
+* Another fix for an obscure bug with saving/restoring the window size and position.
+
+{% include accordion_panel_end.html last=include.last %}

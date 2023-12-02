@@ -1,0 +1,79 @@
+{
+  "fileType": "trackUpdatesInfo",
+  "version": 3,
+  "updateVersion": "1.0",
+  "minAppVersion": "3.0.0",
+  "tracks": [
+    {
+      "trackId": 30,
+      "name": "Dragon Trail - Gardens",
+      "hasNormalDirection": true,
+      "hasReverseDirection": true,
+      "animatedMapDuration": 6000,
+      "animatedMapTrackStrokeWidth": "15",
+      "animatedMapSpriteRadius": 25,
+      "staticMapNormalFilePath": "Dragon Trail - Gardens.v1.1.jpg",
+      "staticMapNormalFilePath_url": "Dragon_Trail_Gardens.v1.1.jpg",
+      "staticMapReverseFilePath": "Dragon Trail - Gardens Reverse.v1.0.jpg",
+      "staticMapReverseFilePath_url": "Dragon_Trail_Gardens_Reverse.v1.0.jpg",
+      "animatedMapFilePath": "Dragon Trail - Gardens.v1.0.svg",
+      "animatedMapFilePath_url": "Dragon_Trail_Gardens.v1.0.svg"
+    },
+    {
+      "trackId": 54,
+      "name": "Lago Maggiore East End",
+      "hasNormalDirection": true,
+      "hasReverseDirection": true,
+      "animatedMapDuration": 8000,
+      "animatedMapTrackStrokeWidth": "10",
+      "animatedMapSpriteRadius": 18,
+      "staticMapNormalFilePath": "Lago Maggiore East End.v1.1.jpg",
+      "staticMapNormalFilePath_url": "Lago_Maggiore_East_End.v1.1.jpg",
+      "staticMapReverseFilePath": "Lago Maggiore East End Reverse.v1.0.jpg",
+      "staticMapReverseFilePath_url": "Lago_Maggiore_East_End_Reverse.v1.0.jpg",
+      "animatedMapFilePath": "Lago Maggiore East End.v1.0.svg",
+      "animatedMapFilePath_url": "Lago_Maggiore_East_End.v1.0.svg"
+    },
+    {
+      "trackId": 94,
+      "name": "Special Stage Route X",
+      "hasNormalDirection": true,
+      "hasReverseDirection": false,
+      "animatedMapDuration": 10000,
+      "animatedMapTrackStrokeWidth": 140,
+      "animatedMapSpriteRadius": 250,
+      "staticMapNormalFilePath": "Special Stage Route X.v1.1.jpg",
+      "staticMapNormalFilePath_url": "Special_Stage_Route_X.v1.1.jpg",
+      "animatedMapFilePath": "Special Stage Route X.v1.1.svg",
+      "animatedMapFilePath_url": "Special_Stage_Route_X.v1.1.svg"
+    },
+    {
+      "trackId": 96,
+      "name": "Suzuka East",
+      "hasNormalDirection": true,
+      "hasReverseDirection": false,
+      "animatedMapDuration": 7000,
+      "animatedMapTrackStrokeWidth": 15,
+      "animatedMapSpriteRadius": 20,
+      "staticMapNormalFilePath": "Suzuka East.v1.1.jpg",
+      "staticMapNormalFilePath_url": "Suzuka_East.v1.1.jpg",
+      "animatedMapFilePath": "Suzuka East.v1.1.svg",
+      "animatedMapFilePath_url": "Suzuka_East.v1.1.svg"
+    },
+    {
+      "trackId": 103,
+      "name": "Trial Mountain",
+      "hasNormalDirection": true,
+      "hasReverseDirection": true,
+      "animatedMapDuration": 8000,
+      "animatedMapTrackStrokeWidth": 26,
+      "animatedMapSpriteRadius": 45,
+      "staticMapNormalFilePath": "Trial Mountain.v1.0.jpg",
+      "staticMapNormalFilePath_url": "Trial_Mountain.v1.0.jpg",
+      "staticMapReverseFilePath": "Trial Mountain Reverse.v1.1.jpg",
+      "staticMapReverseFilePath_url": "Trial_Mountain_Reverse.v1.1.jpg",
+      "animatedMapFilePath": "Trial Mountain.v1.0.svg",
+      "animatedMapFilePath_url": "Trial_Mountain.v1.0.svg"
+    }
+  ]
+}
