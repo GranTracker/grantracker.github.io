@@ -74,6 +74,21 @@
       "staticMapReverseFilePath_url": "Trial_Mountain_Reverse.v1.1.jpg",
       "animatedMapFilePath": "Trial Mountain.v1.0.svg",
       "animatedMapFilePath_url": "Trial_Mountain.v1.0.svg"
+    },
+    {
+      "trackId": 113,
+      "name": "Lake Louise Long Track",
+      "hasNormalDirection": true,
+      "hasReverseDirection": true,
+      "animatedMapDuration": 9000,
+      "animatedMapTrackStrokeWidth": 20,
+      "animatedMapSpriteRadius": 30,
+      "staticMapNormalFilePath": "Lake Louise Long Track.v1.2.jpg",
+      "staticMapNormalFilePath_url": "Lake_Louise_Long_Track.v1.2.jpg",
+      "staticMapReverseFilePath": "Lake Louise Long Track Reverse.v1.2.jpg",
+      "staticMapReverseFilePath_url": "Lake_Louise_Long_Track_Reverse.v1.2.jpg",
+      "animatedMapFilePath": "Lake Louise Long Track.v1.2.svg",
+      "animatedMapFilePath_url": "Lake_Louise_Long_Track.v1.2.svg"
     }
   ]
 }

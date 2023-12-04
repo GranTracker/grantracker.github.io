@@ -7,10 +7,10 @@
   "helpFileV2Version": "4.0",
   "helpFileV2MinAppVersion": "2.0.0",
   "helpFileV2Url": "/assets/data/help.v2.json",
-  "tracksUpdateVersion": "1.0",
+  "tracksUpdateVersion": "2.0",
   "trackUpdatesMinAppVersion": "3.0.0",
   "trackUpdatesFileUrl": "/assets/data/track_updates/trackUpdatesInfo.json",
-  "raceWeekUpdatesLatestWeek": "2023-48",
+  "raceWeekUpdatesLatestWeek": "2023-49",
   "raceWeekUpdatesMinAppVersion": "3.0.0",
   "raceWeekUpdatesFileUrl": "/assets/data/raceWeekUpdatesInfo.json"
 }
