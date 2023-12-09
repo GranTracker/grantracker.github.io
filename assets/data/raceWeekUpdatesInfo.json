@@ -1,7 +1,7 @@
 {
   "fileType": "raceWeeks",
   "version": 4,
-  "minAppVersion": "3.0.0",
+  "minAppVersion": "3.0.1",
   "weeks": [
     {
       "week": "2023-49",
@@ -19,6 +19,12 @@
               201
             ],
             "laps": 4,
+            "tires": [
+              {
+                "tireId": 9,
+                "tireName": "CS"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 201,
@@ -40,7 +46,13 @@
               2
             ],
             "categoryId": 3,
-            "laps": 4
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
           },
           "raceTrackName": "Catalunya GP No Chicane"
         },
@@ -65,6 +77,12 @@
               468
             ],
             "laps": 7,
+            "tires": [
+              {
+                "tireId": 5,
+                "tireName": "SM"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 52,
@@ -159,6 +177,12 @@
               186
             ],
             "laps": 8,
+            "tires": [
+              {
+                "tireId": 6,
+                "tireName": "SS"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 186,
@@ -180,7 +204,13 @@
               1
             ],
             "categoryId": 4,
-            "laps": 4
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Monza"
         },
@@ -193,7 +223,13 @@
               2
             ],
             "categoryId": 3,
-            "laps": 9
+            "laps": 9,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
           },
           "raceTrackName": "Grand Valley - Highway 1"
         }
@@ -216,6 +252,12 @@
               453
             ],
             "laps": 4,
+            "tires": [
+              {
+                "tireId": 9,
+                "tireName": "CS"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 453,
@@ -237,7 +279,13 @@
               1
             ],
             "categoryId": 3,
-            "laps": 4
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Trial Mountain"
         },
@@ -250,7 +298,13 @@
               1
             ],
             "categoryId": 4,
-            "laps": 20
+            "laps": 20,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Lago Maggiore Centre"
         }
@@ -272,6 +326,12 @@
               34
             ],
             "laps": 6,
+            "tires": [
+              {
+                "tireId": 4,
+                "tireName": "SH"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 34,
@@ -293,7 +353,13 @@
               1
             ],
             "categoryId": 4,
-            "laps": 4
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Lago Maggiore Full Course"
         },
@@ -306,7 +372,13 @@
               2
             ],
             "categoryId": 3,
-            "laps": 11
+            "laps": 11,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
           },
           "raceTrackName": "Fuji"
         }
@@ -328,6 +400,12 @@
               477
             ],
             "laps": 6,
+            "tires": [
+              {
+                "tireId": 6,
+                "tireName": "SS"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 477,
@@ -350,7 +428,13 @@
               1
             ],
             "categoryId": 3,
-            "laps": 4
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Sardegna Road Track A"
         },
@@ -367,6 +451,12 @@
               470
             ],
             "laps": 12,
+            "tires": [
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 471,
@@ -402,6 +492,12 @@
               473
             ],
             "laps": 8,
+            "tires": [
+              {
+                "tireId": 5,
+                "tireName": "SM"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 473,
@@ -423,7 +519,13 @@
               1
             ],
             "categoryId": 4,
-            "laps": 5
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Red Bull Ring"
         },
@@ -437,7 +539,17 @@
               3
             ],
             "categoryId": 3,
-            "laps": 8
+            "laps": 8,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              },
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
           },
           "raceTrackName": "Spa-Francorchamps"
         }
@@ -460,6 +572,12 @@
               382
             ],
             "laps": 5,
+            "tires": [
+              {
+                "tireId": 9,
+                "tireName": "CS"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 382,
@@ -481,7 +599,13 @@
               1
             ],
             "categoryId": 3,
-            "laps": 6
+            "laps": 6,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Interlagos"
         },
@@ -496,7 +620,17 @@
               3
             ],
             "categoryId": 2,
-            "laps": 10
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              },
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
           },
           "raceTrackName": "Lago Maggiore Full Course"
         }
@@ -518,6 +652,12 @@
               476
             ],
             "laps": 5,
+            "tires": [
+              {
+                "tireId": 6,
+                "tireName": "SS"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 476,
@@ -539,7 +679,13 @@
               2
             ],
             "categoryId": 3,
-            "laps": 7
+            "laps": 7,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
           },
           "raceTrackName": "Road Atlanta"
         },
@@ -553,7 +699,17 @@
               3
             ],
             "categoryId": 4,
-            "laps": 10
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              },
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
           },
           "raceTrackName": "Catalunya GP"
         }
@@ -590,6 +746,12 @@
               464
             ],
             "laps": 1,
+            "tires": [
+              {
+                "tireId": 6,
+                "tireName": "SS"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 81,
@@ -716,7 +878,13 @@
               3
             ],
             "categoryId": 4,
-            "laps": 6
+            "laps": 6,
+            "tires": [
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
           },
           "raceTrackName": "Laguna Seca"
         },
@@ -730,7 +898,17 @@
               3
             ],
             "categoryId": 3,
-            "laps": 10
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              },
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
           },
           "raceTrackName": "Watkins Glen Long Course"
         }
@@ -752,6 +930,12 @@
               472
             ],
             "laps": 7,
+            "tires": [
+              {
+                "tireId": 4,
+                "tireName": "SH"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 472,
@@ -774,7 +958,13 @@
               2
             ],
             "categoryId": 4,
-            "laps": 4
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
           },
           "raceTrackName": "Trial Mountain"
         },
@@ -787,7 +977,13 @@
               3
             ],
             "categoryId": 2,
-            "laps": 15
+            "laps": 15,
+            "tires": [
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
           },
           "raceTrackName": "Nürburgring Sprint"
         }
@@ -810,6 +1006,12 @@
               430
             ],
             "laps": 4,
+            "tires": [
+              {
+                "tireId": 9,
+                "tireName": "CS"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 430,
@@ -831,7 +1033,13 @@
               1
             ],
             "categoryId": 3,
-            "laps": 5
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Kyoto Yamagiwa"
         },
@@ -844,7 +1052,13 @@
               2
             ],
             "categoryId": 2,
-            "laps": 5
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
           },
           "raceTrackName": "24 Heures du Mans"
         }
@@ -866,6 +1080,12 @@
               148
             ],
             "laps": 5,
+            "tires": [
+              {
+                "tireId": 6,
+                "tireName": "SS"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 148,
@@ -887,7 +1107,13 @@
               2
             ],
             "categoryId": 3,
-            "laps": 5
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
           },
           "raceTrackName": "Lago Maggiore Full Course"
         },
@@ -899,7 +1125,13 @@
               3
             ],
             "categoryId": 4,
-            "laps": 11
+            "laps": 11,
+            "tires": [
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
           },
           "raceTrackName": "Brands Hatch GP"
         }
@@ -921,6 +1153,12 @@
               63
             ],
             "laps": 3,
+            "tires": [
+              {
+                "tireId": 4,
+                "tireName": "SH"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 63,
@@ -942,7 +1180,13 @@
               1
             ],
             "categoryId": 4,
-            "laps": 4
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Fuji Short"
         },
@@ -956,7 +1200,13 @@
               3
             ],
             "categoryId": 3,
-            "laps": 20
+            "laps": 20,
+            "tires": [
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
           },
           "raceTrackName": "Sardegna Road Track C"
         }
@@ -978,6 +1228,12 @@
               468
             ],
             "laps": 7,
+            "tires": [
+              {
+                "tireId": 4,
+                "tireName": "SH"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 468,
@@ -999,7 +1255,13 @@
               1
             ],
             "categoryId": 3,
-            "laps": 5
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Suzuka Circuit"
         },
@@ -1013,7 +1275,17 @@
               2
             ],
             "categoryId": 4,
-            "laps": 10
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              },
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
           },
           "raceTrackName": "Autopolis"
         }
@@ -1035,6 +1307,12 @@
               114
             ],
             "laps": 6,
+            "tires": [
+              {
+                "tireId": 9,
+                "tireName": "CS"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 114,
@@ -1056,7 +1334,13 @@
               1
             ],
             "categoryId": 4,
-            "laps": 4
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Dragon Trail - Gardens"
         },
@@ -1069,7 +1353,13 @@
               3
             ],
             "categoryId": 3,
-            "laps": 12
+            "laps": 12,
+            "tires": [
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
           },
           "raceTrackName": "Deep Forest Raceway"
         }
@@ -1091,6 +1381,12 @@
               164
             ],
             "laps": 5,
+            "tires": [
+              {
+                "tireId": 4,
+                "tireName": "SH"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 164,
@@ -1112,7 +1408,13 @@
               1
             ],
             "categoryId": 3,
-            "laps": 5
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Spa-Francorchamps"
         },
@@ -1126,7 +1428,17 @@
               2
             ],
             "categoryId": 4,
-            "laps": 9
+            "laps": 9,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              },
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
           },
           "raceTrackName": "Nürburgring GP"
         }
@@ -1148,6 +1460,12 @@
               120
             ],
             "laps": 6,
+            "tires": [
+              {
+                "tireId": 9,
+                "tireName": "CS"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 120,
@@ -1169,7 +1487,13 @@
               1
             ],
             "categoryId": 4,
-            "laps": 5
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Road Atlanta"
         },
@@ -1185,7 +1509,25 @@
               11
             ],
             "categoryId": 3,
-            "laps": 13
+            "laps": 13,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              },
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              },
+              {
+                "tireId": 10,
+                "tireName": "IM"
+              },
+              {
+                "tireId": 11,
+                "tireName": "W"
+              }
+            ]
           },
           "raceTrackName": "Red Bull Ring"
         }
@@ -1207,6 +1549,12 @@
               346
             ],
             "laps": 4,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 346,
@@ -1229,7 +1577,21 @@
               10
             ],
             "categoryId": 4,
-            "laps": 4
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              },
+              {
+                "tireId": 11,
+                "tireName": "W"
+              },
+              {
+                "tireId": 10,
+                "tireName": "IM"
+              }
+            ]
           },
           "raceTrackName": "Spa-Francorchamps"
         },
@@ -1243,7 +1605,17 @@
               3
             ],
             "categoryId": 3,
-            "laps": 12
+            "laps": 12,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              },
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
           },
           "raceTrackName": "Interlagos"
         }
@@ -1265,6 +1637,12 @@
               347
             ],
             "laps": 8,
+            "tires": [
+              {
+                "tireId": 6,
+                "tireName": "SS"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 347,
@@ -1286,7 +1664,13 @@
               1
             ],
             "categoryId": 3,
-            "laps": 5
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Mount Panorama"
         },
@@ -1299,7 +1683,13 @@
               2
             ],
             "categoryId": 4,
-            "laps": 10
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
           },
           "raceTrackName": "Trial Mountain"
         }
@@ -1328,6 +1718,12 @@
               455
             ],
             "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 2,
@@ -1398,7 +1794,13 @@
               1
             ],
             "categoryId": 3,
-            "laps": 4
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Daytona Road Course"
         },
@@ -1412,6 +1814,12 @@
             ],
             "specifiedCarIds": [
               410
+            ],
+            "tires": [
+              {
+                "tireId": 4,
+                "tireName": "SH"
+              }
             ],
             "specifiedCars": [
               {
@@ -1443,6 +1851,12 @@
               478
             ],
             "laps": 6,
+            "tires": [
+              {
+                "tireId": 9,
+                "tireName": "CS"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 478,
@@ -1465,7 +1879,13 @@
               2
             ],
             "categoryId": 3,
-            "laps": 4
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
           },
           "raceTrackName": "Dragon Trail - Seaside"
         },
@@ -1479,7 +1899,17 @@
               3
             ],
             "categoryId": 1,
-            "laps": 12
+            "laps": 12,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              },
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
           },
           "raceTrackName": "24 Heures du Mans"
         }
@@ -1501,6 +1931,12 @@
               240
             ],
             "laps": 5,
+            "tires": [
+              {
+                "tireId": 4,
+                "tireName": "SH"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 240,
@@ -1522,7 +1958,13 @@
               1
             ],
             "categoryId": 4,
-            "laps": 6
+            "laps": 6,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Sardegna Road Track B"
         },
@@ -1536,7 +1978,17 @@
               2
             ],
             "categoryId": 3,
-            "laps": 10
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              },
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
           },
           "raceTrackName": "Grand Valley - Highway 1"
         }
@@ -1571,6 +2023,12 @@
               464
             ],
             "laps": 1,
+            "tires": [
+              {
+                "tireId": 6,
+                "tireName": "SS"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 81,
@@ -1684,7 +2142,13 @@
               2
             ],
             "categoryId": 3,
-            "laps": 4
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
           },
           "raceTrackName": "Trial Mountain"
         },
@@ -1698,7 +2162,13 @@
               2
             ],
             "categoryId": 4,
-            "laps": 10
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
           },
           "raceTrackName": "Kyoto Yamagiwa"
         }
@@ -1720,6 +2190,12 @@
               444
             ],
             "laps": 5,
+            "tires": [
+              {
+                "tireId": 4,
+                "tireName": "SH"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 444,
@@ -1741,7 +2217,13 @@
               3
             ],
             "categoryId": 4,
-            "laps": 6
+            "laps": 6,
+            "tires": [
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
           },
           "raceTrackName": "Laguna Seca"
         },
@@ -1755,7 +2237,17 @@
               3
             ],
             "categoryId": 3,
-            "laps": 10
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              },
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
           },
           "raceTrackName": "Watkins Glen Long Course"
         }
@@ -1777,6 +2269,12 @@
               466
             ],
             "laps": 7,
+            "tires": [
+              {
+                "tireId": 4,
+                "tireName": "SH"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 466,
@@ -1798,7 +2296,13 @@
               2
             ],
             "categoryId": 3,
-            "laps": 4
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
           },
           "raceTrackName": "Catalunya GP No Chicane"
         },
@@ -1813,7 +2317,21 @@
               11
             ],
             "categoryId": 2,
-            "laps": 10
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              },
+              {
+                "tireId": 10,
+                "tireName": "IM"
+              },
+              {
+                "tireId": 11,
+                "tireName": "W"
+              }
+            ]
           },
           "raceTrackName": "Suzuka Circuit"
         }
@@ -1835,6 +2353,12 @@
               32
             ],
             "laps": 4,
+            "tires": [
+              {
+                "tireId": 9,
+                "tireName": "CS"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 32,
@@ -1856,7 +2380,13 @@
               2
             ],
             "categoryId": 4,
-            "laps": 5
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
           },
           "raceTrackName": "Interlagos"
         },
@@ -1872,7 +2402,25 @@
               10
             ],
             "categoryId": 3,
-            "laps": 10
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              },
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              },
+              {
+                "tireId": 11,
+                "tireName": "W"
+              },
+              {
+                "tireId": 10,
+                "tireName": "IM"
+              }
+            ]
           },
           "raceTrackName": "Nürburgring GP"
         }
@@ -1894,6 +2442,12 @@
               363
             ],
             "laps": 8,
+            "tires": [
+              {
+                "tireId": 9,
+                "tireName": "CS"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 363,
@@ -1916,7 +2470,13 @@
               1
             ],
             "categoryId": 3,
-            "laps": 8
+            "laps": 8,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Lago Maggiore Centre"
         },
@@ -1931,7 +2491,21 @@
               11
             ],
             "categoryId": 4,
-            "laps": 10
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              },
+              {
+                "tireId": 10,
+                "tireName": "IM"
+              },
+              {
+                "tireId": 11,
+                "tireName": "W"
+              }
+            ]
           },
           "raceTrackName": "Daytona Road Course"
         }
@@ -1950,7 +2524,13 @@
               1
             ],
             "categoryId": 3,
-            "laps": 5
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Suzuka Circuit"
         },
@@ -1966,6 +2546,12 @@
               68
             ],
             "laps": 4,
+            "tires": [
+              {
+                "tireId": 4,
+                "tireName": "SH"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 68,
@@ -1990,7 +2576,25 @@
               11
             ],
             "categoryId": 4,
-            "laps": 10
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              },
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              },
+              {
+                "tireId": 10,
+                "tireName": "IM"
+              },
+              {
+                "tireId": 11,
+                "tireName": "W"
+              }
+            ]
           },
           "raceTrackName": "Grand Valley - Highway 1"
         }
@@ -2012,6 +2616,12 @@
               267
             ],
             "laps": 4,
+            "tires": [
+              {
+                "tireId": 9,
+                "tireName": "CS"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 267,
@@ -2033,7 +2643,13 @@
               2
             ],
             "categoryId": 4,
-            "laps": 5
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
           },
           "raceTrackName": "Deep Forest Raceway"
         },
@@ -2048,7 +2664,21 @@
               11
             ],
             "categoryId": 3,
-            "laps": 2
+            "laps": 2,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              },
+              {
+                "tireId": 10,
+                "tireName": "IM"
+              },
+              {
+                "tireId": 11,
+                "tireName": "W"
+              }
+            ]
           },
           "raceTrackName": "Nürburgring 24h"
         }
@@ -2070,6 +2700,12 @@
               120
             ],
             "laps": 6,
+            "tires": [
+              {
+                "tireId": 8,
+                "tireName": "CM"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 120,
@@ -2091,7 +2727,13 @@
               1
             ],
             "categoryId": 4,
-            "laps": 5
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Road Atlanta"
         },
@@ -2105,7 +2747,17 @@
               3
             ],
             "categoryId": 3,
-            "laps": 13
+            "laps": 13,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              },
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
           },
           "raceTrackName": "Red Bull Ring"
         }
@@ -2229,7 +2881,25 @@
               11
             ],
             "categoryId": 4,
-            "laps": 8
+            "laps": 8,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              },
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              },
+              {
+                "tireId": 10,
+                "tireName": "IM"
+              },
+              {
+                "tireId": 11,
+                "tireName": "W"
+              }
+            ]
           },
           "raceTrackName": "Mount Panorama"
         }
@@ -2248,7 +2918,13 @@
               1
             ],
             "categoryId": 4,
-            "laps": 10
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Brands Hatch Indy"
         },
@@ -2265,6 +2941,12 @@
               470
             ],
             "laps": 6,
+            "tires": [
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 471,
@@ -2294,7 +2976,25 @@
               11
             ],
             "categoryId": 3,
-            "laps": 8
+            "laps": 8,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              },
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              },
+              {
+                "tireId": 10,
+                "tireName": "IM"
+              },
+              {
+                "tireId": 11,
+                "tireName": "W"
+              }
+            ]
           },
           "raceTrackName": "Spa-Francorchamps"
         }
@@ -2317,6 +3017,12 @@
               430
             ],
             "laps": 4,
+            "tires": [
+              {
+                "tireId": 9,
+                "tireName": "CS"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 430,
@@ -2338,7 +3044,13 @@
               1
             ],
             "categoryId": 3,
-            "laps": 5
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Kyoto Yamagiwa"
         },
@@ -2353,7 +3065,21 @@
               11
             ],
             "categoryId": 2,
-            "laps": 5
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              },
+              {
+                "tireId": 10,
+                "tireName": "IM"
+              },
+              {
+                "tireId": 11,
+                "tireName": "W"
+              }
+            ]
           },
           "raceTrackName": "24 Heures du Mans"
         }
@@ -2376,6 +3102,16 @@
               325
             ],
             "laps": 10,
+            "tires": [
+              {
+                "tireId": 9,
+                "tireName": "CS"
+              },
+              {
+                "tireId": 4,
+                "tireName": "SH"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 325,
@@ -2397,7 +3133,13 @@
               1
             ],
             "categoryId": 4,
-            "laps": 5
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Suzuka Circuit"
         },
@@ -2413,7 +3155,25 @@
               1
             ],
             "categoryId": 3,
-            "laps": 15
+            "laps": 15,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              },
+              {
+                "tireId": 10,
+                "tireName": "IM"
+              },
+              {
+                "tireId": 11,
+                "tireName": "W"
+              },
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Road Atlanta"
         }
@@ -2436,6 +3196,12 @@
               166
             ],
             "laps": 5,
+            "tires": [
+              {
+                "tireId": 4,
+                "tireName": "SH"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 165,
@@ -2464,7 +3230,13 @@
               2
             ],
             "categoryId": 3,
-            "laps": 5
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
           },
           "raceTrackName": "Laguna Seca"
         },
@@ -2477,7 +3249,13 @@
               1
             ],
             "categoryId": 4,
-            "laps": 8
+            "laps": 8,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Spa 24h Layout"
         }
@@ -2499,6 +3277,12 @@
               279
             ],
             "laps": 6,
+            "tires": [
+              {
+                "tireId": 9,
+                "tireName": "CS"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 279,
@@ -2520,7 +3304,13 @@
               1
             ],
             "categoryId": 4,
-            "laps": 6
+            "laps": 6,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Nürburgring Sprint"
         },
@@ -2533,7 +3323,13 @@
               1
             ],
             "categoryId": 3,
-            "laps": 12
+            "laps": 12,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Watkins Glen Long Course"
         }
@@ -2556,6 +3352,12 @@
               382
             ],
             "laps": 5,
+            "tires": [
+              {
+                "tireId": 9,
+                "tireName": "CS"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 382,
@@ -2577,7 +3379,13 @@
               2
             ],
             "categoryId": 4,
-            "laps": 5
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
           },
           "raceTrackName": "Brands Hatch GP"
         },
@@ -2591,7 +3399,17 @@
               3,
               2
             ],
-            "laps": 10
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              },
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
           },
           "raceTrackName": "Dragon Trail - Seaside"
         }
@@ -2610,7 +3428,13 @@
               1
             ],
             "categoryId": 4,
-            "laps": 8
+            "laps": 8,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Watkins Glen Short Course"
         },
@@ -2623,7 +3447,13 @@
               3
             ],
             "categoryId": 2,
-            "laps": 4
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
           },
           "raceTrackName": "Spa-Francorchamps"
         },
@@ -2638,7 +3468,17 @@
               2
             ],
             "categoryId": 3,
-            "laps": 14
+            "laps": 14,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              },
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
           },
           "raceTrackName": "Deep Forest Raceway"
         }
@@ -2660,6 +3500,12 @@
               29
             ],
             "laps": 3,
+            "tires": [
+              {
+                "tireId": 6,
+                "tireName": "SS"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 29,
@@ -2682,7 +3528,13 @@
               2
             ],
             "categoryId": 3,
-            "laps": 5
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
           },
           "raceTrackName": "Lago Maggiore East"
         },
@@ -2696,7 +3548,17 @@
               3
             ],
             "categoryId": 3,
-            "laps": 10
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              },
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
           },
           "raceTrackName": "Suzuka Circuit"
         }
@@ -2718,6 +3580,12 @@
               346
             ],
             "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 346,
@@ -2739,7 +3607,13 @@
               1
             ],
             "categoryId": 3,
-            "laps": 6
+            "laps": 6,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Interlagos"
         },
@@ -2753,7 +3627,17 @@
               2
             ],
             "categoryId": 3,
-            "laps": 10
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              },
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
           },
           "raceTrackName": "Lago Maggiore Full Course"
         }
@@ -2775,6 +3659,12 @@
               49
             ],
             "laps": 5,
+            "tires": [
+              {
+                "tireId": 4,
+                "tireName": "SH"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 49,
@@ -2796,7 +3686,13 @@
               2
             ],
             "categoryId": 4,
-            "laps": 4
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
           },
           "raceTrackName": "Trial Mountain"
         },
@@ -2809,7 +3705,13 @@
               1
             ],
             "categoryId": 3,
-            "laps": 10
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Grand Valley - Highway 1"
         }
@@ -2832,6 +3734,12 @@
               340
             ],
             "laps": 5,
+            "tires": [
+              {
+                "tireId": 12,
+                "tireName": "Dirt"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 340,
@@ -2854,7 +3762,13 @@
               2
             ],
             "categoryId": 3,
-            "laps": 4
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
           },
           "raceTrackName": "Catalunya GP No Chicane"
         },
@@ -2870,7 +3784,17 @@
               3
             ],
             "categoryId": 2,
-            "laps": 10
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              },
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
           },
           "raceTrackName": "Lago Maggiore Full Course"
         }
@@ -2892,6 +3816,12 @@
               239
             ],
             "laps": 5,
+            "tires": [
+              {
+                "tireId": 4,
+                "tireName": "SH"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 239,
@@ -2914,7 +3844,13 @@
               2
             ],
             "categoryId": 4,
-            "laps": 7
+            "laps": 7,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
           },
           "raceTrackName": "Sardegna Road Track B"
         },
@@ -2929,7 +3865,17 @@
               2
             ],
             "categoryId": 3,
-            "laps": 10
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              },
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
           },
           "raceTrackName": "Dragon Trail - Seaside"
         }
@@ -2951,6 +3897,12 @@
               51
             ],
             "laps": 6,
+            "tires": [
+              {
+                "tireId": 4,
+                "tireName": "SH"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 51,
@@ -2973,7 +3925,13 @@
               1
             ],
             "categoryId": 3,
-            "laps": 6
+            "laps": 6,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Dragon Trail - Gardens"
         },
@@ -2988,7 +3946,17 @@
               2
             ],
             "categoryId": 4,
-            "laps": 15
+            "laps": 15,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              },
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
           },
           "raceTrackName": "Willow Springs Big Willow"
         }
@@ -3011,6 +3979,12 @@
               302
             ],
             "laps": 6,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 302,
@@ -3032,7 +4006,13 @@
               2
             ],
             "categoryId": 4,
-            "laps": 5
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
           },
           "raceTrackName": "Deep Forest Raceway"
         },
@@ -3046,7 +4026,21 @@
               5,
               6
             ],
-            "laps": 7
+            "laps": 7,
+            "tires": [
+              {
+                "tireId": 4,
+                "tireName": "SH"
+              },
+              {
+                "tireId": 5,
+                "tireName": "SM"
+              },
+              {
+                "tireId": 6,
+                "tireName": "SS"
+              }
+            ]
           },
           "raceTrackName": "Suzuka Circuit"
         }
@@ -3068,6 +4062,12 @@
               390
             ],
             "laps": 4,
+            "tires": [
+              {
+                "tireId": 9,
+                "tireName": "CS"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 390,
@@ -3090,7 +4090,13 @@
               2
             ],
             "categoryId": 3,
-            "laps": 5
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
           },
           "raceTrackName": "Laguna Seca"
         },
@@ -3105,7 +4111,21 @@
               3
             ],
             "categoryId": 4,
-            "laps": 5
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              },
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              },
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
           },
           "raceTrackName": "24 Heures du Mans No Chicane"
         }
@@ -3128,6 +4148,12 @@
               284
             ],
             "laps": 6,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 284,
@@ -3150,7 +4176,13 @@
               1
             ],
             "categoryId": 4,
-            "laps": 6
+            "laps": 6,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Road Atlanta"
         },
@@ -3165,7 +4197,17 @@
               2
             ],
             "categoryId": 3,
-            "laps": 10
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              },
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
           },
           "raceTrackName": "Nürburgring GP"
         }
@@ -3188,6 +4230,12 @@
               63
             ],
             "laps": 6,
+            "tires": [
+              {
+                "tireId": 6,
+                "tireName": "SS"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 63,
@@ -3210,7 +4258,13 @@
               2
             ],
             "categoryId": 3,
-            "laps": 4
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
           },
           "raceTrackName": "Alsace - Village"
         },
@@ -3224,7 +4278,17 @@
               3
             ],
             "categoryId": 2,
-            "laps": 12
+            "laps": 12,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              },
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
           },
           "raceTrackName": "Autopolis"
         }
@@ -3246,6 +4310,12 @@
               363
             ],
             "laps": 8,
+            "tires": [
+              {
+                "tireId": 9,
+                "tireName": "CS"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 363,
@@ -3268,7 +4338,13 @@
               2
             ],
             "categoryId": 4,
-            "laps": 5
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
           },
           "raceTrackName": "Watkins Glen Long Course"
         },
@@ -3282,7 +4358,17 @@
               2
             ],
             "categoryId": 3,
-            "laps": 10
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              },
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
           },
           "raceTrackName": "Mount Panorama"
         }
@@ -3304,6 +4390,12 @@
               193
             ],
             "laps": 4,
+            "tires": [
+              {
+                "tireId": 4,
+                "tireName": "SH"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 193,
@@ -3326,7 +4418,13 @@
               2
             ],
             "categoryId": 3,
-            "laps": 8
+            "laps": 8,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
           },
           "raceTrackName": "Lago Maggiore Centre"
         },
@@ -3340,7 +4438,17 @@
               3
             ],
             "categoryId": 4,
-            "laps": 10
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              },
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
           },
           "raceTrackName": "Daytona Road Course"
         }
@@ -3380,7 +4488,13 @@
               1
             ],
             "categoryId": 4,
-            "laps": 2
+            "laps": 2,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Sainte-Croix A"
         },
@@ -3394,7 +4508,17 @@
               3
             ],
             "categoryId": 3,
-            "laps": 10
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              },
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
           },
           "raceTrackName": "Suzuka Circuit"
         }
@@ -3435,7 +4559,13 @@
               1
             ],
             "categoryId": 4,
-            "laps": 3
+            "laps": 3,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Kyoto Yamagiwa + Miyabi"
         },
@@ -3448,7 +4578,13 @@
               2
             ],
             "categoryId": 1,
-            "laps": 5
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
           },
           "raceTrackName": "24 Heures du Mans"
         }
@@ -3471,6 +4607,12 @@
               88
             ],
             "laps": 8,
+            "tires": [
+              {
+                "tireId": 4,
+                "tireName": "SH"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 203,
@@ -3499,7 +4641,13 @@
               2
             ],
             "categoryId": 3,
-            "laps": 4
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
           },
           "raceTrackName": "Dragon Trail - Seaside"
         },
@@ -3513,7 +4661,17 @@
               3
             ],
             "categoryId": 4,
-            "laps": 10
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              },
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
           },
           "raceTrackName": "Sardegna Road Track A"
         }
@@ -3536,6 +4694,16 @@
               251
             ],
             "laps": 5,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              },
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 251,
@@ -3557,7 +4725,13 @@
               1
             ],
             "categoryId": 4,
-            "laps": 4
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Fuji Short"
         },
@@ -3573,6 +4747,12 @@
               436
             ],
             "laps": 12,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 436,
@@ -3603,7 +4783,21 @@
               3
             ],
             "categoryId": 3,
-            "laps": 5
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              },
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              },
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
           },
           "raceTrackName": "Deep Forest Raceway"
         },
@@ -3616,7 +4810,13 @@
               1
             ],
             "categoryId": 3,
-            "laps": 7
+            "laps": 7,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Red Bull Ring"
         },
@@ -3630,7 +4830,17 @@
               2
             ],
             "categoryId": 4,
-            "laps": 10
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              },
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
           },
           "raceTrackName": "Watkins Glen Long Course"
         }
@@ -3649,7 +4859,13 @@
               5
             ],
             "categoryId": 6,
-            "laps": 4
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 5,
+                "tireName": "SM"
+              }
+            ]
           },
           "raceTrackName": "Tokyo Express East Clockwise"
         },
@@ -3662,7 +4878,13 @@
               1
             ],
             "categoryId": 4,
-            "laps": 9
+            "laps": 9,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Red Bull Ring Short"
         },
@@ -3676,7 +4898,17 @@
               3
             ],
             "categoryId": 3,
-            "laps": 8
+            "laps": 8,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              },
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
           },
           "raceTrackName": "Spa-Francorchamps"
         }
@@ -3695,7 +4927,13 @@
               4
             ],
             "categoryId": 6,
-            "laps": 5
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 4,
+                "tireName": "SH"
+              }
+            ]
           },
           "raceTrackName": "Fuji"
         },
@@ -3708,7 +4946,13 @@
               1
             ],
             "categoryId": 3,
-            "laps": 5
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Monza"
         },
@@ -3722,7 +4966,17 @@
               2
             ],
             "categoryId": 4,
-            "laps": 10
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              },
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
           },
           "raceTrackName": "Catalunya National"
         }
@@ -3741,7 +4995,13 @@
               9
             ],
             "categoryId": 6,
-            "laps": 10
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 9,
+                "tireName": "CS"
+              }
+            ]
           },
           "raceTrackName": "Suzuka East"
         },
@@ -3754,7 +5014,13 @@
               1
             ],
             "categoryId": 4,
-            "laps": 8
+            "laps": 8,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Autopolis Shortcut"
         },
@@ -3768,7 +5034,17 @@
               2
             ],
             "categoryId": 3,
-            "laps": 13
+            "laps": 13,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              },
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
           },
           "raceTrackName": "Dragon Trail - Gardens"
         }
@@ -3788,7 +5064,17 @@
               6
             ],
             "categoryId": 6,
-            "laps": 6
+            "laps": 6,
+            "tires": [
+              {
+                "tireId": 5,
+                "tireName": "SM"
+              },
+              {
+                "tireId": 6,
+                "tireName": "SS"
+              }
+            ]
           },
           "raceTrackName": "Tokyo Express Central Clockwise"
         },
@@ -3801,7 +5087,13 @@
               1
             ],
             "categoryId": 3,
-            "laps": 5
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Trial Mountain"
         },
@@ -3815,7 +5107,17 @@
               2
             ],
             "categoryId": 4,
-            "laps": 9
+            "laps": 9,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              },
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
           },
           "raceTrackName": "Nürburgring GP"
         }
@@ -3834,7 +5136,13 @@
               6
             ],
             "categoryId": 6,
-            "laps": 10
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 6,
+                "tireName": "SS"
+              }
+            ]
           },
           "raceTrackName": "Tsukuba"
         },
@@ -3847,7 +5155,13 @@
               2
             ],
             "categoryId": 4,
-            "laps": 5
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
           },
           "raceTrackName": "Mount Panorama"
         },
@@ -3861,7 +5175,17 @@
               2
             ],
             "categoryId": 3,
-            "laps": 14
+            "laps": 14,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              },
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
           },
           "raceTrackName": "Laguna Seca"
         }
@@ -3883,6 +5207,12 @@
               163
             ],
             "laps": 5,
+            "tires": [
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 163,
@@ -3905,7 +5235,17 @@
               3
             ],
             "categoryId": 3,
-            "laps": 14
+            "laps": 14,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              },
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
           },
           "raceTrackName": "Interlagos"
         },
@@ -3918,7 +5258,13 @@
               1
             ],
             "categoryId": 3,
-            "laps": 10
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Autopolis"
         }
@@ -3940,6 +5286,12 @@
               218
             ],
             "laps": 7,
+            "tires": [
+              {
+                "tireId": 5,
+                "tireName": "SM"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 218,
@@ -3961,7 +5313,13 @@
               1
             ],
             "categoryId": 4,
-            "laps": 4
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Spa-Francorchamps"
         },
@@ -3974,7 +5332,13 @@
               1
             ],
             "categoryId": 3,
-            "laps": 10
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Autopolis"
         }
@@ -3996,6 +5360,12 @@
               82
             ],
             "laps": 5,
+            "tires": [
+              {
+                "tireId": 9,
+                "tireName": "CS"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 82,
@@ -4018,7 +5388,13 @@
               1
             ],
             "categoryId": 3,
-            "laps": 8
+            "laps": 8,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Sardegna Road Track C"
         },
@@ -4034,7 +5410,21 @@
               3
             ],
             "categoryId": 2,
-            "laps": 12
+            "laps": 12,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              },
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              },
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
           },
           "raceTrackName": "Kyoto Yamagiwa"
         }
@@ -4052,7 +5442,13 @@
             "tireIds": [
               6
             ],
-            "laps": 5
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 6,
+                "tireName": "SS"
+              }
+            ]
           },
           "raceTrackName": "Monza No Chicane"
         },
@@ -4065,7 +5461,13 @@
               2
             ],
             "categoryId": 4,
-            "laps": 5
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
           },
           "raceTrackName": "Trial Mountain"
         },
@@ -4079,7 +5481,17 @@
               2
             ],
             "categoryId": 3,
-            "laps": 10
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              },
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
           },
           "raceTrackName": "Daytona Road Course"
         }
@@ -4101,6 +5513,12 @@
               108
             ],
             "laps": 4,
+            "tires": [
+              {
+                "tireId": 9,
+                "tireName": "CS"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 108,
@@ -4122,7 +5540,13 @@
               1
             ],
             "categoryId": 3,
-            "laps": 5
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Red Bull Ring"
         },
@@ -4135,7 +5559,13 @@
               1
             ],
             "categoryId": 1,
-            "laps": 13
+            "laps": 13,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Fuji"
         }
@@ -4157,6 +5587,12 @@
               347
             ],
             "laps": 12,
+            "tires": [
+              {
+                "tireId": 6,
+                "tireName": "SS"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 347,
@@ -4179,7 +5615,13 @@
               1
             ],
             "categoryId": 3,
-            "laps": 4
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Dragon Trail - Seaside"
         },
@@ -4193,7 +5635,13 @@
               1
             ],
             "categoryId": 4,
-            "laps": 10
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Sardegna Road Track A"
         }
@@ -4211,7 +5659,13 @@
             "tireIds": [
               12
             ],
-            "laps": 7
+            "laps": 7,
+            "tires": [
+              {
+                "tireId": 12,
+                "tireName": "Dirt"
+              }
+            ]
           },
           "raceTrackName": "Catalunya Rallycross"
         },
@@ -4224,7 +5678,13 @@
               1
             ],
             "categoryId": 4,
-            "laps": 4
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Suzuka Circuit"
         },
@@ -4238,7 +5698,17 @@
               2
             ],
             "categoryId": 3,
-            "laps": 10
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              },
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
           },
           "raceTrackName": "Catalunya GP No Chicane"
         }
@@ -4261,6 +5731,12 @@
               370
             ],
             "laps": 4,
+            "tires": [
+              {
+                "tireId": 4,
+                "tireName": "SH"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 370,
@@ -4282,7 +5758,13 @@
               1
             ],
             "categoryId": 3,
-            "laps": 6
+            "laps": 6,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Willow Springs Big Willow"
         },
@@ -4296,7 +5778,13 @@
               1
             ],
             "categoryId": 4,
-            "laps": 12
+            "laps": 12,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Dragon Trail - Gardens"
         }
@@ -4316,7 +5804,13 @@
               9
             ],
             "categoryId": 6,
-            "laps": 6
+            "laps": 6,
+            "tires": [
+              {
+                "tireId": 9,
+                "tireName": "CS"
+              }
+            ]
           },
           "raceTrackName": "Blue Moon Infield A"
         },
@@ -4329,7 +5823,13 @@
               3
             ],
             "categoryId": 2,
-            "laps": 6
+            "laps": 6,
+            "tires": [
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
           },
           "raceTrackName": "Fuji"
         },
@@ -4343,7 +5843,17 @@
               2
             ],
             "categoryId": 3,
-            "laps": 15
+            "laps": 15,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              },
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
           },
           "raceTrackName": "Lago Maggiore East"
         }
@@ -4365,6 +5875,12 @@
               265
             ],
             "laps": 5,
+            "tires": [
+              {
+                "tireId": 5,
+                "tireName": "SM"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 265,
@@ -4386,7 +5902,13 @@
               1
             ],
             "categoryId": 4,
-            "laps": 5
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Watkins Glen Long Course"
         },
@@ -4399,7 +5921,13 @@
               2
             ],
             "categoryId": 3,
-            "laps": 12
+            "laps": 12,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
           },
           "raceTrackName": "Kyoto Yamagiwa"
         }
@@ -4418,7 +5946,13 @@
               1
             ],
             "categoryId": 3,
-            "laps": 5
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Mount Panorama"
         },
@@ -4434,6 +5968,12 @@
               366
             ],
             "laps": 7,
+            "tires": [
+              {
+                "tireId": 4,
+                "tireName": "SH"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 366,
@@ -4456,7 +5996,17 @@
               2
             ],
             "categoryId": 4,
-            "laps": 12
+            "laps": 12,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              },
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
           },
           "raceTrackName": "Brands Hatch GP"
         }
@@ -4474,7 +6024,13 @@
             "tireIds": [
               4
             ],
-            "laps": 5
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 4,
+                "tireName": "SH"
+              }
+            ]
           },
           "raceTrackName": "Willow - Streets of Willow Springs"
         },
@@ -4487,7 +6043,13 @@
               1
             ],
             "categoryId": 4,
-            "laps": 3
+            "laps": 3,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Sainte-Croix B"
         },
@@ -4501,7 +6063,17 @@
               3
             ],
             "categoryId": 3,
-            "laps": 12
+            "laps": 12,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              },
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
           },
           "raceTrackName": "Monza No Chicane"
         }
@@ -4519,7 +6091,13 @@
             "tireIds": [
               4
             ],
-            "laps": 7
+            "laps": 7,
+            "tires": [
+              {
+                "tireId": 4,
+                "tireName": "SH"
+              }
+            ]
           },
           "raceTrackName": "Lago Maggiore East End"
         },
@@ -4532,7 +6110,13 @@
               1
             ],
             "categoryId": 3,
-            "laps": 4
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Sardegna Road Track A"
         },
@@ -4546,7 +6130,17 @@
               3
             ],
             "categoryId": 4,
-            "laps": 2
+            "laps": 2,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              },
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
           },
           "raceTrackName": "Nürburgring Nordschleife"
         }
@@ -4565,7 +6159,13 @@
               1
             ],
             "categoryId": 3,
-            "laps": 6
+            "laps": 6,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Catalunya GP"
         },
@@ -4578,7 +6178,13 @@
               1
             ],
             "categoryId": 4,
-            "laps": 5
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Dragon Trail - Seaside"
         },
@@ -4592,7 +6198,17 @@
               3
             ],
             "categoryId": 2,
-            "laps": 14
+            "laps": 14,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              },
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
           },
           "raceTrackName": "Deep Forest Raceway"
         }
@@ -4610,7 +6226,13 @@
             "tireIds": [
               4
             ],
-            "laps": 6
+            "laps": 6,
+            "tires": [
+              {
+                "tireId": 4,
+                "tireName": "SH"
+              }
+            ]
           },
           "raceTrackName": "Watkins Glen Short Course"
         },
@@ -4623,7 +6245,13 @@
               1
             ],
             "categoryId": 4,
-            "laps": 6
+            "laps": 6,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Interlagos"
         },
@@ -4637,7 +6265,17 @@
               3
             ],
             "categoryId": 3,
-            "laps": 10
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              },
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
           },
           "raceTrackName": "Nürburgring GP"
         }
@@ -4659,6 +6297,12 @@
               364
             ],
             "laps": 6,
+            "tires": [
+              {
+                "tireId": 9,
+                "tireName": "CS"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 364,
@@ -4681,7 +6325,13 @@
               1
             ],
             "categoryId": 4,
-            "laps": 7
+            "laps": 7,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Lago Maggiore West End"
         },
@@ -4695,7 +6345,17 @@
               3
             ],
             "categoryId": 3,
-            "laps": 10
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              },
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
           },
           "raceTrackName": "Watkins Glen Long Course"
         }
@@ -4713,7 +6373,13 @@
             "tireIds": [
               9
             ],
-            "laps": 5
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 9,
+                "tireName": "CS"
+              }
+            ]
           },
           "raceTrackName": "Laguna Seca"
         },
@@ -4726,7 +6392,13 @@
               1
             ],
             "categoryId": 3,
-            "laps": 5
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Spa-Francorchamps"
         },
@@ -4740,7 +6412,17 @@
               3
             ],
             "categoryId": 4,
-            "laps": 9
+            "laps": 9,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              },
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
           },
           "raceTrackName": "Lago Maggiore Full Course"
         }
@@ -4762,6 +6444,12 @@
               252
             ],
             "laps": 4,
+            "tires": [
+              {
+                "tireId": 12,
+                "tireName": "Dirt"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 252,
@@ -4784,7 +6472,13 @@
               1
             ],
             "categoryId": 4,
-            "laps": 4
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Trial Mountain"
         },
@@ -4797,7 +6491,13 @@
               2
             ],
             "categoryId": 3,
-            "laps": 10
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
           },
           "raceTrackName": "Suzuka Circuit"
         }
@@ -4817,7 +6517,13 @@
               9
             ],
             "categoryId": 5,
-            "laps": 10
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 9,
+                "tireName": "CS"
+              }
+            ]
           },
           "raceTrackName": "Lago Maggiore East End"
         },
@@ -4830,7 +6536,13 @@
               1
             ],
             "categoryId": 4,
-            "laps": 5
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Kyoto Yamagiwa"
         },
@@ -4843,7 +6555,13 @@
               1
             ],
             "categoryId": 3,
-            "laps": 12
+            "laps": 12,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Red Bull Ring"
         }
@@ -4861,7 +6579,13 @@
             "tireIds": [
               1
             ],
-            "laps": 7
+            "laps": 7,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Daytona Tri-Oval"
         },
@@ -4874,7 +6598,13 @@
               1
             ],
             "categoryId": 4,
-            "laps": 4
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Dragon Trail - Seaside"
         },
@@ -4887,7 +6617,13 @@
               2
             ],
             "categoryId": 1,
-            "laps": 12
+            "laps": 12,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
           },
           "raceTrackName": "Daytona Road Course"
         }
@@ -4909,6 +6645,12 @@
               196
             ],
             "laps": 8,
+            "tires": [
+              {
+                "tireId": 4,
+                "tireName": "SH"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 196,
@@ -4930,7 +6672,13 @@
               1
             ],
             "categoryId": 3,
-            "laps": 5
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Monza"
         },
@@ -4947,6 +6695,12 @@
               388
             ],
             "laps": 12,
+            "tires": [
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 387,
@@ -4982,6 +6736,12 @@
               396
             ],
             "laps": 5,
+            "tires": [
+              {
+                "tireId": 4,
+                "tireName": "SH"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 396,
@@ -5004,7 +6764,13 @@
               1
             ],
             "categoryId": 4,
-            "laps": 5
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Deep Forest Raceway"
         },
@@ -5017,7 +6783,13 @@
               1
             ],
             "categoryId": 3,
-            "laps": 10
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Mount Panorama"
         }
@@ -5039,6 +6811,12 @@
               410
             ],
             "laps": 4,
+            "tires": [
+              {
+                "tireId": 4,
+                "tireName": "SH"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 410,
@@ -5060,7 +6838,13 @@
               2
             ],
             "categoryId": 4,
-            "laps": 4
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
           },
           "raceTrackName": "Lago Maggiore Full Course"
         },
@@ -5073,7 +6857,13 @@
               2
             ],
             "categoryId": 2,
-            "laps": 5
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
           },
           "raceTrackName": "24 Heures du Mans"
         }
@@ -5095,6 +6885,12 @@
               229
             ],
             "laps": 6,
+            "tires": [
+              {
+                "tireId": 9,
+                "tireName": "CS"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 229,
@@ -5116,7 +6912,13 @@
               1
             ],
             "categoryId": 4,
-            "laps": 8
+            "laps": 8,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Tokyo Express Central Clockwise"
         },
@@ -5129,7 +6931,13 @@
               1
             ],
             "categoryId": 4,
-            "laps": 10
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Catalunya GP"
         }
@@ -5154,6 +6962,20 @@
               122
             ],
             "laps": 6,
+            "tires": [
+              {
+                "tireId": 7,
+                "tireName": "CH"
+              },
+              {
+                "tireId": 8,
+                "tireName": "CM"
+              },
+              {
+                "tireId": 9,
+                "tireName": "CS"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 407,
@@ -5182,7 +7004,13 @@
               1
             ],
             "categoryId": 4,
-            "laps": 5
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Deep Forest Raceway"
         },
@@ -5195,7 +7023,13 @@
               1
             ],
             "categoryId": 3,
-            "laps": 8
+            "laps": 8,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Spa-Francorchamps"
         }
@@ -5217,6 +7051,12 @@
               347
             ],
             "laps": 8,
+            "tires": [
+              {
+                "tireId": 6,
+                "tireName": "SS"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 347,
@@ -5238,7 +7078,13 @@
               1
             ],
             "categoryId": 4,
-            "laps": 4
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Dragon Trail - Gardens"
         },
@@ -5251,7 +7097,13 @@
               1
             ],
             "categoryId": 3,
-            "laps": 13
+            "laps": 13,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Brands Hatch GP"
         }
@@ -5273,6 +7125,12 @@
               114
             ],
             "laps": 6,
+            "tires": [
+              {
+                "tireId": 9,
+                "tireName": "CS"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 114,
@@ -5294,7 +7152,13 @@
               1
             ],
             "categoryId": 3,
-            "laps": 5
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Interlagos"
         },
@@ -5307,7 +7171,13 @@
               1
             ],
             "categoryId": 4,
-            "laps": 10
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Autopolis"
         }
@@ -5333,6 +7203,20 @@
               450
             ],
             "laps": 6,
+            "tires": [
+              {
+                "tireId": 7,
+                "tireName": "CH"
+              },
+              {
+                "tireId": 8,
+                "tireName": "CM"
+              },
+              {
+                "tireId": 9,
+                "tireName": "CS"
+              }
+            ],
             "specifiedCars": [
               {
                 "carId": 30,
@@ -5367,7 +7251,13 @@
               1
             ],
             "categoryId": 3,
-            "laps": 3
+            "laps": 3,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Nürburgring GP"
         },
@@ -5379,7 +7269,13 @@
               1
             ],
             "categoryId": 3,
-            "laps": 10
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
           },
           "raceTrackName": "Daytona Road Course"
         }
@@ -5396,7 +7292,13 @@
             "tireIds": [
               7
             ],
-            "laps": 4
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 7,
+                "tireName": "CH"
+              }
+            ]
           },
           "raceTrackName": "High Speed Ring"
         },
@@ -5407,7 +7309,13 @@
             "tireIds": [
               4
             ],
-            "laps": 4
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 4,
+                "tireName": "SH"
+              }
+            ]
           },
           "raceTrackName": "Deep Forest Raceway"
         }

@@ -1,16 +1,16 @@
 {
   "fileType": "currentVersionInfo",
   "fileVersion": 1,
-  "appVersion": "3.0.0",
+  "appVersion": "3.0.1",
   "updateUrl": "/downloads.html",
   "helpFileV2ContentVersion": 3,
   "helpFileV2Version": "4.0",
-  "helpFileV2MinAppVersion": "2.0.0",
+  "helpFileV2MinAppVersion": "3.0.1",
   "helpFileV2Url": "/assets/data/help.v2.json",
   "tracksUpdateVersion": "2.0",
-  "trackUpdatesMinAppVersion": "3.0.0",
+  "trackUpdatesMinAppVersion": "3.0.1",
   "trackUpdatesFileUrl": "/assets/data/track_updates/trackUpdatesInfo.json",
   "raceWeekUpdatesLatestWeek": "2023-49",
-  "raceWeekUpdatesMinAppVersion": "3.0.0",
+  "raceWeekUpdatesMinAppVersion": "3.0.1",
   "raceWeekUpdatesFileUrl": "/assets/data/raceWeekUpdatesInfo.json"
 }
