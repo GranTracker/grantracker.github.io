@@ -1,0 +1,13 @@
+{% comment %}
+	first=true
+	last=true
+	expanded=true
+{% endcomment %}
+
+{% include accordion_panel_begin.html first=include.first expanded=include.expanded groupId="version" panelId="version_3_0_2_p1" title="v3.0.2" %}
+
+### Bug Fixes
+
+Fixed a couple of bugs introduced in v3.0.1 where making changes to Race Weeks or Tracks would cause GranTracker to crash. The bug didn't affect your data - you could just restart GranTacker and everything would be fine. But obviously having the program crash is not the best behavior.
+
+{% include accordion_panel_end.html last=include.last %}
