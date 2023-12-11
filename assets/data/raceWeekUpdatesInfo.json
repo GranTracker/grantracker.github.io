@@ -4,6 +4,149 @@
   "minAppVersion": "3.0.1",
   "weeks": [
     {
+      "week": "2023-50",
+      "startDateTime": "2023-12-11T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 72,
+          "specs": {
+            "bopId": 5,
+            "tireIds": [
+              5
+            ],
+            "specifiedCarIds": [
+              52,
+              164,
+              479,
+              266,
+              325,
+              369,
+              401,
+              420,
+              468
+            ],
+            "laps": 1,
+            "tires": [
+              {
+                "tireId": 5,
+                "tireName": "SM"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 52,
+                "name": "911 GT3 (997) '09",
+                "manufacturerId": 51,
+                "manufacturerName": "Porsche",
+                "categoryId": 6
+              },
+              {
+                "carId": 164,
+                "name": "F40 '92",
+                "manufacturerId": 24,
+                "manufacturerName": "Ferrari",
+                "categoryId": 6
+              },
+              {
+                "carId": 479,
+                "name": "LFA '10",
+                "manufacturerId": 39,
+                "manufacturerName": "Lexus",
+                "categoryId": 6
+              },
+              {
+                "carId": 266,
+                "name": "M3 '07",
+                "manufacturerId": 11,
+                "manufacturerName": "BMW",
+                "categoryId": 6
+              },
+              {
+                "carId": 325,
+                "name": "NSX Type R '92",
+                "manufacturerId": 30,
+                "manufacturerName": "Honda",
+                "categoryId": 6
+              },
+              {
+                "carId": 369,
+                "name": "RX-7 Spirit R Type A (FD) '02",
+                "manufacturerId": 42,
+                "manufacturerName": "Mazda",
+                "categoryId": 6
+              },
+              {
+                "carId": 401,
+                "name": "SLR McLaren '09",
+                "manufacturerId": 44,
+                "manufacturerName": "Mercedes-Benz",
+                "categoryId": 6
+              },
+              {
+                "carId": 420,
+                "name": "Supra RZ '97",
+                "manufacturerId": 63,
+                "manufacturerName": "Toyota",
+                "categoryId": 6
+              },
+              {
+                "carId": 468,
+                "name": "XJ220 '92",
+                "manufacturerId": 34,
+                "manufacturerName": "Jaguar",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Nürburgring Nordschleife"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 16,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Brands Hatch GP"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 84,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              2,
+              3
+            ],
+            "categoryId": 3,
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              },
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
+          },
+          "raceTrackName": "Sardegna Road Track A"
+        }
+      ]
+    },
+    {
       "week": "2023-49",
       "startDateTime": "2023-12-04T07:00:00.000Z",
       "dailyRaces": [

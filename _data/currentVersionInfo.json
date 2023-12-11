@@ -10,7 +10,7 @@
   "tracksUpdateVersion": "2.0",
   "trackUpdatesMinAppVersion": "3.0.1",
   "trackUpdatesFileUrl": "/assets/data/track_updates/trackUpdatesInfo.json",
-  "raceWeekUpdatesLatestWeek": "2023-49",
+  "raceWeekUpdatesLatestWeek": "2023-50",
   "raceWeekUpdatesMinAppVersion": "3.0.1",
   "raceWeekUpdatesFileUrl": "/assets/data/raceWeekUpdatesInfo.json"
 }
