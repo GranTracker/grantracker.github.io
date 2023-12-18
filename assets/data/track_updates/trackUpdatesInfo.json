@@ -1,7 +1,7 @@
 {
   "fileType": "trackUpdatesInfo",
   "version": 3,
-  "updateVersion": "3.0",
+  "updateVersion": "4.0",
   "minAppVersion": "3.0.1",
   "tracks": [
     {
@@ -72,6 +72,19 @@
       "staticMapNormalFilePath_url": "Suzuka_East.v1.1.jpg",
       "animatedMapFilePath": "Suzuka East.v1.1.svg",
       "animatedMapFilePath_url": "Suzuka_East.v1.1.svg"
+    },
+    {
+      "trackId": 98,
+      "name": "Tokyo Express Central Clockwise",
+      "hasNormalDirection": true,
+      "hasReverseDirection": false,
+      "animatedMapDuration": 9000,
+      "animatedMapTrackStrokeWidth": 30,
+      "animatedMapSpriteRadius": 40,
+      "staticMapNormalFilePath": "Tokyo Express Central Clockwise.v1.4.jpg",
+      "staticMapNormalFilePath_url": "Tokyo_Express_Central_Clockwise.v1.4.jpg",
+      "animatedMapFilePath": "Tokyo Express Central Clockwise.v1.4.svg",
+      "animatedMapFilePath_url": "Tokyo_Express_Central_Clockwise.v1.4.svg"
     },
     {
       "trackId": 103,

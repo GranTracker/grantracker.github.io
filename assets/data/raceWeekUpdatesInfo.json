@@ -4,6 +4,80 @@
   "minAppVersion": "3.0.1",
   "weeks": [
     {
+      "week": "2023-51",
+      "startDateTime": "2023-12-18T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 98,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              8
+            ],
+            "specifiedCarIds": [
+              332
+            ],
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 8,
+                "tireName": "CM"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 332,
+                "name": "Prius G '09",
+                "manufacturerId": 63,
+                "manufacturerName": "Toyota",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Tokyo Express Central Clockwise"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 28,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 6,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Deep Forest Raceway"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 45,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 4,
+            "laps": 11,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Interlagos"
+        }
+      ]
+    },
+    {
       "week": "2023-50",
       "startDateTime": "2023-12-11T07:00:00.000Z",
       "dailyRaces": [
