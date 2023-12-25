@@ -4,6 +4,81 @@
   "minAppVersion": "3.0.1",
   "weeks": [
     {
+      "week": "2023-52",
+      "startDateTime": "2023-12-25T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 74,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              9
+            ],
+            "specifiedCarIds": [
+              304
+            ],
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 9,
+                "tireName": "CS"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 304,
+                "name": "MR2 GT-S '97",
+                "manufacturerId": 63,
+                "manufacturerName": "Toyota",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Nürburgring Sprint"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 30,
+          "raceTrackReverse": true,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Dragon Trail - Gardens"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 82,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              3
+            ],
+            "categoryId": 3,
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
+          },
+          "raceTrackName": "Sainte-Croix C"
+        }
+      ]
+    },
+    {
       "week": "2023-51",
       "startDateTime": "2023-12-18T07:00:00.000Z",
       "dailyRaces": [
