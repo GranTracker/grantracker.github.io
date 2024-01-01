@@ -4,6 +4,80 @@
   "minAppVersion": "3.0.1",
   "weeks": [
     {
+      "week": "2023-53",
+      "startDateTime": "2024-01-01T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 36,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              4
+            ],
+            "specifiedCarIds": [
+              479
+            ],
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 4,
+                "tireName": "SH"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 479,
+                "name": "LFA '10",
+                "manufacturerId": 39,
+                "manufacturerName": "Lexus",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Fuji"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 95,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Suzuka Circuit"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 21,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 4,
+            "laps": 11,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Catalunya GP No Chicane"
+        }
+      ]
+    },
+    {
       "week": "2023-52",
       "startDateTime": "2023-12-25T07:00:00.000Z",
       "dailyRaces": [
