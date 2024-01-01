@@ -1,0 +1,17 @@
+{% comment %}
+	first=true
+	last=true
+	expanded=true
+{% endcomment %}
+
+{% include accordion_panel_begin.html first=include.first expanded=include.expanded groupId="version" panelId="version_3_0_2_p1" title="v3.0.2" %}
+
+### Bug Fixes
+
+Fixes the problem where week 2024-01 was appearing as 2023-53, and you couldn't add races for it.
+
+### Improvements
+
+When using a Custom Field of type "Time", you can enter a value of "0" and it'll show up in the table. (Actually, it shows up as "0.000"). Prior to this, a value of "0" was ignored.
+
+{% include accordion_panel_end.html last=include.last %}

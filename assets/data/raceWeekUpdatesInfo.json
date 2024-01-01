@@ -1,10 +1,10 @@
 {
   "fileType": "raceWeeks",
   "version": 4,
-  "minAppVersion": "3.0.1",
+  "minAppVersion": "3.0.3",
   "weeks": [
     {
-      "week": "2023-53",
+      "week": "2024-01",
       "startDateTime": "2024-01-01T07:00:00.000Z",
       "dailyRaces": [
         {
