@@ -1,7 +1,7 @@
 {
   "fileType": "trackUpdatesInfo",
   "version": 3,
-  "updateVersion": "5.0",
+  "updateVersion": "6.0",
   "minAppVersion": "3.0.1",
   "tracks": [
     {
@@ -74,6 +74,19 @@
       "staticMapNormalFilePath_url": "Special_Stage_Route_X.v1.1.jpg",
       "animatedMapFilePath": "Special Stage Route X.v1.1.svg",
       "animatedMapFilePath_url": "Special_Stage_Route_X.v1.1.svg"
+    },
+    {
+      "trackId": 95,
+      "name": "Suzuka Circuit",
+      "hasNormalDirection": true,
+      "hasReverseDirection": false,
+      "animatedMapDuration": 13000,
+      "animatedMapTrackStrokeWidth": 22,
+      "animatedMapSpriteRadius": 38,
+      "staticMapNormalFilePath": "Suzuka Circuit.v1.6.jpg",
+      "staticMapNormalFilePath_url": "Suzuka_Circuit.v1.6.jpg",
+      "animatedMapFilePath": "Suzuka Circuit.v1.0.svg",
+      "animatedMapFilePath_url": "Suzuka_Circuit.v1.0.svg"
     },
     {
       "trackId": 96,
