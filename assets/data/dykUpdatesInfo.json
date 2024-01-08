@@ -1,0 +1,79 @@
+{
+  "fileType": "dyk",
+  "version": "1.0",
+  "updateVersion": "1.0",
+  "minAppVersion": "3.1.0",
+  "tokens": [
+    { "token": "$gt$", "value": "<b><i>GranTracker</i></b>" },
+    { "token": "$bb$", "value": "<span style='color: blue; font-weight: bold'>" },
+    { "token": "$/bb$", "value": "</span>" },
+    { "token": "$ul1$", "value": "style='margin-top: 3 !important; padding-inline-start: 30px;'" },
+    { "token": "$li1$", "value": "style='margin-bottom: 15px !important'" },
+    { "token": "$li1.last$", "value": "style='margin-bottom: 8px !important'" }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "options": {"messageIsHTML": true, "customWidth": "550px"},
+      "text": [
+        "<p>...that the Races Table can show more information than it does by default?</p>",
+        "<p>For example, you could show DR Points, like this:</p>",
+        "<img src='/images/dyk/dyk_1.jpg' />",
+        "<p>Right-click anywhere in the Races Table, and click \"Select Columns\" in the popup menu.</p>",
+        "<img src='/images/dyk/dyk_2.png' />",
+        "<p>Use this dialog to show and hide columns, or even re-order the columns if you want.</p>"
+      ]
+    },
+    {
+      "id": 2,
+      "options": {"messageIsHTML": true, "customWidth": "550px"},
+      "text": [
+        "<p>...that these \"$bb$Did You Know$/bb$\" tips are displayed automatically, the first time you run $gt$ each day?</p>",
+        "<p><b>Usage Tips:</b></p>",
+        "<ul $ul1$>",
+        "<li $li1$>Use the \"$bb$Don't auto-show this tip again$/bb$\" checkbox (below) if you don't want to see this specific tip anymore at startup.</li>",
+        "<li $li1$>Once this checkbox is checked for all the tips, you won't see tips at startup, until a new tip is released.</li>",
+        "<li $li1.last$>You can view all the tips anytime you want, by clicking the \"$bb$Menu$/bb$\" drop-down, and selecting \"$bb$Did You Know?$/bb$\".</li>",
+        "</ul>",
+        "<p>NOTE: The \"$bb$Don't auto-show this tip again$/bb$\" checkbox only affects when tips are shown at startup. If you use the \"$bb$Next$/bb$\" or \"$bb$Previous$/bb$\" buttons, or you show tips from the \"$bb$Menu$/bb$\" drop-down, you will always be able to see all the tips.</p>"
+      ]
+    },
+    {
+      "id": 3,
+      "options": {"messageIsHTML": true, "customWidth": "550px"},
+      "text": [
+        "<p>...that a lot of the race tracks in $gt$ have detailed maps?</p>",
+        "<p>If the track has an animated map showing, move your cursor over the map. If it changes to a \"hand\" cursor, like this:</p>",
+        "<img src='/images/dyk/dyk_3.jpg' />",
+        "<p>click on the animated map and the detailed map will pop up, like this:</p>",
+        "<img src='/images/dyk/dyk_4.jpg' />",
+        "<p>I hope to be adding more maps with each week's Data Updates.</p>"
+      ]
+    },
+    {
+      "id": 4,
+      "options": {"messageIsHTML": true, "customWidth": "550px"},
+      "text": [
+        "<p>You can resize columns?Just hover the mouse over the side of a column header</p>",
+        "<p>Just hover the mouse over the side of a column header...</p>",
+        "<p>Then hold down the left mouse button and drag left or right.</p>"
+      ]
+    },
+    {
+      "id": 5,
+      "options": {"messageIsHTML": true, "customWidth": "550px"},
+      "text": [
+        "<p>You can use the mouse to drag a column to a new location?</p>",
+        "<p>Just don't try and move it too fast - it gets confused if you do.</p>"
+      ]
+    },
+    {
+      "id": 6,
+      "isTeaser": true,
+      "options": {"messageIsHTML": true, "customWidth": "550px"},
+      "text": [
+        "<p>Teaser 6</p>"
+      ]
+    }
+  ]
+}

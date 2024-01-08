@@ -4,6 +4,80 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2024-02",
+      "startDateTime": "2024-01-08T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 105,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              4
+            ],
+            "specifiedCarIds": [
+              169
+            ],
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 4,
+                "tireName": "SH"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 169,
+                "name": "Fairlady Z (Z34) '08",
+                "manufacturerId": 46,
+                "manufacturerName": "Nissan",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Tsukuba"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 32,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Dragon Trail - Seaside"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 26,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Daytona Road Course"
+        }
+      ]
+    },
+    {
       "week": "2024-01",
       "startDateTime": "2024-01-01T07:00:00.000Z",
       "dailyRaces": [
