@@ -1,7 +1,7 @@
 {
   "fileType": "trackUpdatesInfo",
   "version": 3,
-  "updateVersion": "6.0",
+  "updateVersion": "7.0",
   "minAppVersion": "3.0.1",
   "tracks": [
     {
@@ -18,6 +18,21 @@
       "staticMapReverseFilePath_url": "Dragon_Trail_Gardens_Reverse.v1.0.jpg",
       "animatedMapFilePath": "Dragon Trail - Gardens.v1.5.svg",
       "animatedMapFilePath_url": "Dragon_Trail_Gardens.v1.5.svg"
+    },
+    {
+      "trackId": 39,
+      "name": "Grand Valley - Highway 1",
+      "hasNormalDirection": true,
+      "hasReverseDirection": true,
+      "animatedMapDuration": 11000,
+      "animatedMapTrackStrokeWidth": 30,
+      "animatedMapSpriteRadius": 45,
+      "staticMapNormalFilePath": "Grand Valley - Highway 1.v1.0.jpg",
+      "staticMapNormalFilePath_url": "Grand_Valley_Highway_1.v1.0.jpg",
+      "staticMapReverseFilePath": "Grand Valley - Highway 1 Reverse.v1.7.jpg",
+      "staticMapReverseFilePath_url": "Grand_Valley_Highway_1_Reverse.v1.7.jpg",
+      "animatedMapFilePath": "Grand Valley - Highway 1.v1.7.svg",
+      "animatedMapFilePath_url": "Grand_Valley_Highway_1.v1.7.svg"
     },
     {
       "trackId": 54,
@@ -71,7 +86,7 @@
       "animatedMapTrackStrokeWidth": 140,
       "animatedMapSpriteRadius": 250,
       "staticMapNormalFilePath": "Special Stage Route X.v1.1.jpg",
-      "staticMapNormalFilePath_url": "Special_Stage_Route_X.v1.1.jpg",
+      "staticMapNormalFilePath_url": "Special_Stage_Route_X.v1.7.jpg",
       "animatedMapFilePath": "Special Stage Route X.v1.1.svg",
       "animatedMapFilePath_url": "Special_Stage_Route_X.v1.1.svg"
     },
