@@ -50,6 +50,19 @@
       "animatedMapFilePath_url": "Lago_Maggiore_East_End.v1.0.svg"
     },
     {
+      "trackId": 63,
+      "name": "Laguna Seca",
+      "hasNormalDirection": true,
+      "hasReverseDirection": false,
+      "animatedMapDuration": 9000,
+      "animatedMapTrackStrokeWidth": 12,
+      "animatedMapSpriteRadius": 25,
+      "staticMapNormalFilePath": "Laguna Seca.v1.8.jpg",
+      "staticMapNormalFilePath_url": "Laguna_Seca.v1.8.jpg",
+      "animatedMapFilePath": "Laguna Seca.v1.0.svg",
+      "animatedMapFilePath_url": "Laguna_Seca.v1.0.svg"
+    },
+    {
       "trackId": 72,
       "name": "Nürburgring Nordschleife",
       "hasNormalDirection": true,
