@@ -1,7 +1,7 @@
 {
   "fileType": "trackUpdatesInfo",
   "version": 3,
-  "updateVersion": "7.0",
+  "updateVersion": "9.0",
   "minAppVersion": "3.0.1",
   "tracks": [
     {
@@ -50,6 +50,21 @@
       "animatedMapFilePath_url": "Lago_Maggiore_East_End.v1.0.svg"
     },
     {
+      "trackId": 59,
+      "name": "Lago Maggiore West",
+      "hasNormalDirection": true,
+      "hasReverseDirection": true,
+      "animatedMapDuration": 11000,
+      "animatedMapTrackStrokeWidth": 15,
+      "animatedMapSpriteRadius": 30,
+      "staticMapNormalFilePath": "Lago Maggiore West.v1.9.jpg",
+      "staticMapNormalFilePath_url": "Lago_Maggiore_West.v1.9.jpg",
+      "staticMapReverseFilePath": "Lago Maggiore West Reverse.v1.0.jpg",
+      "staticMapReverseFilePath_url": "Lago_Maggiore_West_Reverse.v1.0.jpg",
+      "animatedMapFilePath": "Lago Maggiore West.v1.0.svg",
+      "animatedMapFilePath_url": "Lago_Maggiore_West.v1.0.svg"
+    },
+    {
       "trackId": 63,
       "name": "Laguna Seca",
       "hasNormalDirection": true,
@@ -74,6 +89,19 @@
       "staticMapNormalFilePath_url": "Nurburgring_Nordschleife.v1.3.jpg",
       "animatedMapFilePath": "Nurburgring Nordschleife.v1.3.svg",
       "animatedMapFilePath_url": "Nurburgring_Nordschleife.v1.3.svg"
+    },
+    {
+      "trackId": 77,
+      "name": "Road Atlanta",
+      "hasNormalDirection": true,
+      "hasReverseDirection": false,
+      "animatedMapDuration": 8000,
+      "animatedMapTrackStrokeWidth": "22",
+      "animatedMapSpriteRadius": 40,
+      "staticMapNormalFilePath": "Road Atlanta.v1.9.jpg",
+      "staticMapNormalFilePath_url": "Road_Atlanta.v1.9.jpg",
+      "animatedMapFilePath": "Road Atlanta.v1.9.svg",
+      "animatedMapFilePath_url": "Road_Atlanta.v1.9.svg"
     },
     {
       "trackId": 82,

@@ -4,6 +4,91 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2024-04",
+      "startDateTime": "2024-01-22T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 59,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              9
+            ],
+            "specifiedCarIds": [
+              409
+            ],
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 9,
+                "tireName": "CS"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 409,
+                "name": "Spyder type 550/1500RS '55",
+                "manufacturerId": 51,
+                "manufacturerName": "Porsche",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Lago Maggiore West"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 77,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Road Atlanta"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 8,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              6
+            ],
+            "specifiedCarIds": [
+              203
+            ],
+            "laps": 7,
+            "tires": [
+              {
+                "tireId": 6,
+                "tireName": "SS"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 203,
+                "name": "GR86 RZ '21",
+                "manufacturerId": 63,
+                "manufacturerName": "Toyota",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Autopolis"
+        }
+      ]
+    },
+    {
       "week": "2024-03",
       "startDateTime": "2024-01-15T07:00:00.000Z",
       "dailyRaces": [
