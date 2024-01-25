@@ -1,7 +1,7 @@
 {
   "fileType": "trackUpdatesInfo",
   "version": 3,
-  "updateVersion": "9.0",
+  "updateVersion": "10.0",
   "minAppVersion": "3.0.1",
   "tracks": [
     {
@@ -199,6 +199,19 @@
       "staticMapReverseFilePath_url": "Lake_Louise_Long_Track_Reverse.v1.2.jpg",
       "animatedMapFilePath": "Lake Louise Long Track.v1.2.svg",
       "animatedMapFilePath_url": "Lake_Louise_Long_Track.v1.2.svg"
+    },
+    {
+      "trackId": 114,
+      "name": "Lake Louise Short Track",
+      "hasNormalDirection": true,
+      "hasReverseDirection": false,
+      "animatedMapDuration": 7000,
+      "animatedMapTrackStrokeWidth": 80,
+      "animatedMapSpriteRadius": 125,
+      "staticMapNormalFilePath": "Lake Louise Short Track.v1.10.jpg",
+      "staticMapNormalFilePath_url": "Lake_Louise_Short_Track.v1.10.jpg",
+      "animatedMapFilePath": "Lake Louise Short Track.v1.10.svg",
+      "animatedMapFilePath_url": "Lake_Louise_Short_Track.v1.10.svg"
     }
   ]
 }
