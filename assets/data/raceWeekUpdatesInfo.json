@@ -4,6 +4,80 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2024-05",
+      "startDateTime": "2024-01-29T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 114,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              13
+            ],
+            "specifiedCarIds": [
+              415
+            ],
+            "laps": 6,
+            "tires": [
+              {
+                "tireId": 13,
+                "tireName": "S"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 415,
+                "name": "Stratos '73",
+                "manufacturerId": 38,
+                "manufacturerName": "Lancia",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Lake Louise Short Track"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 106,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Watkins Glen Long Course"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 28,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              3
+            ],
+            "categoryId": 2,
+            "laps": 14,
+            "tires": [
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
+          },
+          "raceTrackName": "Deep Forest Raceway"
+        }
+      ]
+    },
+    {
       "week": "2024-04",
       "startDateTime": "2024-01-22T07:00:00.000Z",
       "dailyRaces": [
