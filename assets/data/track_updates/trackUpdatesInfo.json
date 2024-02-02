@@ -1,9 +1,22 @@
 {
   "fileType": "trackUpdatesInfo",
   "version": 3,
-  "updateVersion": "10.0",
+  "updateVersion": "11.0",
   "minAppVersion": "3.0.1",
   "tracks": [
+    {
+      "trackId": 17,
+      "name": "Brands Hatch Indy",
+      "hasNormalDirection": true,
+      "hasReverseDirection": false,
+      "animatedMapDuration": 7000,
+      "animatedMapTrackStrokeWidth": "9",
+      "animatedMapSpriteRadius": 15,
+      "staticMapNormalFilePath": "Brands Hatch Indy.v1.11.jpg",
+      "staticMapNormalFilePath_url": "Brands_Hatch_Indy.v1.11.jpg",
+      "animatedMapFilePath": "Brands Hatch Indy.v1.0.svg",
+      "animatedMapFilePath_url": "Brands_Hatch_Indy.v1.0.svg"
+    },
     {
       "trackId": 30,
       "name": "Dragon Trail - Gardens",
@@ -76,6 +89,19 @@
       "staticMapNormalFilePath_url": "Laguna_Seca.v1.8.jpg",
       "animatedMapFilePath": "Laguna Seca.v1.0.svg",
       "animatedMapFilePath_url": "Laguna_Seca.v1.0.svg"
+    },
+    {
+      "trackId": 71,
+      "name": "Nürburgring GP",
+      "hasNormalDirection": true,
+      "hasReverseDirection": false,
+      "animatedMapDuration": 10000,
+      "animatedMapTrackStrokeWidth": 21,
+      "animatedMapSpriteRadius": 40,
+      "staticMapNormalFilePath": "Nurburgring GP.v1.11.jpg",
+      "staticMapNormalFilePath_url": "Nurburgring_GP.v1.11.jpg",
+      "animatedMapFilePath": "Nurburgring GP.v1.11.svg",
+      "animatedMapFilePath_url": "Nurburgring_GP.v1.11.svg"
     },
     {
       "trackId": 72,
