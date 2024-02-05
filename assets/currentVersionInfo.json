@@ -10,7 +10,10 @@
   "tracksUpdateVersion": "11.0",
   "trackUpdatesMinAppVersion": "3.0.1",
   "trackUpdatesFileUrl": "/assets/data/track_updates/trackUpdatesInfo.json",
-  "raceWeekUpdatesLatestWeek": "2024-05",
+  "raceWeekUpdatesLatestWeek": "2024-06",
   "raceWeekUpdatesMinAppVersion": "3.0.3",
-  "raceWeekUpdatesFileUrl": "/assets/data/raceWeekUpdatesInfo.json"
+  "raceWeekUpdatesFileUrl": "/assets/data/raceWeekUpdatesInfo.json",
+  "dykUpdateVersion": "1.0",
+  "dykUpdatesMinAppVersion": "3.1.0",
+  "dykUpdatesFileUrl": "/assets/data/dykUpdatesInfo.json"
 }
