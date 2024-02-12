@@ -4,21 +4,42 @@
   "updateVersion": "1.0",
   "minAppVersion": "3.1.0",
   "tokens": [
-    { "token": "$gt$", "value": "<b><i>GranTracker</i></b>" },
-    { "token": "$bb$", "value": "<span style='color: blue; font-weight: bold'>" },
-    { "token": "$/bb$", "value": "</span>" },
-    { "token": "$ul1$", "value": "style='margin-top: 3 !important; padding-inline-start: 30px;'" },
-    { "token": "$li1$", "value": "style='margin-bottom: 15px !important'" },
-    { "token": "$li1.last$", "value": "style='margin-bottom: 8px !important'" }
+    {
+      "token": "$gt$",
+      "value": "<b><i>GranTracker</i></b>"
+    },
+    {
+      "token": "$bb$",
+      "value": "<span style='color: blue; font-weight: bold'>"
+    },
+    {
+      "token": "$/bb$",
+      "value": "</span>"
+    },
+    {
+      "token": "$ul1$",
+      "value": "style='margin-top: 3 !important; padding-inline-start: 30px;'"
+    },
+    {
+      "token": "$li1$",
+      "value": "style='margin-bottom: 15px !important'"
+    },
+    {
+      "token": "$li1.last$",
+      "value": "style='margin-bottom: 8px !important'"
+    }
   ],
   "items": [
     {
       "id": 1,
-      "options": {"messageIsHTML": true, "customWidth": "550px"},
+      "options": {
+        "messageIsHTML": true,
+        "customWidth": "550px"
+      },
       "text": [
         "<p>...that the Races Table can show more information than it does by default?</p>",
         "<p>For example, you could show DR Points, like this:</p>",
-        "<img src='/images/dyk/dyk_1.jpg' />",
+        "<img src='/images/dyk/dyk_1.png' />",
         "<p>Right-click anywhere in the Races Table, and click \"Select Columns\" in the popup menu.</p>",
         "<img src='/images/dyk/dyk_2.png' />",
         "<p>Use this dialog to show and hide columns, or even re-order the columns if you want.</p>"
@@ -26,7 +47,10 @@
     },
     {
       "id": 2,
-      "options": {"messageIsHTML": true, "customWidth": "550px"},
+      "options": {
+        "messageIsHTML": true,
+        "customWidth": "550px"
+      },
       "text": [
         "<p>...that these \"$bb$Did You Know$/bb$\" tips are displayed automatically, the first time you run $gt$ each day?</p>",
         "<p><b>Usage Tips:</b></p>",
@@ -34,45 +58,127 @@
         "<li $li1$>Use the \"$bb$Don't auto-show this tip again$/bb$\" checkbox (below) if you don't want to see this specific tip anymore at startup.</li>",
         "<li $li1$>Once this checkbox is checked for all the tips, you won't see tips at startup, until a new tip is released.</li>",
         "<li $li1.last$>You can view all the tips anytime you want, by clicking the \"$bb$Menu$/bb$\" drop-down, and selecting \"$bb$Did You Know?$/bb$\".</li>",
-        "</ul>",
-        "<p>NOTE: The \"$bb$Don't auto-show this tip again$/bb$\" checkbox only affects when tips are shown at startup. If you use the \"$bb$Next$/bb$\" or \"$bb$Previous$/bb$\" buttons, or you show tips from the \"$bb$Menu$/bb$\" drop-down, you will always be able to see all the tips.</p>"
+        "</ul>"
       ]
     },
     {
       "id": 3,
-      "options": {"messageIsHTML": true, "customWidth": "550px"},
+      "options": {
+        "messageIsHTML": true,
+        "customWidth": "550px"
+      },
       "text": [
         "<p>...that a lot of the race tracks in $gt$ have detailed maps?</p>",
         "<p>If the track has an animated map showing, move your cursor over the map. If it changes to a \"hand\" cursor, like this:</p>",
         "<img src='/images/dyk/dyk_3.jpg' />",
         "<p>click on the animated map and the detailed map will pop up, like this:</p>",
         "<img src='/images/dyk/dyk_4.jpg' />",
-        "<p>I hope to be adding more maps with each week's Data Updates.</p>"
+        "<p>I hope to be adding and updating more maps with each week's Data Updates. So if you see a Data Update with new or updated maps, make sure to check it out.</p>"
       ]
     },
     {
       "id": 4,
-      "options": {"messageIsHTML": true, "customWidth": "550px"},
+      "options": {
+        "messageIsHTML": true,
+        "customWidth": "550px"
+      },
       "text": [
-        "<p>You can resize columns?Just hover the mouse over the side of a column header</p>",
-        "<p>Just hover the mouse over the side of a column header...</p>",
-        "<p>Then hold down the left mouse button and drag left or right.</p>"
+        "<p>...that you can add your own custom fields, for tracking things like your best Qualifying Time, or any penalties you incurred during the race?</p>",
+        "<img src='/images/dyk/dyk_5.png' />",
+        "<p>To add or edit Custom Fields, click the \"$bb$Menu$/bb$\" drop-down, and select \"$bb$Edit Custom Fields$/bb$\".</p>",
+        "<p>Click the \"$bb$Help$/bb$\" button there, for more information.</p>"
       ]
     },
     {
       "id": 5,
-      "options": {"messageIsHTML": true, "customWidth": "550px"},
+      "options": {
+        "messageIsHTML": true,
+        "customWidth": "550px"
+      },
       "text": [
-        "<p>You can use the mouse to drag a column to a new location?</p>",
-        "<p>Just don't try and move it too fast - it gets confused if you do.</p>"
+        "<p>...that you can resize columns?</p>",
+        "<p>Hover the mouse over the edge of a column until the cursor turns into something like this:</p>",
+        "<img src='/images/dyk/dyk_6.jpg' />",
+        "<p>Then drag it left or right to resize the column.</p>",
+        "<p>If you make the column too narrow for the text, then release the mouse button, the text will word-wrap in the column like this:</p>",
+        "<img src='/images/dyk/dyk_7.jpg' />"
       ]
     },
     {
       "id": 6,
-      "isTeaser": true,
-      "options": {"messageIsHTML": true, "customWidth": "550px"},
+      "options": {
+        "messageIsHTML": true,
+        "customWidth": "550px",
+        "anchors": [
+          {
+            "id": "dykLink_1",
+            "result": "dykLink.1"
+          }
+        ]
+      },
       "text": [
-        "<p>Teaser 6</p>"
+        "<p>...that you can move columns around?</p>",
+        "<p>Use your mouse to drag a column left or right:</p>",
+        "<p><img src='/images/dyk/dyk_8.jpg' /></p>",
+        "<p><img src='/images/dyk/dyk_9.jpg' /></p>",
+        "<p><img src='/images/dyk/dyk_10.jpg' /></p>",
+        "<p>You can also use the \"Select Columns\" dialog to move columns, as shown in <a id='dykLink_1' class='link'>tip #1</a>.</p>"
+      ]
+    },
+    {
+      "id": 7,
+      "options": {
+        "messageIsHTML": true,
+        "customWidth": "590px"
+      },
+      "text": [
+        "<p>...that you can sort tables on multiple columns?</p>",
+        "<p>To sort on a single column, click the column once. The \"▲\" symbol appears, indicating the column is sorted ascending:</p>",
+        "<p><img src='/images/dyk/dyk_11.jpg' /></p>",
+        "<p>Click it again, and it sorts descending, as shown by the \"▼\" symbol:</p>",
+        "<p><img src='/images/dyk/dyk_12.jpg' /></p>",
+        "<p>Click it once more, and it goes back to the normal sort order:</p>",
+        "<p><img src='/images/dyk/dyk_13.jpg' /></p>",
+        "<p>To sort on additional columns, hold down the shift key when clicking another column:</p>",
+        "<p><img src='/images/dyk/dyk_14.jpg' /></p>",
+        "<p><img src='/images/dyk/dyk_15.jpg' /></p>"
+      ]
+    },
+    {
+      "id": 8,
+      "options": {
+        "messageIsHTML": true,
+        "customWidth": "550px"
+      },
+      "text": [
+        "<p>...that you can filter the tables on various values?</p>",
+        "<p>If you don't already see the pink filter fields, right-click somewhere in the table, and select \"$bb$Filter$/bb$\" then \"$bb$Show Header Filters$/bb$\".</p>",
+        "<p><img src='/images/dyk/dyk_16.jpg' /></p>",
+        "<p>Click in a filter field and type in a condition, like \"$bb$&gt;1$/bb$\":</p>",
+        "<p><img src='/images/dyk/dyk_17.jpg' /></p>",
+        "<p>Click in another filter field and add another condition, like \"$bb$=1$/bb$\":</p>",
+        "<p><img src='/images/dyk/dyk_18.jpg' /></p>",
+        "<p>For more information, click in a filter field and press $bb$F1$/bb$.</p>"
+      ]
+    },
+    {
+      "id": 9,
+      "isTeaser": true,
+      "options": {
+        "messageIsHTML": true,
+        "customWidth": "580px",
+        "anchors": [
+          {
+            "id": "dykEmail",
+            "result": "email"
+          }
+        ]
+      },
+      "text": [
+        "<p>...that that's all the tips I have for now? Well, it is.</p>",
+        "<p>If I think of any more, I'll be sure to include them in a future Data Update.</p>",
+        "<p>If you have any ideas on tips for features people might otherwise miss, <a id='dykEmail' class='link'>email me</a> and I'll consider them.</p>",
+        "<p>Thanks!</p>"
       ]
     }
   ]
