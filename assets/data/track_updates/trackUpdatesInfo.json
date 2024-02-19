@@ -1,7 +1,7 @@
 {
   "fileType": "trackUpdatesInfo",
   "version": 3,
-  "updateVersion": "11.0",
+  "updateVersion": "12.0",
   "minAppVersion": "3.0.1",
   "tracks": [
     {
@@ -117,6 +117,19 @@
       "animatedMapFilePath_url": "Nurburgring_Nordschleife.v1.3.svg"
     },
     {
+      "trackId": 75,
+      "name": "Red Bull Ring",
+      "hasNormalDirection": true,
+      "hasReverseDirection": false,
+      "animatedMapDuration": 8000,
+      "animatedMapTrackStrokeWidth": 16,
+      "animatedMapSpriteRadius": 32,
+      "staticMapNormalFilePath": "Red Bull Ring.v1.12.jpg",
+      "staticMapNormalFilePath_url": "Red_Bull_Ring.v1.12.jpg",
+      "animatedMapFilePath": "Red Bull Ring.v1.0.svg",
+      "animatedMapFilePath_url": "Red_Bull_Ring.v1.0.svg"
+    },
+    {
       "trackId": 77,
       "name": "Road Atlanta",
       "hasNormalDirection": true,
@@ -143,6 +156,21 @@
       "staticMapReverseFilePath_url": "SainteCroix_C_Reverse.v1.5.jpg",
       "animatedMapFilePath": "Sainte-Croix C.v1.5.svg",
       "animatedMapFilePath_url": "SainteCroix_C.v1.5.svg"
+    },
+    {
+      "trackId": 86,
+      "name": "Sardegna Road Track B",
+      "hasNormalDirection": true,
+      "hasReverseDirection": true,
+      "animatedMapDuration": 8000,
+      "animatedMapTrackStrokeWidth": "17.7",
+      "animatedMapSpriteRadius": 30,
+      "staticMapNormalFilePath": "Sardegna Road Track B.v1.0.jpg",
+      "staticMapNormalFilePath_url": "Sardegna_Road_Track_B.v1.0.jpg",
+      "staticMapReverseFilePath": "Sardegna Road Track B Reverse.v1.12.jpg",
+      "staticMapReverseFilePath_url": "Sardegna_Road_Track_B_Reverse.v1.12.jpg",
+      "animatedMapFilePath": "Sardegna Road Track B.v1.0.svg",
+      "animatedMapFilePath_url": "Sardegna_Road_Track_B.v1.0.svg"
     },
     {
       "trackId": 94,
