@@ -1,7 +1,7 @@
 {
   "fileType": "trackUpdatesInfo",
   "version": 3,
-  "updateVersion": "12.0",
+  "updateVersion": "13.0",
   "minAppVersion": "3.0.1",
   "tracks": [
     {
@@ -48,6 +48,21 @@
       "animatedMapFilePath_url": "Grand_Valley_Highway_1.v1.7.svg"
     },
     {
+      "trackId": 41,
+      "name": "Grand Valley - South",
+      "hasNormalDirection": true,
+      "hasReverseDirection": true,
+      "animatedMapDuration": 8000,
+      "animatedMapTrackStrokeWidth": 22,
+      "animatedMapSpriteRadius": 30,
+      "staticMapNormalFilePath": "Grand Valley - South.v1.0.jpg",
+      "staticMapNormalFilePath_url": "Grand_Valley_South.v1.0.jpg",
+      "staticMapReverseFilePath": "Grand Valley - South Reverse.v1.13.jpg",
+      "staticMapReverseFilePath_url": "Grand_Valley_South_Reverse.v1.13.jpg",
+      "animatedMapFilePath": "Grand Valley - South.v1.0.svg",
+      "animatedMapFilePath_url": "Grand_Valley_South.v1.0.svg"
+    },
+    {
       "trackId": 54,
       "name": "Lago Maggiore East End",
       "hasNormalDirection": true,
@@ -89,6 +104,19 @@
       "staticMapNormalFilePath_url": "Laguna_Seca.v1.8.jpg",
       "animatedMapFilePath": "Laguna Seca.v1.0.svg",
       "animatedMapFilePath_url": "Laguna_Seca.v1.0.svg"
+    },
+    {
+      "trackId": 66,
+      "name": "Mount Panorama",
+      "hasNormalDirection": true,
+      "hasReverseDirection": false,
+      "animatedMapDuration": 8000,
+      "animatedMapTrackStrokeWidth": "30",
+      "animatedMapSpriteRadius": 60,
+      "staticMapNormalFilePath": "Mount Panorama.v1.13.jpg",
+      "staticMapNormalFilePath_url": "Mount_Panorama.v1.13.jpg",
+      "animatedMapFilePath": "Mount Panorama.v1.13.svg",
+      "animatedMapFilePath_url": "Mount_Panorama.v1.13.svg"
     },
     {
       "trackId": 71,
