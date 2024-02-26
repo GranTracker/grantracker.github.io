@@ -4,6 +4,86 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2024-09",
+      "startDateTime": "2024-02-26T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 107,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              4
+            ],
+            "specifiedCarIds": [
+              287
+            ],
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 4,
+                "tireName": "SH"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 287,
+                "name": "Merak SS '80",
+                "manufacturerId": 41,
+                "manufacturerName": "Maserati",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Watkins Glen Short Course"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 41,
+          "raceTrackReverse": true,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 6,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Grand Valley - South"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 66,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              2,
+              3
+            ],
+            "categoryId": 3,
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              },
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
+          },
+          "raceTrackName": "Mount Panorama"
+        }
+      ]
+    },
+    {
       "week": "2024-08",
       "startDateTime": "2024-02-19T07:00:00.000Z",
       "dailyRaces": [
