@@ -4,6 +4,70 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2024-10",
+      "startDateTime": "2024-03-04T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 54,
+          "raceTrackReverse": true,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              9
+            ],
+            "categoryId": 5,
+            "laps": 8,
+            "tires": [
+              {
+                "tireId": 9,
+                "tireName": "CS"
+              }
+            ]
+          },
+          "raceTrackName": "Lago Maggiore East End"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 103,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Trial Mountain"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 16,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 4,
+            "laps": 11,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Brands Hatch GP"
+        }
+      ]
+    },
+    {
       "week": "2024-09",
       "startDateTime": "2024-02-26T07:00:00.000Z",
       "dailyRaces": [
