@@ -4,6 +4,80 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2024-11",
+      "startDateTime": "2024-03-11T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 46,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              4
+            ],
+            "specifiedCarIds": [
+              481
+            ],
+            "laps": 7,
+            "tires": [
+              {
+                "tireId": 4,
+                "tireName": "SH"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 481,
+                "name": "TTS Coupé '09",
+                "manufacturerId": 8,
+                "manufacturerName": "Audi",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Kyoto Miyabi"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 63,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Laguna Seca"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 64,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Monza"
+        }
+      ]
+    },
+    {
       "week": "2024-10",
       "startDateTime": "2024-03-04T07:00:00.000Z",
       "dailyRaces": [

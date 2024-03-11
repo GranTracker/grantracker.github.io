@@ -1,7 +1,7 @@
 {
   "fileType": "trackUpdatesInfo",
   "version": 3,
-  "updateVersion": "13.0",
+  "updateVersion": "14.0",
   "minAppVersion": "3.0.1",
   "tracks": [
     {
@@ -61,6 +61,19 @@
       "staticMapReverseFilePath_url": "Grand_Valley_South_Reverse.v1.13.jpg",
       "animatedMapFilePath": "Grand Valley - South.v1.0.svg",
       "animatedMapFilePath_url": "Grand_Valley_South.v1.0.svg"
+    },
+    {
+      "trackId": 46,
+      "name": "Kyoto Miyabi",
+      "hasNormalDirection": true,
+      "hasReverseDirection": false,
+      "animatedMapDuration": 7000,
+      "animatedMapTrackStrokeWidth": 100,
+      "animatedMapSpriteRadius": 140,
+      "staticMapNormalFilePath": "Kyoto Miyabi.v1.14.jpg",
+      "staticMapNormalFilePath_url": "Kyoto_Miyabi.v1.14.jpg",
+      "animatedMapFilePath": "Kyoto Miyabi.v1.14.svg",
+      "animatedMapFilePath_url": "Kyoto_Miyabi.v1.14.svg"
     },
     {
       "trackId": 54,
