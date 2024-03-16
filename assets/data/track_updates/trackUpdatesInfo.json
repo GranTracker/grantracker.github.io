@@ -1,9 +1,24 @@
 {
   "fileType": "trackUpdatesInfo",
   "version": 3,
-  "updateVersion": "14.0",
+  "updateVersion": "15.0",
   "minAppVersion": "3.0.1",
   "tracks": [
+    {
+      "trackId": 10,
+      "name": "Blue Moon Infield A",
+      "hasNormalDirection": true,
+      "hasReverseDirection": true,
+      "animatedMapDuration": 8000,
+      "animatedMapTrackStrokeWidth": 90,
+      "animatedMapSpriteRadius": 150,
+      "staticMapNormalFilePath": "Blue Moon Infield A.v1.15.jpg",
+      "staticMapNormalFilePath_url": "Blue_Moon_Infield_A.v1.15.jpg",
+      "staticMapReverseFilePath": "Blue Moon Infield A Reverse.v1.15.jpg",
+      "staticMapReverseFilePath_url": "Blue_Moon_Infield_A_Reverse.v1.15.jpg",
+      "animatedMapFilePath": "Blue Moon Infield A.v1.15.svg",
+      "animatedMapFilePath_url": "Blue_Moon_Infield_A.v1.15.svg"
+    },
     {
       "trackId": 17,
       "name": "Brands Hatch Indy",
@@ -117,6 +132,32 @@
       "staticMapNormalFilePath_url": "Laguna_Seca.v1.8.jpg",
       "animatedMapFilePath": "Laguna Seca.v1.0.svg",
       "animatedMapFilePath_url": "Laguna_Seca.v1.0.svg"
+    },
+    {
+      "trackId": 64,
+      "name": "Monza",
+      "hasNormalDirection": true,
+      "hasReverseDirection": false,
+      "animatedMapDuration": 7000,
+      "animatedMapTrackStrokeWidth": 100,
+      "animatedMapSpriteRadius": 125,
+      "staticMapNormalFilePath": "Monza.v1.15.jpg",
+      "staticMapNormalFilePath_url": "Monza.v1.15.jpg",
+      "animatedMapFilePath": "Monza.v1.15.svg",
+      "animatedMapFilePath_url": "Monza.v1.15.svg"
+    },
+    {
+      "trackId": 65,
+      "name": "Monza No Chicane",
+      "hasNormalDirection": true,
+      "hasReverseDirection": false,
+      "animatedMapDuration": 8000,
+      "animatedMapTrackStrokeWidth": 35,
+      "animatedMapSpriteRadius": 55,
+      "staticMapNormalFilePath": "Monza No Chicane.v1.15.jpg",
+      "staticMapNormalFilePath_url": "Monza_No_Chicane.v1.15.jpg",
+      "animatedMapFilePath": "Monza No Chicane.v1.15.svg",
+      "animatedMapFilePath_url": "Monza_No_Chicane.v1.15.svg"
     },
     {
       "trackId": 66,
