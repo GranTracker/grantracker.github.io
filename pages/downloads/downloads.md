@@ -28,7 +28,9 @@ custom-javascript-list: ["js/downloadsPage.js"]
 	heading-height="55" title-padding-top="7"
 	image-file="old-car.svg" image-max-height="35" image-margin-right="10" title="<span style='font-size: 1.2em'>Version History</span>" %}
 
-{% include_relative v3.0.3.html first=true expanded=true %}
+{% include_relative v3.1.0.html first=true expanded=true %}
+
+{% include_relative v3.0.3.html %}
 
 {% include_relative v3.0.2.html %}
 
@@ -87,6 +89,8 @@ custom-javascript-list: ["js/downloadsPage.js"]
 
 * macOS: <a href="{% include get_app_file_url_MAC_PROD.html %}"><b>Download v{{site.data.currentVersionInfo.appVersion}} for the Mac</b></a>
 * Windows: <a href="{% include get_app_file_url_WINDOWS_PROD.html %}"><b>Download v{{site.data.currentVersionInfo.appVersion}} for Windows</b>
+
+<b>NOTE:</b> Sometimes it can take a little while for the download to start - I'm not sure why. I think it has something to do with... you know what? I really don't know why. I've seen it take as long as 30-45 seconds before it starts, and other times, it starts after just a handful of seconds. So please be patient.
 
 {% include accordion_panel_end.html %}
 
