@@ -1,7 +1,7 @@
 {
   "fileType": "trackUpdatesInfo",
   "version": 3,
-  "updateVersion": "15.0",
+  "updateVersion": "16.0",
   "minAppVersion": "3.0.1",
   "tracks": [
     {
@@ -320,6 +320,19 @@
       "staticMapReverseFilePath_url": "Trial_Mountain_Reverse.v1.1.jpg",
       "animatedMapFilePath": "Trial Mountain.v1.0.svg",
       "animatedMapFilePath_url": "Trial_Mountain.v1.0.svg"
+    },
+    {
+      "trackId": 108,
+      "name": "Willow - Horse Thief Mile",
+      "hasNormalDirection": true,
+      "hasReverseDirection": true,
+      "animatedMapDuration": 10000,
+      "animatedMapTrackStrokeWidth": 5,
+      "animatedMapSpriteRadius": 10,
+      "staticMapNormalFilePath": "Willow - Horse Thief Mile.v1.16.jpg",
+      "staticMapNormalFilePath_url": "Willow_Horse_Thief_Mile.v1.16.jpg",
+      "animatedMapFilePath": "Willow - Horse Thief Mile.v1.16.svg",
+      "animatedMapFilePath_url": "Willow_Horse_Thief_Mile.v1.16.svg"
     },
     {
       "trackId": 113,

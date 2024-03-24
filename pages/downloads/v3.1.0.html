@@ -1,0 +1,41 @@
+{% comment %}
+	first=true
+	last=true
+	expanded=true
+{% endcomment %}
+
+{% include accordion_panel_begin.html first=include.first expanded=include.expanded groupId="version" panelId="version_3_1_0_p1" title="v3.1.0" %}
+
+### Bug Fix
+
+When you switch between accounts, GranTracker would lose your customization of the main races table. Things like what columns are visible, in what order, their widths - stuff like that. It could be a major source of frustration for people who use multiple accounts a lot.
+
+This should be fixed now, and I apologize for taking so long to release this fix.
+
+### New Feature
+
+#### Did You Know?
+
+This dialog will pop up once a day to give you various tips.
+
+{% include image1.html file="versions/v3.1.0-01.png" style="margin-top: 10px !important; margin-bottom: 20px !important" %}
+
+The second tip tells you how to navigate the tips, and how to quit seeing them once you've had your fill of reminders.
+
+I may or may not be updating the tips as time goes on.
+
+NOTE: This seemed like a great idea when I started it. Now I'm not so sure how much it adds to the program, but since I coded it, I thought I'd release it.
+
+### Improvements
+
+* Changed the background color of the focused edit control in the Add/Edit Races dialog, to black. This makes it much more obvious which control has the focus.
+
+* I sped up the "Save" process.
+
+* Added "thousands" separator to custom integer fields (in the table, not when editing them).
+
+### Other Bug Fixes
+
+* Fixed a couple of "filtering" bugs. Not the filtering logic itself, that was fine. But some of the User Interface things didn't always work they way they should have.
+
+{% include accordion_panel_end.html last=include.last %}

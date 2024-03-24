@@ -34,6 +34,7 @@ permalink: installation.html
 
 <ol>
 <li><a href="https://github.com/GranTracker/GranTracker.Data/raw/main/GranTracker.macOS.v{{site.data.currentVersionInfo.appVersion}}.zip"><b>Download the Mac version.</b></a></li>
+<b>NOTE:</b> Sometimes it can take a little while for the download to start - I'm not sure why. I think it has something to do with... you know what? I really don't know why. I've seen it take as long as 30-45 seconds before it starts, and other times, it starts after just a handful of seconds. So please be patient.
 <li>Double-click the file to unzip it, if your Mac didn’t unzip it automatically.
 
 <p style="margin-top: 10px"><span style="color:blue"><strong>DO NOT</strong></span> run the program from your <span style="color:blue"><strong>Downloads</strong></span> folder. Recent versions of macOS will “sandbox” any application you downloaded into the Downloads folder, and the application will not work correctly.</p>
@@ -54,6 +55,7 @@ permalink: installation.html
 
 <ol>
 <li><a href="https://github.com/GranTracker/GranTracker.Data/raw/main/GranTracker.windows.v{{site.data.currentVersionInfo.appVersion}}.zip"><b>Download the Windows version.</b></a></li>
+<b>NOTE:</b> Sometimes it can take a little while for the download to start - I'm not sure why. I think it has something to do with... you know what? I really don't know why. I've seen it take as long as 30-45 seconds before it starts, and other times, it starts after just a handful of seconds. So please be patient.
 <li>Unzip the files into a new folder.
 
 <ul>
