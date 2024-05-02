@@ -1,7 +1,7 @@
 {
   "fileType": "trackUpdatesInfo",
   "version": 3,
-  "updateVersion": "16.0",
+  "updateVersion": "17.0",
   "minAppVersion": "3.0.1",
   "tracks": [
     {
@@ -238,6 +238,21 @@
       "staticMapReverseFilePath_url": "SainteCroix_C_Reverse.v1.5.jpg",
       "animatedMapFilePath": "Sainte-Croix C.v1.5.svg",
       "animatedMapFilePath_url": "SainteCroix_C.v1.5.svg"
+    },
+    {
+      "trackId": 84,
+      "name": "Sardegna Road Track A",
+      "hasNormalDirection": true,
+      "hasReverseDirection": true,
+      "animatedMapDuration": 8000,
+      "animatedMapTrackStrokeWidth": "22",
+      "animatedMapSpriteRadius": 40,
+      "staticMapNormalFilePath": "Sardegna Road Track A.v1.0.jpg",
+      "staticMapNormalFilePath_url": "Sardegna_Road_Track_A.v1.0.jpg",
+      "staticMapReverseFilePath": "Sardegna Road Track A Reverse.v1.17.jpg",
+      "staticMapReverseFilePath_url": "Sardegna_Road_Track_A_Reverse.v1.17.jpg",
+      "animatedMapFilePath": "Sardegna Road Track A.v1.0.svg",
+      "animatedMapFilePath_url": "Sardegna_Road_Track_A.v1.0.svg"
     },
     {
       "trackId": 86,
