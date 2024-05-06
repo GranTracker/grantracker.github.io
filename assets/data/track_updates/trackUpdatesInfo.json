@@ -1,7 +1,7 @@
 {
   "fileType": "trackUpdatesInfo",
   "version": 3,
-  "updateVersion": "17.0",
+  "updateVersion": "18.0",
   "minAppVersion": "3.0.1",
   "tracks": [
     {
@@ -251,8 +251,8 @@
       "staticMapNormalFilePath_url": "Sardegna_Road_Track_A.v1.0.jpg",
       "staticMapReverseFilePath": "Sardegna Road Track A Reverse.v1.17.jpg",
       "staticMapReverseFilePath_url": "Sardegna_Road_Track_A_Reverse.v1.17.jpg",
-      "animatedMapFilePath": "Sardegna Road Track A.v1.0.svg",
-      "animatedMapFilePath_url": "Sardegna_Road_Track_A.v1.0.svg"
+      "animatedMapFilePath": "Sardegna Road Track A.v1.18.svg",
+      "animatedMapFilePath_url": "Sardegna_Road_Track_A.v1.18.svg"
     },
     {
       "trackId": 86,

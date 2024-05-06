@@ -4,6 +4,98 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2024-19",
+      "startDateTime": "2024-05-06T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 60,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              6
+            ],
+            "specifiedCarIds": [
+              477
+            ],
+            "laps": 6,
+            "tires": [
+              {
+                "tireId": 6,
+                "tireName": "SS"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 477,
+                "name": "Model 3 Performance '23",
+                "manufacturerId": 62,
+                "manufacturerName": "Tesla",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Lago Maggiore West End"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 84,
+          "raceTrackReverse": true,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Sardegna Road Track A"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 95,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              3
+            ],
+            "specifiedCarIds": [
+              471,
+              470
+            ],
+            "laps": 12,
+            "tires": [
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 471,
+                "name": "SF23 Super Formula / Honda '23",
+                "manufacturerId": 59,
+                "manufacturerName": "Super Formula"
+              },
+              {
+                "carId": 470,
+                "name": "SF23 Super Formula / Toyota '23",
+                "manufacturerId": 59,
+                "manufacturerName": "Super Formula"
+              }
+            ]
+          },
+          "raceTrackName": "Suzuka Circuit"
+        }
+      ]
+    },
+    {
       "week": "2024-18",
       "startDateTime": "2024-04-29T07:00:00.000Z",
       "dailyRaces": [
