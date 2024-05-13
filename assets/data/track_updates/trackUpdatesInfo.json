@@ -1,7 +1,7 @@
 {
   "fileType": "trackUpdatesInfo",
   "version": 3,
-  "updateVersion": "18.0",
+  "updateVersion": "19.0",
   "minAppVersion": "3.0.1",
   "tracks": [
     {
@@ -335,6 +335,32 @@
       "staticMapReverseFilePath_url": "Trial_Mountain_Reverse.v1.1.jpg",
       "animatedMapFilePath": "Trial Mountain.v1.0.svg",
       "animatedMapFilePath_url": "Trial_Mountain.v1.0.svg"
+    },
+    {
+      "trackId": 106,
+      "name": "Watkins Glen Long Course",
+      "hasNormalDirection": true,
+      "hasReverseDirection": false,
+      "animatedMapDuration": 9000,
+      "animatedMapTrackStrokeWidth": 25,
+      "animatedMapSpriteRadius": 44,
+      "staticMapNormalFilePath": "Watkins Glen Long Course.v1.19.jpg",
+      "staticMapNormalFilePath_url": "Watkins_Glen_Long_Course.v1.19.jpg",
+      "animatedMapFilePath": "Watkins Glen Long Course.v1.19.svg",
+      "animatedMapFilePath_url": "Watkins_Glen_Long_Course.v1.19.svg"
+    },
+    {
+      "trackId": 107,
+      "name": "Watkins Glen Short Course",
+      "hasNormalDirection": true,
+      "hasReverseDirection": false,
+      "animatedMapDuration": 8000,
+      "animatedMapTrackStrokeWidth": 27,
+      "animatedMapSpriteRadius": 37,
+      "staticMapNormalFilePath": "Watkins Glen Short Course.v1.19.jpg",
+      "staticMapNormalFilePath_url": "Watkins_Glen_Short_Course.v1.19.jpg",
+      "animatedMapFilePath": "Watkins Glen Short Course.v1.19.svg",
+      "animatedMapFilePath_url": "Watkins_Glen_Short_Course.v1.19.svg"
     },
     {
       "trackId": 108,
