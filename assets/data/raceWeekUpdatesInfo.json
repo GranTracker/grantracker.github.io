@@ -4,6 +4,80 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2024-21",
+      "startDateTime": "2024-05-20T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 77,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              9
+            ],
+            "specifiedCarIds": [
+              299
+            ],
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 9,
+                "tireName": "CS"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 299,
+                "name": "MiTo '09",
+                "manufacturerId": 3,
+                "manufacturerName": "Alfa Romeo",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Road Atlanta"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 59,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Lago Maggiore West"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 32,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Dragon Trail - Seaside"
+        }
+      ]
+    },
+    {
       "week": "2024-20",
       "startDateTime": "2024-05-13T07:00:00.000Z",
       "dailyRaces": [
