@@ -4,6 +4,80 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2024-22",
+      "startDateTime": "2024-05-27T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 74,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              9
+            ],
+            "specifiedCarIds": [
+              115
+            ],
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 9,
+                "tireName": "CS"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 115,
+                "name": "Clio V6 24V '00",
+                "manufacturerId": 55,
+                "manufacturerName": "Renault",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Nürburgring Sprint"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 47,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 4,
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Kyoto Yamagiwa"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 16,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 13,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Brands Hatch GP"
+        }
+      ]
+    },
+    {
       "week": "2024-21",
       "startDateTime": "2024-05-20T07:00:00.000Z",
       "dailyRaces": [
