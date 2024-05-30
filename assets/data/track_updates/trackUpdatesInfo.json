@@ -1,7 +1,7 @@
 {
   "fileType": "trackUpdatesInfo",
   "version": 3,
-  "updateVersion": "20.0",
+  "updateVersion": "21.0",
   "minAppVersion": "3.0.1",
   "tracks": [
     {
@@ -46,6 +46,19 @@
       "animatedMapFilePath_url": "Brands_Hatch_Indy.v1.0.svg"
     },
     {
+      "trackId": 26,
+      "name": "Daytona Road Course",
+      "hasNormalDirection": true,
+      "hasReverseDirection": false,
+      "animatedMapDuration": 8000,
+      "animatedMapTrackStrokeWidth": "15",
+      "animatedMapSpriteRadius": 30,
+      "staticMapNormalFilePath": "Daytona Road Course.v1.21.jpg",
+      "staticMapNormalFilePath_url": "Daytona_Road_Course.v1.21.jpg",
+      "animatedMapFilePath": "Daytona Road Course.v1.0.svg",
+      "animatedMapFilePath_url": "Daytona_Road_Course.v1.0.svg"
+    },
+    {
       "trackId": 30,
       "name": "Dragon Trail - Gardens",
       "hasNormalDirection": true,
@@ -59,6 +72,19 @@
       "staticMapReverseFilePath_url": "Dragon_Trail_Gardens_Reverse.v1.0.jpg",
       "animatedMapFilePath": "Dragon Trail - Gardens.v1.5.svg",
       "animatedMapFilePath_url": "Dragon_Trail_Gardens.v1.5.svg"
+    },
+    {
+      "trackId": 36,
+      "name": "Fuji",
+      "hasNormalDirection": true,
+      "hasReverseDirection": false,
+      "animatedMapDuration": 12000,
+      "animatedMapTrackStrokeWidth": 21,
+      "animatedMapSpriteRadius": 35,
+      "staticMapNormalFilePath": "Fuji.v1.21.jpg",
+      "staticMapNormalFilePath_url": "Fuji.v1.21.jpg",
+      "animatedMapFilePath": "Fuji.v1.21.svg",
+      "animatedMapFilePath_url": "Fuji.v1.21.svg"
     },
     {
       "trackId": 39,
@@ -89,6 +115,19 @@
       "staticMapReverseFilePath_url": "Grand_Valley_South_Reverse.v1.13.jpg",
       "animatedMapFilePath": "Grand Valley - South.v1.0.svg",
       "animatedMapFilePath_url": "Grand_Valley_South.v1.0.svg"
+    },
+    {
+      "trackId": 45,
+      "name": "Interlagos",
+      "hasNormalDirection": true,
+      "hasReverseDirection": false,
+      "animatedMapDuration": 11000,
+      "animatedMapTrackStrokeWidth": "15",
+      "animatedMapSpriteRadius": 25,
+      "staticMapNormalFilePath": "Interlagos.v1.21.jpg",
+      "staticMapNormalFilePath_url": "Interlagos.v1.21.jpg",
+      "animatedMapFilePath": "Interlagos.v1.0.svg",
+      "animatedMapFilePath_url": "Interlagos.v1.0.svg"
     },
     {
       "trackId": 46,
