@@ -1,9 +1,22 @@
 {
   "fileType": "trackUpdatesInfo",
   "version": 3,
-  "updateVersion": "21.0",
+  "updateVersion": "22.0",
   "minAppVersion": "3.0.1",
   "tracks": [
+    {
+      "trackId": 2,
+      "name": "24 Heures du Mans",
+      "hasNormalDirection": true,
+      "hasReverseDirection": false,
+      "animatedMapDuration": 12000,
+      "animatedMapTrackStrokeWidth": 25,
+      "animatedMapSpriteRadius": 40,
+      "staticMapNormalFilePath": "24 Heures du Mans.v1.22.jpg",
+      "staticMapNormalFilePath_url": "24_Heures_du_Mans.v1.22.jpg",
+      "animatedMapFilePath": "24 Heures du Mans.v1.22.svg",
+      "animatedMapFilePath_url": "24_Heures_du_Mans.v1.22.svg"
+    },
     {
       "trackId": 10,
       "name": "Blue Moon Infield A",
