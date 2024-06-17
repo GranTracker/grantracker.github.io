@@ -4,6 +4,99 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2024-25",
+      "startDateTime": "2024-06-17T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 24,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              12
+            ],
+            "specifiedCarIds": [
+              484
+            ],
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 12,
+                "tireName": "Dirt"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 484,
+                "name": "V40 T5 R-Design '13",
+                "manufacturerId": 69,
+                "manufacturerName": "Volvo",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Colorado Springs - Lake"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 63,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Laguna Seca"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 8,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              4
+            ],
+            "specifiedCarIds": [
+              88,
+              203
+            ],
+            "laps": 7,
+            "tires": [
+              {
+                "tireId": 4,
+                "tireName": "SH"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 88,
+                "name": "BRZ S '21",
+                "manufacturerId": 58,
+                "manufacturerName": "Subaru",
+                "categoryId": 6
+              },
+              {
+                "carId": 203,
+                "name": "GR86 RZ '21",
+                "manufacturerId": 63,
+                "manufacturerName": "Toyota",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Autopolis"
+        }
+      ]
+    },
+    {
       "week": "2024-24",
       "startDateTime": "2024-06-10T07:00:00.000Z",
       "dailyRaces": [
