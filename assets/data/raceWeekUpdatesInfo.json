@@ -4,6 +4,179 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2024-27",
+      "startDateTime": "2024-07-01T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 86,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              4
+            ],
+            "specifiedCarIds": [
+              177
+            ],
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 4,
+                "tireName": "SH"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 177,
+                "name": "Focus RS '18",
+                "manufacturerId": 26,
+                "manufacturerName": "Ford",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Sardegna Road Track B"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 57,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Lago Maggiore Full Course"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 106,
+          "specs": {
+            "bopId": 5,
+            "tireIds": [
+              5
+            ],
+            "specifiedCarIds": [
+              52,
+              124,
+              148,
+              164,
+              172,
+              179,
+              479,
+              325,
+              371,
+              401,
+              420,
+              468
+            ],
+            "laps": 7,
+            "tires": [
+              {
+                "tireId": 5,
+                "tireName": "SM"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 52,
+                "name": "911 GT3 (997) '09",
+                "manufacturerId": 51,
+                "manufacturerName": "Porsche",
+                "categoryId": 6
+              },
+              {
+                "carId": 124,
+                "name": "Corvette C7 '14",
+                "manufacturerId": 14,
+                "manufacturerName": "Chevrolet",
+                "categoryId": 6
+              },
+              {
+                "carId": 148,
+                "name": "Diablo GT '00",
+                "manufacturerId": 37,
+                "manufacturerName": "Lamborghini",
+                "categoryId": 6
+              },
+              {
+                "carId": 164,
+                "name": "F40 '92",
+                "manufacturerId": 24,
+                "manufacturerName": "Ferrari",
+                "categoryId": 6
+              },
+              {
+                "carId": 172,
+                "name": "Fairlady Z Version S (Z33) '07",
+                "manufacturerId": 46,
+                "manufacturerName": "Nissan",
+                "categoryId": 6
+              },
+              {
+                "carId": 179,
+                "name": "Ford GT '06",
+                "manufacturerId": 26,
+                "manufacturerName": "Ford",
+                "categoryId": 6
+              },
+              {
+                "carId": 479,
+                "name": "LFA '10",
+                "manufacturerId": 39,
+                "manufacturerName": "Lexus",
+                "categoryId": 6
+              },
+              {
+                "carId": 325,
+                "name": "NSX Type R '92",
+                "manufacturerId": 30,
+                "manufacturerName": "Honda",
+                "categoryId": 6
+              },
+              {
+                "carId": 371,
+                "name": "RX-Vision '15",
+                "manufacturerId": 42,
+                "manufacturerName": "Mazda",
+                "categoryId": 6
+              },
+              {
+                "carId": 401,
+                "name": "SLR McLaren '09",
+                "manufacturerId": 44,
+                "manufacturerName": "Mercedes-Benz",
+                "categoryId": 6
+              },
+              {
+                "carId": 420,
+                "name": "Supra RZ '97",
+                "manufacturerId": 63,
+                "manufacturerName": "Toyota",
+                "categoryId": 6
+              },
+              {
+                "carId": 468,
+                "name": "XJ220 '92",
+                "manufacturerId": 34,
+                "manufacturerName": "Jaguar",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Watkins Glen Long Course"
+        }
+      ]
+    },
+    {
       "week": "2024-26",
       "startDateTime": "2024-06-24T07:00:00.000Z",
       "dailyRaces": [
