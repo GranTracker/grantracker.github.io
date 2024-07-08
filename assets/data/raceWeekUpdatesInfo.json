@@ -4,6 +4,89 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2024-28",
+      "startDateTime": "2024-07-08T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 6,
+          "specs": {
+            "tireIds": [
+              7,
+              8,
+              9
+            ],
+            "specifiedCarIds": [
+              486
+            ],
+            "laps": 8,
+            "tires": [
+              {
+                "tireId": 7,
+                "tireName": "CH"
+              },
+              {
+                "tireId": 8,
+                "tireName": "CM"
+              },
+              {
+                "tireId": 9,
+                "tireName": "CS"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 486,
+                "name": "Jimny XC '18",
+                "manufacturerId": 60,
+                "manufacturerName": "Suzuki",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Alsace Test Course"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 71,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Nürburgring GP"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 45,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 1,
+            "laps": 15,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Interlagos"
+        }
+      ]
+    },
+    {
       "week": "2024-27",
       "startDateTime": "2024-07-01T07:00:00.000Z",
       "dailyRaces": [
