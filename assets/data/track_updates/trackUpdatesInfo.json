@@ -1,7 +1,7 @@
 {
   "fileType": "trackUpdatesInfo",
   "version": 3,
-  "updateVersion": "22.0",
+  "updateVersion": "23.0",
   "minAppVersion": "3.0.1",
   "tracks": [
     {
@@ -480,6 +480,21 @@
       "staticMapNormalFilePath_url": "Lake_Louise_Short_Track.v1.10.jpg",
       "animatedMapFilePath": "Lake Louise Short Track.v1.10.svg",
       "animatedMapFilePath_url": "Lake_Louise_Short_Track.v1.10.svg"
+    },
+    {
+      "trackId": 115,
+      "name": "Eiger Nordwand",
+      "hasNormalDirection": true,
+      "hasReverseDirection": true,
+      "animatedMapDuration": 10000,
+      "animatedMapTrackStrokeWidth": 100,
+      "animatedMapSpriteRadius": 170,
+      "staticMapNormalFilePath": "Eiger Nordwand.v1.23.jpg",
+      "staticMapNormalFilePath_url": "Eiger_Nordwand.v1.23.jpg",
+      "staticMapReverseFilePath": "Eiger Nordwand Reverse.v1.23.jpg",
+      "staticMapReverseFilePath_url": "Eiger_Nordwand_Reverse.v1.23.jpg",
+      "animatedMapFilePath": "Eiger Nordwand.v1.23.svg",
+      "animatedMapFilePath_url": "Eiger_Nordwand.v1.23.svg"
     }
   ]
 }
