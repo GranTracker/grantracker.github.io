@@ -1,7 +1,7 @@
 {
   "fileType": "trackUpdatesInfo",
   "version": 3,
-  "updateVersion": "23.0",
+  "updateVersion": "24.0",
   "minAppVersion": "3.0.1",
   "tracks": [
     {
@@ -346,6 +346,21 @@
       "staticMapReverseFilePath_url": "Sardegna_Road_Track_B_Reverse.v1.12.jpg",
       "animatedMapFilePath": "Sardegna Road Track B.v1.0.svg",
       "animatedMapFilePath_url": "Sardegna_Road_Track_B.v1.0.svg"
+    },
+    {
+      "trackId": 90,
+      "name": "Sardegna Windmills",
+      "hasNormalDirection": true,
+      "hasReverseDirection": true,
+      "animatedMapDuration": 10000,
+      "animatedMapTrackStrokeWidth": 80,
+      "animatedMapSpriteRadius": 130,
+      "staticMapNormalFilePath": "Sardegna Windmills.v1.24.jpg",
+      "staticMapNormalFilePath_url": "Sardegna_Windmills.v1.24.jpg",
+      "staticMapReverseFilePath": "Sardegna Windmills Reverse.v1.24.jpg",
+      "staticMapReverseFilePath_url": "Sardegna_Windmills_Reverse.v1.24.jpg",
+      "animatedMapFilePath": "Sardegna Windmills.v1.24.svg",
+      "animatedMapFilePath_url": "Sardegna_Windmills.v1.24.svg"
     },
     {
       "trackId": 94,

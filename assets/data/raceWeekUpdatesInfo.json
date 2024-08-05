@@ -4,6 +4,90 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2024-32",
+      "startDateTime": "2024-08-05T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 90,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              12
+            ],
+            "specifiedCarIds": [
+              487
+            ],
+            "laps": 6,
+            "tires": [
+              {
+                "tireId": 12,
+                "tireName": "Dirt"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 487,
+                "name": "Impreza Rally Car '98",
+                "manufacturerId": 58,
+                "manufacturerName": "Subaru",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Sardegna Windmills"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 95,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Suzuka Circuit"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 115,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              9
+            ],
+            "specifiedCarIds": [
+              346
+            ],
+            "laps": 7,
+            "tires": [
+              {
+                "tireId": 9,
+                "tireName": "CS"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 346,
+                "name": "RA272 '65",
+                "manufacturerId": 30,
+                "manufacturerName": "Honda"
+              }
+            ]
+          },
+          "raceTrackName": "Eiger Nordwand"
+        }
+      ]
+    },
+    {
       "week": "2024-31",
       "startDateTime": "2024-07-29T07:00:00.000Z",
       "dailyRaces": [
