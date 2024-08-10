@@ -1,7 +1,7 @@
 {
   "fileType": "trackUpdatesInfo",
   "version": 3,
-  "updateVersion": "24.0",
+  "updateVersion": "25.0",
   "minAppVersion": "3.0.1",
   "tracks": [
     {
@@ -236,6 +236,19 @@
       "staticMapNormalFilePath_url": "Mount_Panorama.v1.13.jpg",
       "animatedMapFilePath": "Mount Panorama.v1.13.svg",
       "animatedMapFilePath_url": "Mount_Panorama.v1.13.svg"
+    },
+    {
+      "trackId": 70,
+      "name": "Nürburgring Endurance",
+      "hasNormalDirection": true,
+      "hasReverseDirection": false,
+      "animatedMapDuration": 35000,
+      "animatedMapTrackStrokeWidth": 80,
+      "animatedMapSpriteRadius": 110,
+      "staticMapNormalFilePath": "Nurburgring Endurance.v1.25.jpg",
+      "staticMapNormalFilePath_url": "Nurburgring_Endurance.v1.25.jpg",
+      "animatedMapFilePath": "Nurburgring Endurance.v1.25.svg",
+      "animatedMapFilePath_url": "Nurburgring_Endurance.v1.25.svg"
     },
     {
       "trackId": 71,
