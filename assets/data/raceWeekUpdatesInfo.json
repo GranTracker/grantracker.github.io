@@ -4,6 +4,69 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2024-37",
+      "startDateTime": "2024-09-09T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 28,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Deep Forest Raceway"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 36,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Fuji"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 64,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              3
+            ],
+            "categoryId": 1,
+            "laps": 11,
+            "tires": [
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
+          },
+          "raceTrackName": "Monza"
+        }
+      ]
+    },
+    {
       "week": "2024-36",
       "startDateTime": "2024-09-02T07:00:00.000Z",
       "dailyRaces": [
