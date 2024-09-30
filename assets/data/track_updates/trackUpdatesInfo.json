@@ -1,7 +1,7 @@
 {
   "fileType": "trackUpdatesInfo",
   "version": 3,
-  "updateVersion": "26.0",
+  "updateVersion": "27.0",
   "minAppVersion": "3.0.1",
   "tracks": [
     {
@@ -57,6 +57,19 @@
       "staticMapNormalFilePath_url": "Brands_Hatch_Indy.v1.11.jpg",
       "animatedMapFilePath": "Brands Hatch Indy.v1.0.svg",
       "animatedMapFilePath_url": "Brands_Hatch_Indy.v1.0.svg"
+    },
+    {
+      "trackId": 22,
+      "name": "Catalunya National",
+      "hasNormalDirection": true,
+      "hasReverseDirection": false,
+      "animatedMapDuration": 11000,
+      "animatedMapTrackStrokeWidth": 100,
+      "animatedMapSpriteRadius": 150,
+      "staticMapNormalFilePath": "Catalunya National.v1.27.jpg",
+      "staticMapNormalFilePath_url": "Catalunya_National.v1.27.jpg",
+      "animatedMapFilePath": "Catalunya National.v1.27.svg",
+      "animatedMapFilePath_url": "Catalunya_National.v1.27.svg"
     },
     {
       "trackId": 26,

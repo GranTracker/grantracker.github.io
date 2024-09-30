@@ -4,6 +4,152 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2024-40",
+      "startDateTime": "2024-09-30T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 100,
+          "specs": {
+            "bopId": 5,
+            "tireIds": [
+              5
+            ],
+            "specifiedCarIds": [
+              52,
+              148,
+              164,
+              479,
+              266,
+              325,
+              369,
+              401,
+              420,
+              468
+            ],
+            "laps": 3,
+            "tires": [
+              {
+                "tireId": 5,
+                "tireName": "SM"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 52,
+                "name": "911 GT3 (997) '09",
+                "manufacturerId": 51,
+                "manufacturerName": "Porsche",
+                "categoryId": 6
+              },
+              {
+                "carId": 148,
+                "name": "Diablo GT '00",
+                "manufacturerId": 37,
+                "manufacturerName": "Lamborghini",
+                "categoryId": 6
+              },
+              {
+                "carId": 164,
+                "name": "F40 '92",
+                "manufacturerId": 24,
+                "manufacturerName": "Ferrari",
+                "categoryId": 6
+              },
+              {
+                "carId": 479,
+                "name": "LFA '10",
+                "manufacturerId": 39,
+                "manufacturerName": "Lexus",
+                "categoryId": 6
+              },
+              {
+                "carId": 266,
+                "name": "M3 '07",
+                "manufacturerId": 11,
+                "manufacturerName": "BMW",
+                "categoryId": 6
+              },
+              {
+                "carId": 325,
+                "name": "NSX Type R '92",
+                "manufacturerId": 30,
+                "manufacturerName": "Honda",
+                "categoryId": 6
+              },
+              {
+                "carId": 369,
+                "name": "RX-7 Spirit R Type A (FD) '02",
+                "manufacturerId": 42,
+                "manufacturerName": "Mazda",
+                "categoryId": 6
+              },
+              {
+                "carId": 401,
+                "name": "SLR McLaren '09",
+                "manufacturerId": 44,
+                "manufacturerName": "Mercedes-Benz",
+                "categoryId": 6
+              },
+              {
+                "carId": 420,
+                "name": "Supra RZ '97",
+                "manufacturerId": 63,
+                "manufacturerName": "Toyota",
+                "categoryId": 6
+              },
+              {
+                "carId": 468,
+                "name": "XJ220 '92",
+                "manufacturerId": 34,
+                "manufacturerName": "Jaguar",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Tokyo Express East Counterclockwise"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 22,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 6,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Catalunya National"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 26,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Daytona Road Course"
+        }
+      ]
+    },
+    {
       "week": "2024-39",
       "startDateTime": "2024-09-23T07:00:00.000Z",
       "dailyRaces": [
