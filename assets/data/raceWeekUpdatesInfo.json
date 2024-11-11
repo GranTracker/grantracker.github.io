@@ -4,6 +4,168 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2024-46",
+      "startDateTime": "2024-11-11T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 72,
+          "specs": {
+            "bopId": 5,
+            "tireIds": [
+              1
+            ],
+            "specifiedCarIds": [
+              52,
+              124,
+              148,
+              164,
+              172,
+              179,
+              479,
+              325,
+              371,
+              401,
+              420,
+              468
+            ],
+            "laps": 1,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 52,
+                "name": "911 GT3 (997) '09",
+                "manufacturerId": 51,
+                "manufacturerName": "Porsche",
+                "categoryId": 6
+              },
+              {
+                "carId": 124,
+                "name": "Corvette C7 '14",
+                "manufacturerId": 14,
+                "manufacturerName": "Chevrolet",
+                "categoryId": 6
+              },
+              {
+                "carId": 148,
+                "name": "Diablo GT '00",
+                "manufacturerId": 37,
+                "manufacturerName": "Lamborghini",
+                "categoryId": 6
+              },
+              {
+                "carId": 164,
+                "name": "F40 '92",
+                "manufacturerId": 24,
+                "manufacturerName": "Ferrari",
+                "categoryId": 6
+              },
+              {
+                "carId": 172,
+                "name": "Fairlady Z Version S (Z33) '07",
+                "manufacturerId": 46,
+                "manufacturerName": "Nissan",
+                "categoryId": 6
+              },
+              {
+                "carId": 179,
+                "name": "Ford GT '06",
+                "manufacturerId": 26,
+                "manufacturerName": "Ford",
+                "categoryId": 6
+              },
+              {
+                "carId": 479,
+                "name": "LFA '10",
+                "manufacturerId": 39,
+                "manufacturerName": "Lexus",
+                "categoryId": 6
+              },
+              {
+                "carId": 325,
+                "name": "NSX Type R '92",
+                "manufacturerId": 30,
+                "manufacturerName": "Honda",
+                "categoryId": 6
+              },
+              {
+                "carId": 371,
+                "name": "RX-Vision '15",
+                "manufacturerId": 42,
+                "manufacturerName": "Mazda",
+                "categoryId": 6
+              },
+              {
+                "carId": 401,
+                "name": "SLR McLaren '09",
+                "manufacturerId": 44,
+                "manufacturerName": "Mercedes-Benz",
+                "categoryId": 6
+              },
+              {
+                "carId": 420,
+                "name": "Supra RZ '97",
+                "manufacturerId": 63,
+                "manufacturerName": "Toyota",
+                "categoryId": 6
+              },
+              {
+                "carId": 468,
+                "name": "XJ220 '92",
+                "manufacturerId": 34,
+                "manufacturerName": "Jaguar",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Nürburgring Nordschleife"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 103,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Trial Mountain"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 95,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              3
+            ],
+            "categoryId": 2,
+            "laps": 11,
+            "tires": [
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
+          },
+          "raceTrackName": "Suzuka Circuit"
+        }
+      ]
+    },
+    {
       "week": "2024-45",
       "startDateTime": "2024-11-04T07:00:00.000Z",
       "dailyRaces": [
