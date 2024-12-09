@@ -4,6 +4,103 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2024-50",
+      "startDateTime": "2024-12-09T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 106,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              4
+            ],
+            "specifiedCarIds": [
+              410
+            ],
+            "laps": 3,
+            "tires": [
+              {
+                "tireId": 4,
+                "tireName": "SH"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 410,
+                "name": "SR3 SL '13",
+                "manufacturerId": 54,
+                "manufacturerName": "Radical",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Watkins Glen Long Course"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 47,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Kyoto Yamagiwa"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 69,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              2,
+              3
+            ],
+            "specifiedCarIds": [
+              360,
+              361
+            ],
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              },
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 360,
+                "name": "Red Bull X2019 25th Anniversary Special Edition Race Car",
+                "manufacturerId": 28,
+                "manufacturerName": "Gran Turismo"
+              },
+              {
+                "carId": 361,
+                "name": "Red Bull X2019 Competition",
+                "manufacturerId": 28,
+                "manufacturerName": "Gran Turismo",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Nürburgring 24h"
+        }
+      ]
+    },
+    {
       "week": "2024-49",
       "startDateTime": "2024-12-02T07:00:00.000Z",
       "dailyRaces": [
