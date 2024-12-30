@@ -4,6 +4,168 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2024-53",
+      "startDateTime": "2024-12-30T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 99,
+          "specs": {
+            "bopId": 5,
+            "tireIds": [
+              1
+            ],
+            "specifiedCarIds": [
+              490,
+              164,
+              212,
+              489,
+              231,
+              289,
+              324,
+              475,
+              339,
+              491,
+              369,
+              420
+            ],
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 490,
+                "name": "400R '95",
+                "manufacturerId": 70,
+                "manufacturerName": "Nismo",
+                "categoryId": 6
+              },
+              {
+                "carId": 164,
+                "name": "F40 '92",
+                "manufacturerId": 24,
+                "manufacturerName": "Ferrari",
+                "categoryId": 6
+              },
+              {
+                "carId": 212,
+                "name": "GT-R '17",
+                "manufacturerId": 46,
+                "manufacturerName": "Nissan",
+                "categoryId": 6
+              },
+              {
+                "carId": 489,
+                "name": "Gallardo LP 560-4 '08",
+                "manufacturerId": 37,
+                "manufacturerName": "Lamborghini",
+                "categoryId": 6
+              },
+              {
+                "carId": 231,
+                "name": "Huayra '13",
+                "manufacturerId": 47,
+                "manufacturerName": "Pagani",
+                "categoryId": 6
+              },
+              {
+                "carId": 289,
+                "name": "Mercedes-AMG GT Black Series '20",
+                "manufacturerId": 1,
+                "manufacturerName": "AMG",
+                "categoryId": 6
+              },
+              {
+                "carId": 324,
+                "name": "NSX Type R '02",
+                "manufacturerId": 30,
+                "manufacturerName": "Honda",
+                "categoryId": 6
+              },
+              {
+                "carId": 475,
+                "name": "R32 GT-R Nismo '90",
+                "manufacturerId": 46,
+                "manufacturerName": "Nissan",
+                "categoryId": 6
+              },
+              {
+                "carId": 339,
+                "name": "R34 GT-R V-spec II Nür '02",
+                "manufacturerId": 46,
+                "manufacturerName": "Nissan",
+                "categoryId": 6
+              },
+              {
+                "carId": 491,
+                "name": "R8 Coupé V10 plus '16",
+                "manufacturerId": 8,
+                "manufacturerName": "Audi"
+              },
+              {
+                "carId": 369,
+                "name": "RX-7 Spirit R Type A (FD) '02",
+                "manufacturerId": 42,
+                "manufacturerName": "Mazda",
+                "categoryId": 6
+              },
+              {
+                "carId": 420,
+                "name": "Supra RZ '97",
+                "manufacturerId": 63,
+                "manufacturerName": "Toyota",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Tokyo Express East Clockwise"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 28,
+          "raceTrackReverse": true,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 4,
+            "laps": 6,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Deep Forest Raceway"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 64,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Monza"
+        }
+      ]
+    },
+    {
       "week": "2024-52",
       "startDateTime": "2024-12-23T07:00:00.000Z",
       "dailyRaces": [
