@@ -4,6 +4,79 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2025-01",
+      "startDateTime": "2025-01-06T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 103,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              6
+            ],
+            "specifiedCarIds": [
+              492
+            ],
+            "laps": 3,
+            "tires": [
+              {
+                "tireId": 6,
+                "tireName": "SS"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 492,
+                "name": "W 196 R '55",
+                "manufacturerId": 44,
+                "manufacturerName": "Mercedes-Benz"
+              }
+            ]
+          },
+          "raceTrackName": "Trial Mountain"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 95,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Suzuka Circuit"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 16,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              3
+            ],
+            "categoryId": 4,
+            "laps": 11,
+            "tires": [
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
+          },
+          "raceTrackName": "Brands Hatch GP"
+        }
+      ]
+    },
+    {
       "week": "2024-53",
       "startDateTime": "2024-12-30T07:00:00.000Z",
       "dailyRaces": [
