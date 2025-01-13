@@ -4,6 +4,80 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2025-02",
+      "startDateTime": "2025-01-13T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 77,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              9
+            ],
+            "specifiedCarIds": [
+              363
+            ],
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 9,
+                "tireName": "CS"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 363,
+                "name": "Roadster NR-A (ND) '22",
+                "manufacturerId": 42,
+                "manufacturerName": "Mazda",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Road Atlanta"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 39,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Grand Valley - Highway 1"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 3,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 1,
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "24 Heures du Mans No Chicane"
+        }
+      ]
+    },
+    {
       "week": "2025-01",
       "startDateTime": "2025-01-06T07:00:00.000Z",
       "dailyRaces": [
