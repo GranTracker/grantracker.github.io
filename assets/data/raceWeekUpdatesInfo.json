@@ -4,6 +4,80 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2025-03",
+      "startDateTime": "2025-01-20T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 105,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              6
+            ],
+            "specifiedCarIds": [
+              347
+            ],
+            "laps": 8,
+            "tires": [
+              {
+                "tireId": 6,
+                "tireName": "SS"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 347,
+                "name": "Racing Kart 125 Shifter",
+                "manufacturerId": 28,
+                "manufacturerName": "Gran Turismo",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Tsukuba"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 74,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 6,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Nürburgring Sprint"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 75,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              3
+            ],
+            "categoryId": 3,
+            "laps": 11,
+            "tires": [
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
+          },
+          "raceTrackName": "Red Bull Ring"
+        }
+      ]
+    },
+    {
       "week": "2025-02",
       "startDateTime": "2025-01-13T07:00:00.000Z",
       "dailyRaces": [
