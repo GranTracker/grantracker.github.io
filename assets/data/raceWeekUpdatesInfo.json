@@ -4,6 +4,80 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2025-04",
+      "startDateTime": "2025-01-27T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 106,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              6
+            ],
+            "specifiedCarIds": [
+              473
+            ],
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 6,
+                "tireName": "SS"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 473,
+                "name": "Garage RCR Civic",
+                "manufacturerId": 68,
+                "manufacturerName": "Garage RCR",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Watkins Glen Long Course"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 45,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Interlagos"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 28,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              3
+            ],
+            "categoryId": 4,
+            "laps": 13,
+            "tires": [
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
+          },
+          "raceTrackName": "Deep Forest Raceway"
+        }
+      ]
+    },
+    {
       "week": "2025-03",
       "startDateTime": "2025-01-20T07:00:00.000Z",
       "dailyRaces": [
