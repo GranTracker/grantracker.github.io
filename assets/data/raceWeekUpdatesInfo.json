@@ -4,6 +4,80 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2025-05",
+      "startDateTime": "2025-02-03T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 21,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "specifiedCarIds": [
+              493
+            ],
+            "laps": 7,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 493,
+                "name": "F3500-A",
+                "manufacturerId": 28,
+                "manufacturerName": "Gran Turismo",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Catalunya GP No Chicane"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 95,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Suzuka Circuit"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 71,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 9,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Nürburgring GP"
+        }
+      ]
+    },
+    {
       "week": "2025-04",
       "startDateTime": "2025-01-27T07:00:00.000Z",
       "dailyRaces": [
