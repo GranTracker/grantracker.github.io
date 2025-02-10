@@ -4,6 +4,107 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2025-06",
+      "startDateTime": "2025-02-10T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 98,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              8
+            ],
+            "specifiedCarIds": [
+              494
+            ],
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 8,
+                "tireName": "CM"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 494,
+                "name": "Civic Si Extra (EF) '87",
+                "manufacturerId": 30,
+                "manufacturerName": "Honda",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Tokyo Express Central Clockwise"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 93,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 3,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Spa-Francorchamps"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 36,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              3
+            ],
+            "specifiedCarIds": [
+              215,
+              323,
+              384
+            ],
+            "laps": 13,
+            "tires": [
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 215,
+                "name": "GT-R GT500 '08",
+                "manufacturerId": 46,
+                "manufacturerName": "Nissan",
+                "categoryId": 2
+              },
+              {
+                "carId": 323,
+                "name": "NSX GT500 '08",
+                "manufacturerId": 30,
+                "manufacturerName": "Honda",
+                "categoryId": 2
+              },
+              {
+                "carId": 384,
+                "name": "SC430 GT500 '08",
+                "manufacturerId": 39,
+                "manufacturerName": "Lexus",
+                "categoryId": 2
+              }
+            ]
+          },
+          "raceTrackName": "Fuji"
+        }
+      ]
+    },
+    {
       "week": "2025-05",
       "startDateTime": "2025-02-03T07:00:00.000Z",
       "dailyRaces": [
