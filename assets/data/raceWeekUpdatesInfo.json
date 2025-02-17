@@ -4,6 +4,85 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2025-07",
+      "startDateTime": "2025-02-17T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 86,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              4
+            ],
+            "specifiedCarIds": [
+              495
+            ],
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 4,
+                "tireName": "SH"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 495,
+                "name": "Escort RS Cogsworth '92",
+                "manufacturerId": 26,
+                "manufacturerName": "Ford",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Sardegna Road Track B"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 75,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Red Bull Ring"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 28,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1,
+              2
+            ],
+            "categoryId": 3,
+            "laps": 14,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              },
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Deep Forest Raceway"
+        }
+      ]
+    },
+    {
       "week": "2025-06",
       "startDateTime": "2025-02-10T07:00:00.000Z",
       "dailyRaces": [
