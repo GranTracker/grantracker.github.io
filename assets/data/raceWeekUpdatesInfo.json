@@ -4,6 +4,80 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2025-08",
+      "startDateTime": "2025-02-24T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 72,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              9
+            ],
+            "specifiedCarIds": [
+              496
+            ],
+            "laps": 1,
+            "tires": [
+              {
+                "tireId": 9,
+                "tireName": "CS"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 496,
+                "name": "Impreza Sedan WRX STi '04",
+                "manufacturerId": 58,
+                "manufacturerName": "Subaru",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Nürburgring Nordschleife"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 32,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Dragon Trail - Seaside"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 106,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Watkins Glen Long Course"
+        }
+      ]
+    },
+    {
       "week": "2025-07",
       "startDateTime": "2025-02-17T07:00:00.000Z",
       "dailyRaces": [
