@@ -4,6 +4,91 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2025-09",
+      "startDateTime": "2025-03-03T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 95,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              3
+            ],
+            "specifiedCarIds": [
+              471,
+              470
+            ],
+            "laps": 6,
+            "tires": [
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 471,
+                "name": "SF23 Super Formula / Honda '23",
+                "manufacturerId": 59,
+                "manufacturerName": "Super Formula"
+              },
+              {
+                "carId": 470,
+                "name": "SF23 Super Formula / Toyota '23",
+                "manufacturerId": 59,
+                "manufacturerName": "Super Formula"
+              }
+            ]
+          },
+          "raceTrackName": "Suzuka Circuit"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 103,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Trial Mountain"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 63,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              1,
+              2
+            ],
+            "categoryId": 3,
+            "laps": 14,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              },
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Laguna Seca"
+        }
+      ]
+    },
+    {
       "week": "2025-08",
       "startDateTime": "2025-02-24T07:00:00.000Z",
       "dailyRaces": [
