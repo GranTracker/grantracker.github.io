@@ -4,6 +4,80 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2025-12",
+      "startDateTime": "2025-03-24T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 95,
+          "specs": {
+            "bopId": 5,
+            "tireIds": [
+              1
+            ],
+            "specifiedCarIds": [
+              65
+            ],
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 65,
+                "name": "A112 Abarth '85",
+                "manufacturerId": 9,
+                "manufacturerName": "Autobianchi",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Suzuka Circuit"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 64,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Monza"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 2,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 1,
+            "laps": 6,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "24 Heures du Mans"
+        }
+      ]
+    },
+    {
       "week": "2025-11",
       "startDateTime": "2025-03-17T07:00:00.000Z",
       "dailyRaces": [
