@@ -4,6 +4,85 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2025-13",
+      "startDateTime": "2025-03-31T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 37,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              5
+            ],
+            "specifiedCarIds": [
+              497
+            ],
+            "laps": 6,
+            "tires": [
+              {
+                "tireId": 5,
+                "tireName": "SM"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 497,
+                "name": "Vantage '18",
+                "manufacturerId": 7,
+                "manufacturerName": "Aston Martin",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Fuji Short"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 21,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 6,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Catalunya GP No Chicane"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 39,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1,
+              3
+            ],
+            "categoryId": 3,
+            "laps": 9,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              },
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
+          },
+          "raceTrackName": "Grand Valley - Highway 1"
+        }
+      ]
+    },
+    {
       "week": "2025-12",
       "startDateTime": "2025-03-24T07:00:00.000Z",
       "dailyRaces": [
