@@ -4,6 +4,85 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2025-14",
+      "startDateTime": "2025-04-07T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 105,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              5
+            ],
+            "specifiedCarIds": [
+              379
+            ],
+            "laps": 7,
+            "tires": [
+              {
+                "tireId": 5,
+                "tireName": "SM"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 379,
+                "name": "S2000 GT1 Turbo",
+                "manufacturerId": 6,
+                "manufacturerName": "Amuse",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Tsukuba"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 106,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Watkins Glen Long Course"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 57,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2,
+              3
+            ],
+            "categoryId": 2,
+            "laps": 12,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              },
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
+          },
+          "raceTrackName": "Lago Maggiore Full Course"
+        }
+      ]
+    },
+    {
       "week": "2025-13",
       "startDateTime": "2025-03-31T07:00:00.000Z",
       "dailyRaces": [
