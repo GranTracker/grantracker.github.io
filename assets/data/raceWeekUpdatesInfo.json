@@ -4,6 +4,80 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2025-16",
+      "startDateTime": "2025-04-21T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 115,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              9
+            ],
+            "specifiedCarIds": [
+              498
+            ],
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 9,
+                "tireName": "CS"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 498,
+                "name": "Giulia Sprint GT Veloce '67",
+                "manufacturerId": 3,
+                "manufacturerName": "Alfa Romeo",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Eiger Nordwand"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 74,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Nürburgring Sprint"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 48,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 4,
+            "laps": 8,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Kyoto Yamagiwa + Miyabi"
+        }
+      ]
+    },
+    {
       "week": "2025-15",
       "startDateTime": "2025-04-14T07:00:00.000Z",
       "dailyRaces": [
