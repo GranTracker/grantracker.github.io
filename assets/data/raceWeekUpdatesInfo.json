@@ -4,6 +4,85 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2025-17",
+      "startDateTime": "2025-04-28T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 107,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              6
+            ],
+            "specifiedCarIds": [
+              499
+            ],
+            "laps": 6,
+            "tires": [
+              {
+                "tireId": 6,
+                "tireName": "SS"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 499,
+                "name": "IONIQ 5 N '24",
+                "manufacturerId": 31,
+                "manufacturerName": "Hyundai",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Watkins Glen Short Course"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 32,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Dragon Trail - Seaside"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 93,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              1,
+              3
+            ],
+            "categoryId": 3,
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              },
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
+          },
+          "raceTrackName": "Spa-Francorchamps"
+        }
+      ]
+    },
+    {
       "week": "2025-16",
       "startDateTime": "2025-04-21T07:00:00.000Z",
       "dailyRaces": [
