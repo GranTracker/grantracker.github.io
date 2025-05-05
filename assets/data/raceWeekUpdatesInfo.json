@@ -4,6 +4,81 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2025-18",
+      "startDateTime": "2025-05-05T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 88,
+          "raceTrackReverse": true,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              4
+            ],
+            "specifiedCarIds": [
+              410
+            ],
+            "laps": 7,
+            "tires": [
+              {
+                "tireId": 4,
+                "tireName": "SH"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 410,
+                "name": "SR3 SL '13",
+                "manufacturerId": 54,
+                "manufacturerName": "Radical",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Sardegna Road Track C"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 36,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Fuji"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 69,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 1,
+            "laps": 3,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Nürburgring 24h"
+        }
+      ]
+    },
+    {
       "week": "2025-17",
       "startDateTime": "2025-04-28T07:00:00.000Z",
       "dailyRaces": [
