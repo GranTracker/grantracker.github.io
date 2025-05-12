@@ -4,6 +4,69 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2025-19",
+      "startDateTime": "2025-05-12T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 90,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              12
+            ],
+            "categoryId": 5,
+            "laps": 6,
+            "tires": [
+              {
+                "tireId": 12,
+                "tireName": "Dirt"
+              }
+            ]
+          },
+          "raceTrackName": "Sardegna Windmills"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 45,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Interlagos"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 26,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Daytona Road Course"
+        }
+      ]
+    },
+    {
       "week": "2025-18",
       "startDateTime": "2025-05-05T07:00:00.000Z",
       "dailyRaces": [
