@@ -4,6 +4,84 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2025-21",
+      "startDateTime": "2025-05-26T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 98,
+          "specs": {
+            "tireIds": [
+              8
+            ],
+            "specifiedCarIds": [
+              500
+            ],
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 8,
+                "tireName": "CM"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 500,
+                "name": "Carry KC '12",
+                "manufacturerId": 60,
+                "manufacturerName": "Suzuki",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Tokyo Express Central Clockwise"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 112,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 7,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Willow Springs Big Willow"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 95,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1,
+              3
+            ],
+            "categoryId": 3,
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              },
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
+          },
+          "raceTrackName": "Suzuka Circuit"
+        }
+      ]
+    },
+    {
       "week": "2025-20",
       "startDateTime": "2025-05-19T07:00:00.000Z",
       "dailyRaces": [
