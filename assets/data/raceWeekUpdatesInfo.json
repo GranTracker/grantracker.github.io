@@ -4,6 +4,80 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2025-23",
+      "startDateTime": "2025-06-09T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 17,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              5
+            ],
+            "specifiedCarIds": [
+              115
+            ],
+            "laps": 8,
+            "tires": [
+              {
+                "tireId": 5,
+                "tireName": "SM"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 115,
+                "name": "Clio V6 24V '00",
+                "manufacturerId": 55,
+                "manufacturerName": "Renault",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Brands Hatch Indy"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 30,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Dragon Trail - Gardens"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 63,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 14,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Laguna Seca"
+        }
+      ]
+    },
+    {
       "week": "2025-22",
       "startDateTime": "2025-06-02T07:00:00.000Z",
       "dailyRaces": [
