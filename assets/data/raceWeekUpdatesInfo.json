@@ -4,6 +4,155 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2025-26",
+      "startDateTime": "2025-06-30T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 101,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              5
+            ],
+            "specifiedCarIds": [
+              110
+            ],
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 5,
+                "tireName": "SM"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 110,
+                "name": "Civic Type R (EK) Touring Car",
+                "manufacturerId": 30,
+                "manufacturerName": "Honda",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Tokyo Express South Clockwise"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 92,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Spa 24h Layout"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 95,
+          "specs": {
+            "bopId": 5,
+            "tireIds": [
+              1
+            ],
+            "specifiedCarIds": [
+              48,
+              148,
+              164,
+              216,
+              281,
+              282,
+              502,
+              475,
+              419
+            ],
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 48,
+                "name": "911 Carrera RS (993) '95",
+                "manufacturerId": 51,
+                "manufacturerName": "Porsche",
+                "categoryId": 6
+              },
+              {
+                "carId": 148,
+                "name": "Diablo GT '00",
+                "manufacturerId": 37,
+                "manufacturerName": "Lamborghini",
+                "categoryId": 6
+              },
+              {
+                "carId": 164,
+                "name": "F40 '92",
+                "manufacturerId": 24,
+                "manufacturerName": "Ferrari",
+                "categoryId": 6
+              },
+              {
+                "carId": 216,
+                "name": "GT-R GT500 '99",
+                "manufacturerId": 46,
+                "manufacturerName": "Nissan",
+                "categoryId": 3
+              },
+              {
+                "carId": 281,
+                "name": "McLaren F1 GTR - BMW '95",
+                "manufacturerId": 43,
+                "manufacturerName": "McLaren",
+                "categoryId": 3
+              },
+              {
+                "carId": 282,
+                "name": "McLaren F1 GTR Race Car '97",
+                "manufacturerId": 11,
+                "manufacturerName": "BMW",
+                "categoryId": 2
+              },
+              {
+                "carId": 502,
+                "name": "NSX GT500 '00",
+                "manufacturerId": 30,
+                "manufacturerName": "Honda",
+                "categoryId": 3
+              },
+              {
+                "carId": 475,
+                "name": "R32 GT-R Nismo '90",
+                "manufacturerId": 46,
+                "manufacturerName": "Nissan",
+                "categoryId": 6
+              },
+              {
+                "carId": 419,
+                "name": "Supra GT500 '97",
+                "manufacturerId": 63,
+                "manufacturerName": "Toyota",
+                "categoryId": 3
+              }
+            ]
+          },
+          "raceTrackName": "Suzuka Circuit"
+        }
+      ]
+    },
+    {
       "week": "2025-25",
       "startDateTime": "2025-06-23T07:00:00.000Z",
       "dailyRaces": [
