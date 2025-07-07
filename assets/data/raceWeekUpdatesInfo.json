@@ -4,6 +4,81 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2025-27",
+      "startDateTime": "2025-07-07T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 86,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              1
+            ],
+            "specifiedCarIds": [
+              503
+            ],
+            "laps": 6,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 503,
+                "name": "Delta HF Integrale Rally Car '92",
+                "manufacturerId": 38,
+                "manufacturerName": "Lancia",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Sardegna Road Track B"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 66,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Mount Panorama"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 28,
+          "raceTrackReverse": true,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 15,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Deep Forest Raceway"
+        }
+      ]
+    },
+    {
       "week": "2025-26",
       "startDateTime": "2025-06-30T07:00:00.000Z",
       "dailyRaces": [
