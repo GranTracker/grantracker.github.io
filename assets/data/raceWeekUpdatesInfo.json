@@ -4,6 +4,80 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2025-28",
+      "startDateTime": "2025-07-14T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 26,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              1
+            ],
+            "specifiedCarIds": [
+              358
+            ],
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 358,
+                "name": "Red Bull X2014 Junior",
+                "manufacturerId": 28,
+                "manufacturerName": "Gran Turismo",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Daytona Road Course"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 57,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Lago Maggiore Full Course"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 8,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Autopolis"
+        }
+      ]
+    },
+    {
       "week": "2025-27",
       "startDateTime": "2025-07-07T07:00:00.000Z",
       "dailyRaces": [
