@@ -4,6 +4,85 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2025-29",
+      "startDateTime": "2025-07-21T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 107,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              4
+            ],
+            "specifiedCarIds": [
+              339
+            ],
+            "laps": 6,
+            "tires": [
+              {
+                "tireId": 4,
+                "tireName": "SH"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 339,
+                "name": "R34 GT-R V-spec II Nür '02",
+                "manufacturerId": 46,
+                "manufacturerName": "Nissan",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Watkins Glen Short Course"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 71,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Nürburgring GP"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 75,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1,
+              2
+            ],
+            "categoryId": 3,
+            "laps": 15,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              },
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Red Bull Ring"
+        }
+      ]
+    },
+    {
       "week": "2025-28",
       "startDateTime": "2025-07-14T07:00:00.000Z",
       "dailyRaces": [
