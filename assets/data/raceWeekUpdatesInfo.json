@@ -4,6 +4,183 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2025-30",
+      "startDateTime": "2025-07-28T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 94,
+          "specs": {
+            "bopId": 5,
+            "tireIds": [
+              1
+            ],
+            "specifiedCarIds": [
+              490,
+              507,
+              506,
+              81,
+              505,
+              107,
+              128,
+              508,
+              229,
+              504,
+              491,
+              420
+            ],
+            "laps": 1,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 490,
+                "name": "400R '95",
+                "manufacturerId": 70,
+                "manufacturerName": "Nismo",
+                "categoryId": 6
+              },
+              {
+                "carId": 507,
+                "name": "812 Superfast '17",
+                "manufacturerId": 24,
+                "manufacturerName": "Ferrari",
+                "categoryId": 6
+              },
+              {
+                "carId": 506,
+                "name": "911 Turbo S (992) '20",
+                "manufacturerId": 51,
+                "manufacturerName": "Porsche",
+                "categoryId": 6
+              },
+              {
+                "carId": 81,
+                "name": "Aventador LP 750-4 SV '15",
+                "manufacturerId": 37,
+                "manufacturerName": "Lamborghini",
+                "categoryId": 6
+              },
+              {
+                "carId": 505,
+                "name": "Challenger SRT Demon '18",
+                "manufacturerId": 21,
+                "manufacturerName": "Dodge",
+                "categoryId": 6
+              },
+              {
+                "carId": 107,
+                "name": "Chiron '16",
+                "manufacturerId": 12,
+                "manufacturerName": "Bugatti",
+                "categoryId": 6
+              },
+              {
+                "carId": 128,
+                "name": "Corvette C7 ZR1 '19",
+                "manufacturerId": 14,
+                "manufacturerName": "Chevrolet",
+                "categoryId": 6
+              },
+              {
+                "carId": 508,
+                "name": "GT-R Premium edition T-spec '24",
+                "manufacturerId": 46,
+                "manufacturerName": "Nissan",
+                "categoryId": 6
+              },
+              {
+                "carId": 229,
+                "name": "GTO Twin Turbo '91",
+                "manufacturerId": 45,
+                "manufacturerName": "Mitsubishi",
+                "categoryId": 6
+              },
+              {
+                "carId": 504,
+                "name": "R34 GT-R Z-tune '05",
+                "manufacturerId": 70,
+                "manufacturerName": "Nismo",
+                "categoryId": 6
+              },
+              {
+                "carId": 491,
+                "name": "R8 Coupé V10 plus '16",
+                "manufacturerId": 8,
+                "manufacturerName": "Audi"
+              },
+              {
+                "carId": 420,
+                "name": "Supra RZ '97",
+                "manufacturerId": 63,
+                "manufacturerName": "Toyota",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Special Stage Route X"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 84,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Sardegna Road Track A"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 64,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              2,
+              3
+            ],
+            "specifiedCarIds": [
+              493
+            ],
+            "laps": 12,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              },
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 493,
+                "name": "F3500-A",
+                "manufacturerId": 28,
+                "manufacturerName": "Gran Turismo",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Monza"
+        }
+      ]
+    },
+    {
       "week": "2025-29",
       "startDateTime": "2025-07-21T07:00:00.000Z",
       "dailyRaces": [
