@@ -4,6 +4,80 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2025-31",
+      "startDateTime": "2025-08-04T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 96,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              8
+            ],
+            "specifiedCarIds": [
+              509
+            ],
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 8,
+                "tireName": "CM"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 509,
+                "name": "N-ONE RS '22",
+                "manufacturerId": 30,
+                "manufacturerName": "Honda",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Suzuka East"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 17,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Brands Hatch Indy"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 112,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 15,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Willow Springs Big Willow"
+        }
+      ]
+    },
+    {
       "week": "2025-30",
       "startDateTime": "2025-07-28T07:00:00.000Z",
       "dailyRaces": [
