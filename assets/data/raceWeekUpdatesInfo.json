@@ -4,6 +4,86 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2025-34",
+      "startDateTime": "2025-08-25T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 59,
+          "raceTrackReverse": true,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              9
+            ],
+            "specifiedCarIds": [
+              430
+            ],
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 9,
+                "tireName": "CS"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 430,
+                "name": "TT Coupé 3.2 quattro '03",
+                "manufacturerId": 8,
+                "manufacturerName": "Audi",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Lago Maggiore West"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 106,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Watkins Glen Long Course"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 95,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2,
+              3
+            ],
+            "categoryId": 2,
+            "laps": 12,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              },
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
+          },
+          "raceTrackName": "Suzuka Circuit"
+        }
+      ]
+    },
+    {
       "week": "2025-33",
       "startDateTime": "2025-08-18T07:00:00.000Z",
       "dailyRaces": [
