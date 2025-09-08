@@ -4,6 +4,85 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2025-36",
+      "startDateTime": "2025-09-08T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 43,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              6
+            ],
+            "specifiedCarIds": [
+              446
+            ],
+            "laps": 7,
+            "tires": [
+              {
+                "tireId": 6,
+                "tireName": "SS"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 446,
+                "name": "Viper SRT10 Coupe '06",
+                "manufacturerId": 21,
+                "manufacturerName": "Dodge",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "High Speed Ring"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 103,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Trial Mountain"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 63,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              1,
+              3
+            ],
+            "categoryId": 4,
+            "laps": 13,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              },
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
+          },
+          "raceTrackName": "Laguna Seca"
+        }
+      ]
+    },
+    {
       "week": "2025-35",
       "startDateTime": "2025-09-01T07:00:00.000Z",
       "dailyRaces": [
