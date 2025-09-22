@@ -4,6 +4,171 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2025-38",
+      "startDateTime": "2025-09-22T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 98,
+          "specs": {
+            "bopId": 5,
+            "tireIds": [
+              4
+            ],
+            "specifiedCarIds": [
+              494,
+              483,
+              108,
+              109,
+              110,
+              111,
+              472
+            ],
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 4,
+                "tireName": "SH"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 494,
+                "name": "Civic Si Extra (EF) '87",
+                "manufacturerId": 30,
+                "manufacturerName": "Honda",
+                "categoryId": 6
+              },
+              {
+                "carId": 483,
+                "name": "Civic SiR-II (EG) '93",
+                "manufacturerId": 30,
+                "manufacturerName": "Honda",
+                "categoryId": 6
+              },
+              {
+                "carId": 108,
+                "name": "Civic Type R (EK) '97",
+                "manufacturerId": 30,
+                "manufacturerName": "Honda",
+                "categoryId": 6
+              },
+              {
+                "carId": 109,
+                "name": "Civic Type R (EK) '98",
+                "manufacturerId": 30,
+                "manufacturerName": "Honda",
+                "categoryId": 6
+              },
+              {
+                "carId": 110,
+                "name": "Civic Type R (EK) Touring Car",
+                "manufacturerId": 30,
+                "manufacturerName": "Honda",
+                "categoryId": 6
+              },
+              {
+                "carId": 111,
+                "name": "Civic Type R (FK2) '15",
+                "manufacturerId": 30,
+                "manufacturerName": "Honda",
+                "categoryId": 6
+              },
+              {
+                "carId": 472,
+                "name": "Civic Type R (FL5) ’22",
+                "manufacturerId": 30,
+                "manufacturerName": "Honda",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Tokyo Express Central Clockwise"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 21,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Catalunya GP No Chicane"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 3,
+          "specs": {
+            "bopId": 5,
+            "tireIds": [
+              2
+            ],
+            "specifiedCarIds": [
+              37,
+              61,
+              345,
+              383,
+              462
+            ],
+            "laps": 6,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 37,
+                "name": "787B '91",
+                "manufacturerId": 42,
+                "manufacturerName": "Mazda",
+                "categoryId": 1
+              },
+              {
+                "carId": 61,
+                "name": "962 C '88",
+                "manufacturerId": 51,
+                "manufacturerName": "Porsche",
+                "categoryId": 1
+              },
+              {
+                "carId": 345,
+                "name": "R92CP '92",
+                "manufacturerId": 46,
+                "manufacturerName": "Nissan",
+                "categoryId": 1
+              },
+              {
+                "carId": 383,
+                "name": "Sauber Mercedes C9 '89",
+                "manufacturerId": 44,
+                "manufacturerName": "Mercedes-Benz",
+                "categoryId": 1
+              },
+              {
+                "carId": 462,
+                "name": "XJR-9 '88",
+                "manufacturerId": 34,
+                "manufacturerName": "Jaguar",
+                "categoryId": 1
+              }
+            ]
+          },
+          "raceTrackName": "24 Heures du Mans No Chicane"
+        }
+      ]
+    },
+    {
       "week": "2025-37",
       "startDateTime": "2025-09-15T07:00:00.000Z",
       "dailyRaces": [
