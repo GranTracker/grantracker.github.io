@@ -4,6 +4,85 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2025-39",
+      "startDateTime": "2025-09-29T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 12,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              4
+            ],
+            "specifiedCarIds": [
+              510
+            ],
+            "laps": 8,
+            "tires": [
+              {
+                "tireId": 4,
+                "tireName": "SH"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 510,
+                "name": "Elantra N '23",
+                "manufacturerId": 31,
+                "manufacturerName": "Hyundai",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Blue Moon Infield B"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 47,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Kyoto Yamagiwa"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 32,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1,
+              2
+            ],
+            "categoryId": 3,
+            "laps": 13,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              },
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Dragon Trail - Seaside"
+        }
+      ]
+    },
+    {
       "week": "2025-38",
       "startDateTime": "2025-09-22T07:00:00.000Z",
       "dailyRaces": [
