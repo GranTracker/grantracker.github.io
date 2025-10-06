@@ -4,6 +4,80 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2025-40",
+      "startDateTime": "2025-10-06T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 27,
+          "specs": {
+            "bopId": 5,
+            "tireIds": [
+              9
+            ],
+            "specifiedCarIds": [
+              417
+            ],
+            "laps": 7,
+            "tires": [
+              {
+                "tireId": 9,
+                "tireName": "CS"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 417,
+                "name": "Superbird '70",
+                "manufacturerId": 49,
+                "manufacturerName": "Plymouth",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Daytona Tri-Oval"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 92,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Spa 24h Layout"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 107,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 15,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Watkins Glen Short Course"
+        }
+      ]
+    },
+    {
       "week": "2025-39",
       "startDateTime": "2025-09-29T07:00:00.000Z",
       "dailyRaces": [
