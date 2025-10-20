@@ -4,6 +4,81 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2025-42",
+      "startDateTime": "2025-10-20T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 84,
+          "raceTrackReverse": true,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              1
+            ],
+            "specifiedCarIds": [
+              358
+            ],
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 358,
+                "name": "Red Bull X2014 Junior",
+                "manufacturerId": 28,
+                "manufacturerName": "Gran Turismo",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Sardegna Road Track A"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 74,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Nürburgring Sprint"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 8,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              3
+            ],
+            "categoryId": 2,
+            "laps": 13,
+            "tires": [
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
+          },
+          "raceTrackName": "Autopolis"
+        }
+      ]
+    },
+    {
       "week": "2025-41",
       "startDateTime": "2025-10-13T07:00:00.000Z",
       "dailyRaces": [
