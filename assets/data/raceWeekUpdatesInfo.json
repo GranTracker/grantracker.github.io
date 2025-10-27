@@ -4,6 +4,88 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2025-43",
+      "startDateTime": "2025-10-27T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 105,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              4
+            ],
+            "specifiedCarIds": [
+              41,
+              87
+            ],
+            "laps": 8,
+            "tires": [
+              {
+                "tireId": 4,
+                "tireName": "SH"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 41,
+                "name": "86 GT '15",
+                "manufacturerId": 63,
+                "manufacturerName": "Toyota",
+                "categoryId": 6
+              },
+              {
+                "carId": 87,
+                "name": "BRZ S '15",
+                "manufacturerId": 58,
+                "manufacturerName": "Subaru",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Tsukuba"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 32,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Dragon Trail - Seaside"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 26,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Daytona Road Course"
+        }
+      ]
+    },
+    {
       "week": "2025-42",
       "startDateTime": "2025-10-20T07:00:00.000Z",
       "dailyRaces": [
