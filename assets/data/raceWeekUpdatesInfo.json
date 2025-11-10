@@ -4,6 +4,85 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2025-45",
+      "startDateTime": "2025-11-10T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 65,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              4
+            ],
+            "specifiedCarIds": [
+              188
+            ],
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 4,
+                "tireName": "SH"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 188,
+                "name": "Genesis Coupe 3.8 '13",
+                "manufacturerId": 31,
+                "manufacturerName": "Hyundai",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Monza No Chicane"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 45,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 4,
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Interlagos"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 103,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2,
+              3
+            ],
+            "categoryId": 3,
+            "laps": 11,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              },
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
+          },
+          "raceTrackName": "Trial Mountain"
+        }
+      ]
+    },
+    {
       "week": "2025-44",
       "startDateTime": "2025-11-03T07:00:00.000Z",
       "dailyRaces": [
