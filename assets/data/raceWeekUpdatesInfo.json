@@ -4,6 +4,275 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2025-48",
+      "startDateTime": "2025-12-01T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 94,
+          "specs": {
+            "bopId": 5,
+            "tireIds": [
+              6
+            ],
+            "specifiedCarIds": [
+              81,
+              107,
+              134,
+              167,
+              173,
+              218,
+              231,
+              289,
+              324,
+              475,
+              338,
+              339,
+              369,
+              420,
+              444,
+              464
+            ],
+            "laps": 1,
+            "tires": [
+              {
+                "tireId": 6,
+                "tireName": "SS"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 81,
+                "name": "Aventador LP 750-4 SV '15",
+                "manufacturerId": 37,
+                "manufacturerName": "Lamborghini",
+                "categoryId": 6
+              },
+              {
+                "carId": 107,
+                "name": "Chiron '16",
+                "manufacturerId": 12,
+                "manufacturerName": "Bugatti",
+                "categoryId": 6
+              },
+              {
+                "carId": 134,
+                "name": "Corvette ZR1 (C6) '09",
+                "manufacturerId": 14,
+                "manufacturerName": "Chevrolet",
+                "categoryId": 6
+              },
+              {
+                "carId": 167,
+                "name": "F8 Tributo '19",
+                "manufacturerId": 24,
+                "manufacturerName": "Ferrari",
+                "categoryId": 6
+              },
+              {
+                "carId": 173,
+                "name": "FD3S RX-7",
+                "manufacturerId": 52,
+                "manufacturerName": "RE Amemiya",
+                "categoryId": 6
+              },
+              {
+                "carId": 218,
+                "name": "GT-R NISMO '17",
+                "manufacturerId": 46,
+                "manufacturerName": "Nissan",
+                "categoryId": 6
+              },
+              {
+                "carId": 231,
+                "name": "Huayra '13",
+                "manufacturerId": 47,
+                "manufacturerName": "Pagani",
+                "categoryId": 6
+              },
+              {
+                "carId": 289,
+                "name": "Mercedes-AMG GT Black Series '20",
+                "manufacturerId": 1,
+                "manufacturerName": "AMG",
+                "categoryId": 6
+              },
+              {
+                "carId": 324,
+                "name": "NSX Type R '02",
+                "manufacturerId": 30,
+                "manufacturerName": "Honda",
+                "categoryId": 6
+              },
+              {
+                "carId": 475,
+                "name": "R32 GT-R Nismo '90",
+                "manufacturerId": 46,
+                "manufacturerName": "Nissan",
+                "categoryId": 6
+              },
+              {
+                "carId": 338,
+                "name": "R33 GT-R V-spec '97",
+                "manufacturerId": 46,
+                "manufacturerName": "Nissan",
+                "categoryId": 6
+              },
+              {
+                "carId": 339,
+                "name": "R34 GT-R V-spec II Nür '02",
+                "manufacturerId": 46,
+                "manufacturerName": "Nissan",
+                "categoryId": 6
+              },
+              {
+                "carId": 369,
+                "name": "RX-7 Spirit R Type A (FD) '02",
+                "manufacturerId": 42,
+                "manufacturerName": "Mazda",
+                "categoryId": 6
+              },
+              {
+                "carId": 420,
+                "name": "Supra RZ '97",
+                "manufacturerId": 63,
+                "manufacturerName": "Toyota",
+                "categoryId": 6
+              },
+              {
+                "carId": 444,
+                "name": "Viper GTS '13",
+                "manufacturerId": 21,
+                "manufacturerName": "Dodge",
+                "categoryId": 6
+              },
+              {
+                "carId": 464,
+                "name": "Z Performance '23",
+                "manufacturerId": 46,
+                "manufacturerName": "Nissan",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Special Stage Route X"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 57,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Lago Maggiore Full Course"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 95,
+          "specs": {
+            "bopId": 5,
+            "tireIds": [
+              1
+            ],
+            "specifiedCarIds": [
+              48,
+              148,
+              164,
+              216,
+              281,
+              282,
+              502,
+              475,
+              419
+            ],
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 48,
+                "name": "911 Carrera RS (993) '95",
+                "manufacturerId": 51,
+                "manufacturerName": "Porsche",
+                "categoryId": 6
+              },
+              {
+                "carId": 148,
+                "name": "Diablo GT '00",
+                "manufacturerId": 37,
+                "manufacturerName": "Lamborghini",
+                "categoryId": 6
+              },
+              {
+                "carId": 164,
+                "name": "F40 '92",
+                "manufacturerId": 24,
+                "manufacturerName": "Ferrari",
+                "categoryId": 6
+              },
+              {
+                "carId": 216,
+                "name": "GT-R GT500 '99",
+                "manufacturerId": 46,
+                "manufacturerName": "Nissan",
+                "categoryId": 3
+              },
+              {
+                "carId": 281,
+                "name": "McLaren F1 GTR - BMW '95",
+                "manufacturerId": 43,
+                "manufacturerName": "McLaren",
+                "categoryId": 3
+              },
+              {
+                "carId": 282,
+                "name": "McLaren F1 GTR Race Car '97",
+                "manufacturerId": 11,
+                "manufacturerName": "BMW",
+                "categoryId": 2
+              },
+              {
+                "carId": 502,
+                "name": "NSX GT500 '00",
+                "manufacturerId": 30,
+                "manufacturerName": "Honda",
+                "categoryId": 3
+              },
+              {
+                "carId": 475,
+                "name": "R32 GT-R Nismo '90",
+                "manufacturerId": 46,
+                "manufacturerName": "Nissan",
+                "categoryId": 6
+              },
+              {
+                "carId": 419,
+                "name": "Supra GT500 '97",
+                "manufacturerId": 63,
+                "manufacturerName": "Toyota",
+                "categoryId": 3
+              }
+            ]
+          },
+          "raceTrackName": "Suzuka Circuit"
+        }
+      ]
+    },
+    {
       "week": "2025-47",
       "startDateTime": "2025-11-24T07:00:00.000Z",
       "dailyRaces": [
