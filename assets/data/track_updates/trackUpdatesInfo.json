@@ -1,7 +1,7 @@
 {
   "fileType": "trackUpdatesInfo",
   "version": 3,
-  "updateVersion": "27.0",
+  "updateVersion": "28.0",
   "minAppVersion": "3.0.1",
   "tracks": [
     {
@@ -549,6 +549,18 @@
       "staticMapReverseFilePath_url": "Eiger_Nordwand_Reverse.v1.23.jpg",
       "animatedMapFilePath": "Eiger Nordwand.v1.23.svg",
       "animatedMapFilePath_url": "Eiger_Nordwand.v1.23.svg"
+    },
+    {
+      "trackId": 116,
+      "name": "Gilles-Villeneuve",
+      "hasNormalDirection": true,
+      "hasReverseDirection": false
+    },
+    {
+      "trackId": 117,
+      "name": "Yas Marina",
+      "hasNormalDirection": true,
+      "hasReverseDirection": false
     }
   ]
 }

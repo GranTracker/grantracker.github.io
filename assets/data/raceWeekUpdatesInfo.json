@@ -4,6 +4,91 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2025-49",
+      "startDateTime": "2025-12-08T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 116,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              3
+            ],
+            "specifiedCarIds": [
+              471,
+              470
+            ],
+            "laps": 7,
+            "tires": [
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 471,
+                "name": "SF23 Super Formula / Honda '23",
+                "manufacturerId": 59,
+                "manufacturerName": "Super Formula"
+              },
+              {
+                "carId": 470,
+                "name": "SF23 Super Formula / Toyota '23",
+                "manufacturerId": 59,
+                "manufacturerName": "Super Formula"
+              }
+            ]
+          },
+          "raceTrackName": "Gilles-Villeneuve"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 117,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Yas Marina"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 36,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1,
+              3
+            ],
+            "categoryId": 3,
+            "laps": 15,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              },
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
+          },
+          "raceTrackName": "Fuji"
+        }
+      ]
+    },
+    {
       "week": "2025-48",
       "startDateTime": "2025-12-01T07:00:00.000Z",
       "dailyRaces": [
