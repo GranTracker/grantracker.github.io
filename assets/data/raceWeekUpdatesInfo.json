@@ -4,6 +4,119 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2025-50",
+      "startDateTime": "2025-12-15T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 27,
+          "specs": {
+            "tireIds": [
+              1
+            ],
+            "specifiedCarIds": [
+              512,
+              54,
+              125,
+              511,
+              350,
+              445
+            ],
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 512,
+                "name": "296 GT3 '23",
+                "manufacturerId": 24,
+                "manufacturerName": "Ferrari",
+                "categoryId": 3
+              },
+              {
+                "carId": 54,
+                "name": "911 RSR (991) '17",
+                "manufacturerId": 51,
+                "manufacturerName": "Porsche",
+                "categoryId": 3
+              },
+              {
+                "carId": 125,
+                "name": "Corvette C7 Gr.3",
+                "manufacturerId": 14,
+                "manufacturerName": "Chevrolet",
+                "categoryId": 3
+              },
+              {
+                "carId": 511,
+                "name": "Mustang 2015 American Racer",
+                "manufacturerId": 26,
+                "manufacturerName": "Ford",
+                "categoryId": 6
+              },
+              {
+                "carId": 350,
+                "name": "RC F GT3 '17",
+                "manufacturerId": 39,
+                "manufacturerName": "Lexus",
+                "categoryId": 3
+              },
+              {
+                "carId": 445,
+                "name": "Viper SRT GT3-R '15",
+                "manufacturerId": 21,
+                "manufacturerName": "Dodge",
+                "categoryId": 3
+              }
+            ]
+          },
+          "raceTrackName": "Daytona Tri-Oval"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 84,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Sardegna Road Track A"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 69,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 2,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Nürburgring 24h"
+        }
+      ]
+    },
+    {
       "week": "2025-49",
       "startDateTime": "2025-12-08T07:00:00.000Z",
       "dailyRaces": [
