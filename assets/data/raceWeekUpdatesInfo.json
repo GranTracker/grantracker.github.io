@@ -4,6 +4,85 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2026-01",
+      "startDateTime": "2026-01-05T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 17,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              9
+            ],
+            "specifiedCarIds": [
+              279
+            ],
+            "laps": 8,
+            "tires": [
+              {
+                "tireId": 9,
+                "tireName": "CS"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 279,
+                "name": "Mazda3 '19",
+                "manufacturerId": 42,
+                "manufacturerName": "Mazda",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Brands Hatch Indy"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 112,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 7,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Willow Springs Big Willow"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 102,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              1,
+              2
+            ],
+            "categoryId": 3,
+            "laps": 11,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              },
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Tokyo Express South Counterclockwise"
+        }
+      ]
+    },
+    {
       "week": "2025-52",
       "startDateTime": "2025-12-29T07:00:00.000Z",
       "dailyRaces": [
