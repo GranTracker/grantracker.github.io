@@ -4,6 +4,80 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2026-02",
+      "startDateTime": "2026-01-12T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 26,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              4
+            ],
+            "specifiedCarIds": [
+              513
+            ],
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 4,
+                "tireName": "SH"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 513,
+                "name": "Mazda Spirit Racing Roadster 12R '25",
+                "manufacturerId": 42,
+                "manufacturerName": "Mazda",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Daytona Road Course"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 21,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Catalunya GP No Chicane"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 116,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Gilles-Villeneuve"
+        }
+      ]
+    },
+    {
       "week": "2026-01",
       "startDateTime": "2026-01-05T07:00:00.000Z",
       "dailyRaces": [
