@@ -4,6 +4,81 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2026-03",
+      "startDateTime": "2026-01-19T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 88,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              5
+            ],
+            "specifiedCarIds": [
+              204
+            ],
+            "laps": 9,
+            "tires": [
+              {
+                "tireId": 5,
+                "tireName": "SM"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 204,
+                "name": "GranTurismo S '08",
+                "manufacturerId": 41,
+                "manufacturerName": "Maserati",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Sardegna Road Track C"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 10,
+          "raceTrackReverse": true,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 9,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Blue Moon Infield A"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 26,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 1,
+            "laps": 15,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Daytona Road Course"
+        }
+      ]
+    },
+    {
       "week": "2026-02",
       "startDateTime": "2026-01-12T07:00:00.000Z",
       "dailyRaces": [
