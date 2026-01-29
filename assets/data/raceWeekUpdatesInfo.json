@@ -4,6 +4,69 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2026-04",
+      "startDateTime": "2026-01-26T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 23,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              12
+            ],
+            "categoryId": 5,
+            "laps": 7,
+            "tires": [
+              {
+                "tireId": 12,
+                "tireName": "Dirt"
+              }
+            ]
+          },
+          "raceTrackName": "Catalunya Rallycross"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 45,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Interlagos"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 95,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 2,
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Suzuka Circuit"
+        }
+      ]
+    },
+    {
       "week": "2026-03",
       "startDateTime": "2026-01-19T07:00:00.000Z",
       "dailyRaces": [
