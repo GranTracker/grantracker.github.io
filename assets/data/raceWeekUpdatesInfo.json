@@ -4,6 +4,80 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2026-07",
+      "startDateTime": "2026-02-16T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 98,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              8
+            ],
+            "specifiedCarIds": [
+              195
+            ],
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 8,
+                "tireName": "CM"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 195,
+                "name": "Golf I GTI '83",
+                "manufacturerId": 64,
+                "manufacturerName": "Volkswagen",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Tokyo Express Central Clockwise"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 30,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Dragon Trail - Gardens"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 63,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 14,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Laguna Seca"
+        }
+      ]
+    },
+    {
       "week": "2026-06",
       "startDateTime": "2026-02-09T07:00:00.000Z",
       "dailyRaces": [
