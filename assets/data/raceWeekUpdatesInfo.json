@@ -4,6 +4,80 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2026-08",
+      "startDateTime": "2026-02-23T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 115,
+          "specs": {
+            "bopId": 5,
+            "tireIds": [
+              6
+            ],
+            "specifiedCarIds": [
+              239
+            ],
+            "laps": 6,
+            "tires": [
+              {
+                "tireId": 6,
+                "tireName": "SS"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 239,
+                "name": "Impreza 22B-STi '98",
+                "manufacturerId": 58,
+                "manufacturerName": "Subaru",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Eiger Nordwand"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 106,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Watkins Glen Long Course"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 66,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              3
+            ],
+            "categoryId": 3,
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
+          },
+          "raceTrackName": "Mount Panorama"
+        }
+      ]
+    },
+    {
       "week": "2026-07",
       "startDateTime": "2026-02-16T07:00:00.000Z",
       "dailyRaces": [
