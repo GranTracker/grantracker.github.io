@@ -4,6 +4,85 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2026-12",
+      "startDateTime": "2026-03-23T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 86,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              5
+            ],
+            "specifiedCarIds": [
+              51
+            ],
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 5,
+                "tireName": "SM"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 51,
+                "name": "911 GT3 (996) '01",
+                "manufacturerId": 51,
+                "manufacturerName": "Porsche"
+              }
+            ]
+          },
+          "raceTrackName": "Sardegna Road Track B"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 57,
+          "raceTrackReverse": true,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 4,
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Lago Maggiore Full Course"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 77,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2,
+              3
+            ],
+            "categoryId": 3,
+            "laps": 13,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              },
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
+          },
+          "raceTrackName": "Road Atlanta"
+        }
+      ]
+    },
+    {
       "week": "2026-11",
       "startDateTime": "2026-03-16T07:00:00.000Z",
       "dailyRaces": [
