@@ -4,6 +4,81 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2026-14",
+      "startDateTime": "2026-04-06T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 16,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              9
+            ],
+            "specifiedCarIds": [
+              390
+            ],
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 9,
+                "tireName": "CS"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 390,
+                "name": "Sierra RS 500 Cosworth '87",
+                "manufacturerId": 26,
+                "manufacturerName": "Ford",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Brands Hatch GP"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 39,
+          "raceTrackReverse": true,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Grand Valley - Highway 1"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 95,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Suzuka Circuit"
+        }
+      ]
+    },
+    {
       "week": "2026-13",
       "startDateTime": "2026-03-30T07:00:00.000Z",
       "dailyRaces": [
