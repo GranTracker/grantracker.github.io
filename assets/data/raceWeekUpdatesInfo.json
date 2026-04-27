@@ -4,6 +4,84 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2026-17",
+      "startDateTime": "2026-04-27T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 107,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "specifiedCarIds": [
+              492
+            ],
+            "laps": 6,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 492,
+                "name": "W 196 R '55",
+                "manufacturerId": 44,
+                "manufacturerName": "Mercedes-Benz"
+              }
+            ]
+          },
+          "raceTrackName": "Watkins Glen Short Course"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 116,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Gilles-Villeneuve"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 26,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              2,
+              3
+            ],
+            "categoryId": 4,
+            "laps": 11,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              },
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
+          },
+          "raceTrackName": "Daytona Road Course"
+        }
+      ]
+    },
+    {
       "week": "2026-16",
       "startDateTime": "2026-04-20T07:00:00.000Z",
       "dailyRaces": [
