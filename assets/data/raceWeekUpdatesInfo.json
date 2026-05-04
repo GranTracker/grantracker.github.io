@@ -4,6 +4,80 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2026-18",
+      "startDateTime": "2026-05-04T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 103,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              4
+            ],
+            "specifiedCarIds": [
+              452
+            ],
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 4,
+                "tireName": "SH"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 452,
+                "name": "Wicked Fabrication GT 51",
+                "manufacturerId": 66,
+                "manufacturerName": "Wicked Fabrication",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Trial Mountain"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 47,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Kyoto Yamagiwa"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 93,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 1,
+            "laps": 11,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Spa-Francorchamps"
+        }
+      ]
+    },
+    {
       "week": "2026-17",
       "startDateTime": "2026-04-27T07:00:00.000Z",
       "dailyRaces": [
