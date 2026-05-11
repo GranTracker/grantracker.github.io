@@ -4,6 +4,80 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2026-19",
+      "startDateTime": "2026-05-11T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 98,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              8
+            ],
+            "specifiedCarIds": [
+              120
+            ],
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 8,
+                "tireName": "CM"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 120,
+                "name": "Copen '02",
+                "manufacturerId": 19,
+                "manufacturerName": "Daihatsu",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Tokyo Express Central Clockwise"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 112,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 7,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Willow Springs Big Willow"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 63,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 14,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Laguna Seca"
+        }
+      ]
+    },
+    {
       "week": "2026-18",
       "startDateTime": "2026-05-04T07:00:00.000Z",
       "dailyRaces": [
