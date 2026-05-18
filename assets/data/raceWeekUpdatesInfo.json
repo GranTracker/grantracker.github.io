@@ -4,6 +4,85 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2026-20",
+      "startDateTime": "2026-05-18T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 45,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              5
+            ],
+            "specifiedCarIds": [
+              148
+            ],
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 5,
+                "tireName": "SM"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 148,
+                "name": "Diablo GT '00",
+                "manufacturerId": 37,
+                "manufacturerName": "Lamborghini",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Interlagos"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 70,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 1,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Nürburgring Endurance"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 32,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1,
+              2
+            ],
+            "categoryId": 4,
+            "laps": 11,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              },
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Dragon Trail - Seaside"
+        }
+      ]
+    },
+    {
       "week": "2026-19",
       "startDateTime": "2026-05-11T07:00:00.000Z",
       "dailyRaces": [
