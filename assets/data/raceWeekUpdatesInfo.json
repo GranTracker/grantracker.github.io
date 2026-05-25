@@ -4,6 +4,85 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2026-21",
+      "startDateTime": "2026-05-25T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 95,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              9
+            ],
+            "specifiedCarIds": [
+              243
+            ],
+            "laps": 3,
+            "tires": [
+              {
+                "tireId": 9,
+                "tireName": "CS"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 243,
+                "name": "Integra Type R (DC2) '98",
+                "manufacturerId": 30,
+                "manufacturerName": "Honda",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Suzuka Circuit"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 28,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Deep Forest Raceway"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 106,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1,
+              3
+            ],
+            "categoryId": 3,
+            "laps": 11,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              },
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
+          },
+          "raceTrackName": "Watkins Glen Long Course"
+        }
+      ]
+    },
+    {
       "week": "2026-20",
       "startDateTime": "2026-05-18T07:00:00.000Z",
       "dailyRaces": [
