@@ -4,6 +4,80 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2026-22",
+      "startDateTime": "2026-06-01T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 99,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              1
+            ],
+            "specifiedCarIds": [
+              295
+            ],
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 295,
+                "name": "Mercedes-Benz AMG VGT Racing Series",
+                "manufacturerId": 1,
+                "manufacturerName": "AMG",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Tokyo Express East Clockwise"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 117,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Yas Marina"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 36,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 2,
+            "laps": 12,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Fuji"
+        }
+      ]
+    },
+    {
       "week": "2026-21",
       "startDateTime": "2026-05-25T07:00:00.000Z",
       "dailyRaces": [
