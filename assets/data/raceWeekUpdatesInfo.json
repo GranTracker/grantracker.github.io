@@ -4,6 +4,85 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2026-23",
+      "startDateTime": "2026-06-08T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 118,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              7
+            ],
+            "specifiedCarIds": [
+              406
+            ],
+            "laps": 6,
+            "tires": [
+              {
+                "tireId": 7,
+                "tireName": "CH"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 406,
+                "name": "Sports 800 '65",
+                "manufacturerId": 63,
+                "manufacturerName": "Toyota",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "BB Raceway"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 17,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Brands Hatch Indy"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 45,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1,
+              2
+            ],
+            "categoryId": 3,
+            "laps": 15,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              },
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Interlagos"
+        }
+      ]
+    },
+    {
       "week": "2026-22",
       "startDateTime": "2026-06-01T07:00:00.000Z",
       "dailyRaces": [
