@@ -4,6 +4,80 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2026-24",
+      "startDateTime": "2026-06-15T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 21,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              5
+            ],
+            "specifiedCarIds": [
+              63
+            ],
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 5,
+                "tireName": "SM"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 63,
+                "name": "A110 '17",
+                "manufacturerId": 5,
+                "manufacturerName": "Alpine",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Catalunya GP No Chicane"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 102,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Tokyo Express South Counterclockwise"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 86,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 15,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Sardegna Road Track B"
+        }
+      ]
+    },
+    {
       "week": "2026-23",
       "startDateTime": "2026-06-08T07:00:00.000Z",
       "dailyRaces": [
