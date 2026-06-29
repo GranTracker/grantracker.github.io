@@ -4,6 +4,85 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2026-26",
+      "startDateTime": "2026-06-29T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 9,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              4
+            ],
+            "specifiedCarIds": [
+              201
+            ],
+            "laps": 8,
+            "tires": [
+              {
+                "tireId": 4,
+                "tireName": "SH"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 201,
+                "name": "GR Yaris RZ \"High performance\" '20",
+                "manufacturerId": 63,
+                "manufacturerName": "Toyota",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Autopolis Shortcut"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 66,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Mount Panorama"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 28,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2,
+              3
+            ],
+            "categoryId": 3,
+            "laps": 16,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              },
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
+          },
+          "raceTrackName": "Deep Forest Raceway"
+        }
+      ]
+    },
+    {
       "week": "2026-25",
       "startDateTime": "2026-06-22T07:00:00.000Z",
       "dailyRaces": [
