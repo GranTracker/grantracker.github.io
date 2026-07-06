@@ -4,6 +4,129 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2026-27",
+      "startDateTime": "2026-07-06T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 84,
+          "raceTrackReverse": true,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              1
+            ],
+            "specifiedCarIds": [
+              358
+            ],
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 358,
+                "name": "Red Bull X2014 Junior",
+                "manufacturerId": 28,
+                "manufacturerName": "Gran Turismo",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Sardegna Road Track A"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 93,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Spa-Francorchamps"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 106,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2,
+              3
+            ],
+            "specifiedCarIds": [
+              516,
+              517,
+              518,
+              202,
+              515
+            ],
+            "laps": 12,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              },
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 516,
+                "name": "499P '23",
+                "manufacturerId": 24,
+                "manufacturerName": "Ferrari",
+                "categoryId": 6
+              },
+              {
+                "carId": 517,
+                "name": "963 '24",
+                "manufacturerId": 51,
+                "manufacturerName": "Porsche",
+                "categoryId": 6
+              },
+              {
+                "carId": 518,
+                "name": "9X8 '25",
+                "manufacturerId": 48,
+                "manufacturerName": "Peugeot",
+                "categoryId": 6
+              },
+              {
+                "carId": 202,
+                "name": "GR010 HYBRID ‘21",
+                "manufacturerId": 63,
+                "manufacturerName": "Toyota",
+                "categoryId": 1
+              },
+              {
+                "carId": 515,
+                "name": "M Hybrid V8 '25",
+                "manufacturerId": 11,
+                "manufacturerName": "BMW",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Watkins Glen Long Course"
+        }
+      ]
+    },
+    {
       "week": "2026-26",
       "startDateTime": "2026-06-29T07:00:00.000Z",
       "dailyRaces": [
