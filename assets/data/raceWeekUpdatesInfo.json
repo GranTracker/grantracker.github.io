@@ -4,6 +4,80 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2026-29",
+      "startDateTime": "2026-07-20T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 39,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              5
+            ],
+            "specifiedCarIds": [
+              325
+            ],
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 5,
+                "tireName": "SM"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 325,
+                "name": "NSX Type R '92",
+                "manufacturerId": 30,
+                "manufacturerName": "Honda",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Grand Valley - Highway 1"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 16,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 6,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Brands Hatch GP"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 116,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Gilles-Villeneuve"
+        }
+      ]
+    },
+    {
       "week": "2026-28",
       "startDateTime": "2026-07-13T07:00:00.000Z",
       "dailyRaces": [
