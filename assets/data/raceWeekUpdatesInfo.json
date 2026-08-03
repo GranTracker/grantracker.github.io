@@ -4,6 +4,80 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2026-31",
+      "startDateTime": "2026-08-03T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 64,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              6
+            ],
+            "specifiedCarIds": [
+              305
+            ],
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 6,
+                "tireName": "SS"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 305,
+                "name": "Murciélago LP 640 '09",
+                "manufacturerId": 37,
+                "manufacturerName": "Lamborghini",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Monza"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 75,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 4,
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Red Bull Ring"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 99,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 10,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Tokyo Express East Clockwise"
+        }
+      ]
+    },
+    {
       "week": "2026-30",
       "startDateTime": "2026-07-27T07:00:00.000Z",
       "dailyRaces": [
