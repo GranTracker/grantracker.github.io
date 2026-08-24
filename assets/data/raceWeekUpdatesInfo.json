@@ -4,6 +4,86 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2026-34",
+      "startDateTime": "2026-08-24T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 10,
+          "raceTrackReverse": true,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              5
+            ],
+            "specifiedCarIds": [
+              270
+            ],
+            "laps": 8,
+            "tires": [
+              {
+                "tireId": 5,
+                "tireName": "SM"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 270,
+                "name": "M4 '14",
+                "manufacturerId": 11,
+                "manufacturerName": "BMW",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Blue Moon Infield A"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 8,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 6,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Autopolis"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 80,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1,
+              2
+            ],
+            "categoryId": 2,
+            "laps": 12,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              },
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Sainte-Croix B"
+        }
+      ]
+    },
+    {
       "week": "2026-33",
       "startDateTime": "2026-08-17T07:00:00.000Z",
       "dailyRaces": [
