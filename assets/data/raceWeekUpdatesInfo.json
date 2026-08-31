@@ -4,6 +4,123 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2026-35",
+      "startDateTime": "2026-08-31T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 95,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              5
+            ],
+            "specifiedCarIds": [
+              110
+            ],
+            "laps": 3,
+            "tires": [
+              {
+                "tireId": 5,
+                "tireName": "SM"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 110,
+                "name": "Civic Type R (EK) Touring Car",
+                "manufacturerId": 30,
+                "manufacturerName": "Honda",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Suzuka Circuit"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 106,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Watkins Glen Long Course"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 2,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              2
+            ],
+            "specifiedCarIds": [
+              516,
+              517,
+              518,
+              202,
+              515
+            ],
+            "laps": 14,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 516,
+                "name": "499P '23",
+                "manufacturerId": 24,
+                "manufacturerName": "Ferrari",
+                "categoryId": 6
+              },
+              {
+                "carId": 517,
+                "name": "963 '24",
+                "manufacturerId": 51,
+                "manufacturerName": "Porsche",
+                "categoryId": 6
+              },
+              {
+                "carId": 518,
+                "name": "9X8 '25",
+                "manufacturerId": 48,
+                "manufacturerName": "Peugeot",
+                "categoryId": 6
+              },
+              {
+                "carId": 202,
+                "name": "GR010 HYBRID ‘21",
+                "manufacturerId": 63,
+                "manufacturerName": "Toyota",
+                "categoryId": 1
+              },
+              {
+                "carId": 515,
+                "name": "M Hybrid V8 '25",
+                "manufacturerId": 11,
+                "manufacturerName": "BMW",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "24 Heures du Mans"
+        }
+      ]
+    },
+    {
       "week": "2026-34",
       "startDateTime": "2026-08-24T07:00:00.000Z",
       "dailyRaces": [
