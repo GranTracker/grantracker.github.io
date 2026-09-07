@@ -4,6 +4,85 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2026-36",
+      "startDateTime": "2026-09-07T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 77,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              5
+            ],
+            "specifiedCarIds": [
+              354
+            ],
+            "laps": 7,
+            "tires": [
+              {
+                "tireId": 5,
+                "tireName": "SM"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 354,
+                "name": "RCZ Gr.3 Road Car",
+                "manufacturerId": 48,
+                "manufacturerName": "Peugeot",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Road Atlanta"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 66,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Mount Panorama"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 32,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2,
+              3
+            ],
+            "categoryId": 3,
+            "laps": 12,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              },
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
+          },
+          "raceTrackName": "Dragon Trail - Seaside"
+        }
+      ]
+    },
+    {
       "week": "2026-35",
       "startDateTime": "2026-08-31T07:00:00.000Z",
       "dailyRaces": [
