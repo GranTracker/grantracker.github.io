@@ -4,6 +4,79 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2026-37",
+      "startDateTime": "2026-09-14T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 28,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              6
+            ],
+            "specifiedCarIds": [
+              51
+            ],
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 6,
+                "tireName": "SS"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 51,
+                "name": "911 GT3 (996) '01",
+                "manufacturerId": 51,
+                "manufacturerName": "Porsche"
+              }
+            ]
+          },
+          "raceTrackName": "Deep Forest Raceway"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 64,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 6,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Monza"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 16,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 4,
+            "laps": 12,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Brands Hatch GP"
+        }
+      ]
+    },
+    {
       "week": "2026-36",
       "startDateTime": "2026-09-07T07:00:00.000Z",
       "dailyRaces": [
