@@ -4,6 +4,80 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2026-38",
+      "startDateTime": "2026-09-21T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 63,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              9
+            ],
+            "specifiedCarIds": [
+              312
+            ],
+            "laps": 6,
+            "tires": [
+              {
+                "tireId": 9,
+                "tireName": "CS"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 312,
+                "name": "Mustang Mach 1 '71",
+                "manufacturerId": 26,
+                "manufacturerName": "Ford",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Laguna Seca"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 36,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 4,
+            "laps": 6,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Fuji"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 84,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 11,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Sardegna Road Track A"
+        }
+      ]
+    },
+    {
       "week": "2026-37",
       "startDateTime": "2026-09-14T07:00:00.000Z",
       "dailyRaces": [
