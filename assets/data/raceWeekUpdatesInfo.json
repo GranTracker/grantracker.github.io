@@ -4,6 +4,85 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2026-40",
+      "startDateTime": "2026-10-05T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 71,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              4
+            ],
+            "specifiedCarIds": [
+              339
+            ],
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 4,
+                "tireName": "SH"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 339,
+                "name": "R34 GT-R V-spec II Nür '02",
+                "manufacturerId": 46,
+                "manufacturerName": "Nissan",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Nürburgring GP"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 47,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Kyoto Yamagiwa"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 26,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              1,
+              3
+            ],
+            "categoryId": 3,
+            "laps": 11,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              },
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
+          },
+          "raceTrackName": "Daytona Road Course"
+        }
+      ]
+    },
+    {
       "week": "2026-39",
       "startDateTime": "2026-09-28T07:00:00.000Z",
       "dailyRaces": [
