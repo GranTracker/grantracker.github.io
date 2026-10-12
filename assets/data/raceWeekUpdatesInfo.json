@@ -4,6 +4,85 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2026-41",
+      "startDateTime": "2026-10-12T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 75,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "specifiedCarIds": [
+              358
+            ],
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 358,
+                "name": "Red Bull X2014 Junior",
+                "manufacturerId": 28,
+                "manufacturerName": "Gran Turismo",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Red Bull Ring"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 93,
+          "specs": {
+            "bopId": 1,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Spa-Francorchamps"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 86,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              2,
+              3
+            ],
+            "categoryId": 4,
+            "laps": 15,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              },
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
+          },
+          "raceTrackName": "Sardegna Road Track B"
+        }
+      ]
+    },
+    {
       "week": "2026-40",
       "startDateTime": "2026-10-05T07:00:00.000Z",
       "dailyRaces": [
