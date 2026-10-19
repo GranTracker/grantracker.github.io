@@ -4,6 +4,80 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2026-42",
+      "startDateTime": "2026-10-19T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 116,
+          "specs": {
+            "bopId": 3,
+            "tireIds": [
+              6
+            ],
+            "specifiedCarIds": [
+              154
+            ],
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 6,
+                "tireName": "SS"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 154,
+                "name": "Enzo Ferrari '02",
+                "manufacturerId": 24,
+                "manufacturerName": "Ferrari",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Gilles-Villeneuve"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 45,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 6,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Interlagos"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 95,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 2,
+            "laps": 11,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Suzuka Circuit"
+        }
+      ]
+    },
+    {
       "week": "2026-41",
       "startDateTime": "2026-10-12T07:00:00.000Z",
       "dailyRaces": [
