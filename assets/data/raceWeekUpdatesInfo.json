@@ -4,6 +4,85 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2026-43",
+      "startDateTime": "2026-10-26T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 119,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              4
+            ],
+            "specifiedCarIds": [
+              169
+            ],
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 4,
+                "tireName": "SH"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 169,
+                "name": "Fairlady Z (Z34) '08",
+                "manufacturerId": 46,
+                "manufacturerName": "Nissan",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "SUGO International"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 112,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 4,
+            "laps": 7,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Willow Springs Big Willow"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 119,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2,
+              3
+            ],
+            "categoryId": 3,
+            "laps": 14,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              },
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
+          },
+          "raceTrackName": "SUGO International"
+        }
+      ]
+    },
+    {
       "week": "2026-42",
       "startDateTime": "2026-10-19T07:00:00.000Z",
       "dailyRaces": [
