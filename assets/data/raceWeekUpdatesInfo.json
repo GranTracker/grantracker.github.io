@@ -4,6 +4,85 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2026-44",
+      "startDateTime": "2026-11-02T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 30,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              9
+            ],
+            "specifiedCarIds": [
+              130
+            ],
+            "laps": 5,
+            "tires": [
+              {
+                "tireId": 9,
+                "tireName": "CS"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 130,
+                "name": "Corvette Convertible (C3) '69",
+                "manufacturerId": 14,
+                "manufacturerName": "Chevrolet",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Dragon Trail - Gardens"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 39,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 3,
+            "laps": 6,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Grand Valley - Highway 1"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 106,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1,
+              2
+            ],
+            "categoryId": 4,
+            "laps": 11,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              },
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Watkins Glen Long Course"
+        }
+      ]
+    },
+    {
       "week": "2026-43",
       "startDateTime": "2026-10-26T07:00:00.000Z",
       "dailyRaces": [
