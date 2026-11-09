@@ -4,6 +4,85 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2026-45",
+      "startDateTime": "2026-11-09T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 96,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              9
+            ],
+            "specifiedCarIds": [
+              242
+            ],
+            "laps": 7,
+            "tires": [
+              {
+                "tireId": 9,
+                "tireName": "CS"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 242,
+                "name": "Integra Type R (DC2) '95",
+                "manufacturerId": 30,
+                "manufacturerName": "Honda",
+                "categoryId": 6
+              }
+            ]
+          },
+          "raceTrackName": "Suzuka East"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 103,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 4,
+            "laps": 4,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Trial Mountain"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 77,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2,
+              3
+            ],
+            "categoryId": 3,
+            "laps": 14,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              },
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ]
+          },
+          "raceTrackName": "Road Atlanta"
+        }
+      ]
+    },
+    {
       "week": "2026-44",
       "startDateTime": "2026-11-02T07:00:00.000Z",
       "dailyRaces": [
