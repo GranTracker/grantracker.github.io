@@ -4,6 +4,86 @@
   "minAppVersion": "3.0.3",
   "weeks": [
     {
+      "week": "2026-46",
+      "startDateTime": "2026-11-16T07:00:00.000Z",
+      "dailyRaces": [
+        {
+          "raceLetter": "A",
+          "raceTrackId": 10,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              2
+            ],
+            "categoryId": 4,
+            "laps": 9,
+            "tires": [
+              {
+                "tireId": 2,
+                "tireName": "RM"
+              }
+            ]
+          },
+          "raceTrackName": "Blue Moon Infield A"
+        },
+        {
+          "raceLetter": "B",
+          "raceTrackId": 28,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              1
+            ],
+            "categoryId": 3,
+            "laps": 7,
+            "tires": [
+              {
+                "tireId": 1,
+                "tireName": "RH"
+              }
+            ]
+          },
+          "raceTrackName": "Deep Forest Raceway"
+        },
+        {
+          "raceLetter": "C",
+          "raceTrackId": 95,
+          "specs": {
+            "bopId": 2,
+            "tireIds": [
+              3
+            ],
+            "specifiedCarIds": [
+              471,
+              470
+            ],
+            "laps": 13,
+            "tires": [
+              {
+                "tireId": 3,
+                "tireName": "RS"
+              }
+            ],
+            "specifiedCars": [
+              {
+                "carId": 471,
+                "name": "SF23 Super Formula / Honda '23",
+                "manufacturerId": 59,
+                "manufacturerName": "Super Formula"
+              },
+              {
+                "carId": 470,
+                "name": "SF23 Super Formula / Toyota '23",
+                "manufacturerId": 59,
+                "manufacturerName": "Super Formula"
+              }
+            ]
+          },
+          "raceTrackName": "Suzuka Circuit"
+        }
+      ]
+    },
+    {
       "week": "2026-45",
       "startDateTime": "2026-11-09T07:00:00.000Z",
       "dailyRaces": [
